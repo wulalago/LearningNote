@@ -1,4 +1,4 @@
-# LearnningNote
+# LearningNote
 
 ## Basic Operation
 **Convolution**
