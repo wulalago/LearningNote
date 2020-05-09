@@ -1,4 +1,5 @@
 # LearningNote
+> A record of my course for deep learning
 
 ## Basic Operation
 **Convolution**
