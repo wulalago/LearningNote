@@ -27,6 +27,8 @@
   > PyTorch Library for Accelerating 3D Deep Learning Research
 - [kornia](https://github.com/kornia/kornia)
   > Open Source Differentiable Computer Vision Library for PyTorch
+- [pytorch-meta](https://github.com/tristandeleu/pytorch-meta)
+  > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
 
 ## Papers
 ### Summary, Survey and Review.
