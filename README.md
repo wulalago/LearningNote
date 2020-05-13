@@ -17,6 +17,14 @@
 - [Leaky Rectified Linear Unit, LeakyReLu](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 - [Parametric Rectified Linear Unit, PReLu](https://arxiv.org/abs/1502.01852)  
 
+**Dropout**
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://pdfs.semanticscholar.org/6c8b/30f63f265c32e26d999aa1fef5286b8308ad.pdf?_ga=2.6613809.2000749700.1589247527-1305559627.1585206618)
+
+**Attention Mechanism**
+- [Spatial Attention](https://arxiv.org/pdf/1502.03044.pdf)
+- [Channel Attention](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1287.pdf)
+- [Self Attention](https://arxiv.org/pdf/1805.08318.pdf)
+
 ## Program Framework
 ### [PyTorch](https://pytorch.org/)  
 > An open source machine learning framework that accelerates the path from research prototyping to production deployment.
@@ -32,7 +40,7 @@
   > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
 
 ## Papers
-### Summary, Survey and Review.
+### Summary, Survey and Review
 - **Deep Learning**   
   *Nature* (2015). [[Paper]](https://www.nature.com/articles/nature14539)
   > From Yann LeCun, Yoshua Bengio, Geoffrey Hinton.
