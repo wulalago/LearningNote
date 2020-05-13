@@ -9,6 +9,7 @@
 - [Batch Normalization](https://arxiv.org/abs/1502.03167)
 - [Group Normalization](https://arxiv.org/abs/1803.08494)
 - [Instance Normalization](https://arxiv.org/abs/1607.08022)
+- [Layer Normalizartion](https://arxiv.org/pdf/1607.06450.pdf)
 - [Adaptive Instance Normalization](https://arxiv.org/pdf/1703.06868.pdf)
 
 **Activation**  
