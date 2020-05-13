@@ -13,9 +13,9 @@
 - [Adaptive Instance Normalization](https://arxiv.org/pdf/1703.06868.pdf)
 
 **Activation**  
-- [Rectified Linear Unit, ReLu](http://proceedings.mlr.press/v15/glorot11a.html)
-- [Leaky Rectified Linear Unit, LeakyReLu](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
-- [Parametric Rectified Linear Unit, PReLu](https://arxiv.org/abs/1502.01852)  
+- [Rectified Linear Unit](http://proceedings.mlr.press/v15/glorot11a.html)
+- [Leaky Rectified Linear Unit](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
+- [Parametric Rectified Linear Unit](https://arxiv.org/abs/1502.01852)  
 
 **Dropout**
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://pdfs.semanticscholar.org/6c8b/30f63f265c32e26d999aa1fef5286b8308ad.pdf?_ga=2.6613809.2000749700.1589247527-1305559627.1585206618)
