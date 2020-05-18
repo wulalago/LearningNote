@@ -30,19 +30,21 @@
 ### [PyTorch](https://pytorch.org/)  
 > An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-#### Extension Library
-- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+### PyTorch Extension Library
+- [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
   > A Geometric Deep Learning Extension Library for PyTorch
-- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+- [Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
   > PyTorch Library for Accelerating 3D Deep Learning Research
-- [kornia](https://github.com/kornia/kornia)
+- [Kornia](https://github.com/kornia/kornia)
   > Open Source Differentiable Computer Vision Library for PyTorch
-- [pytorch-meta](https://github.com/tristandeleu/pytorch-meta)
+- [Torchmeta](https://github.com/tristandeleu/pytorch-meta)
   > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
   
-#### Third-party Library
+### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
-  > Advanced Normalization Tools in Python.
+  > Advanced Normalization Tools in Python
+- [CuPy](https://github.com/cupy/cupy)
+  > NumPy-like API Accelerated with CUDA
 
 ## Papers
 ### Summary, Survey and Review
