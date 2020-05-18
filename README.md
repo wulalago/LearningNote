@@ -39,6 +39,10 @@
   > Open Source Differentiable Computer Vision Library for PyTorch
 - [pytorch-meta](https://github.com/tristandeleu/pytorch-meta)
   > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
+  
+#### Third-party Library
+- [ANTsPy](https://github.com/ANTsX/ANTsPy)
+  > Advanced Normalization Tools in Python.
 
 ## Papers
 ### Summary, Survey and Review
