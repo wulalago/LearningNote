@@ -3,7 +3,7 @@
 
 ## Basic Operation
 **Convolution**
-- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)  
+- [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/abs/1603.07285)  
 
 **Normalization**
 - [Batch Normalization](https://arxiv.org/abs/1502.03167)
@@ -11,7 +11,6 @@
 - [Instance Normalization](https://arxiv.org/abs/1607.08022)
 - [Layer Normalizartion](https://arxiv.org/pdf/1607.06450.pdf)
 - [Adaptive Instance Normalization](https://arxiv.org/pdf/1703.06868.pdf)
-- [Attentive Normalization](https://arxiv.org/pdf/2004.03828.pdf)
 
 **Activation**  
 - [Rectified Linear Unit](http://proceedings.mlr.press/v15/glorot11a.html)
