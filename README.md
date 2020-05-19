@@ -61,4 +61,7 @@
   *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
   > From Sungha Choi<sup>1</sup> (Korea Univ.) and Jaegul Choo<sup>*</sup> (KAIST).
 
-
+### Blending
+- **GP-GAN: Towards Realistic High-Resolution Image Blending**  
+  *ACMMM* (2019). [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
+  > From Huikai Wu<sup>1</sup> (CASIA) and Kaiqi Huang<sup>*</sup> (CASIA).
