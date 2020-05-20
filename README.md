@@ -61,6 +61,11 @@
   *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
   > From Sungha Choi<sup>1</sup> (Korea Univ.) and Jaegul Choo<sup>*</sup> (KAIST).
 
+### Plane Localization
+- **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**   
+  *MICCAI* (2018). [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
+  > From Amir Alansary<sup>1</sup> (ICL) and Daniel Rueckert<sup>*</sup> (ICL)  
+
 ### Blending
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  
   *ACMMM* (2019). [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
