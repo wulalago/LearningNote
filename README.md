@@ -65,6 +65,9 @@
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**   
   *MICCAI* (2018). [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
   > From Amir Alansary<sup>1</sup> (ICL) and Daniel Rueckert<sup>*</sup> (ICL)  
+- **Ultrasound Video Summarization using Deep Reinforcement Learning**  
+  *MICCAI* (2020). [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
+  > From Tianrui Liu<sup>1</sup> (ICL) and Bernhard Kainz<sup>*</sup> (ICL)
 
 ### Blending
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  
