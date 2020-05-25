@@ -51,6 +51,10 @@
   *Nature* (2015). [[Paper]](https://www.nature.com/articles/nature14539)
   > From Yann LeCun, Yoshua Bengio, Geoffrey Hinton.
 
+### Recognition
+- **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
+  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
+
 ### Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  
   *CVPR* (2018). [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
