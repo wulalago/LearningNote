@@ -25,3 +25,7 @@
 - [Spatial Attention](https://arxiv.org/pdf/1502.03044.pdf)
 - [Channel Attention](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1287.pdf)
 - [Self Attention](https://arxiv.org/pdf/1805.08318.pdf)
+
+## Neural Network Module
+- [Non-local Block](https://arxiv.org/abs/1711.07971v1)
+- [Point Rend](https://arxiv.org/pdf/1912.08193.pdf)
