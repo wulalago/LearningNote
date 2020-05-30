@@ -45,7 +45,7 @@
 - [CuPy](https://github.com/cupy/cupy)
   > NumPy-like API Accelerated with CUDA
 
-## Papers
+## [Papers](Papers/Paper_summary.md)
 ### Summary, Survey and Review
 - **Deep Learning**   
   *Nature* (2015). [[Paper]](https://www.nature.com/articles/nature14539)
