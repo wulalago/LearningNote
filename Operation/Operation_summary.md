@@ -18,10 +18,10 @@
 - [Leaky Rectified Linear Unit](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 - [Parametric Rectified Linear Unit](https://arxiv.org/abs/1502.01852)  
 
-## Dropout**
+## Dropout
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://pdfs.semanticscholar.org/6c8b/30f63f265c32e26d999aa1fef5286b8308ad.pdf?_ga=2.6613809.2000749700.1589247527-1305559627.1585206618)
 
-**Attention Mechanism**
+## Attention Mechanism
 - [Spatial Attention](https://arxiv.org/pdf/1502.03044.pdf)
 - [Channel Attention](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1287.pdf)
 - [Self Attention](https://arxiv.org/pdf/1805.08318.pdf)
