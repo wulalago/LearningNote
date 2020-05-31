@@ -21,6 +21,9 @@
 - **Deep Learning for Cardiac Image Segmentation: A Review**  
   *Frontiers in Cardiovascular Medicine* (2020). [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
   > From Chen Chen<sup>1</sup> (ICL) and Daniel Rueckert<sup>*</sup> (ICL)
+- **Bag of Tricks for Image Classification with Convolutional Neural Networks**  
+  *CVPR* (2019). [[Paper]](https://arxiv.org/pdf/1812.01187v2.pdf)
+  > From Tong He<sup>1</sup> (AWS) and Mu Li<sup>*</sup> (AWS)
 
 ### Recognition
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
