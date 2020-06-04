@@ -39,6 +39,9 @@
 - **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
   > From Sungha Choi<sup>1</sup> (Korea Univ.) and Jaegul Choo<sup>*</sup> (KAIST).
+- **Learning Active Contour Models for Medical Image Segmentation**  
+  *CVPR* (2019). [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
+  > From Xu Chen<sup>1</sup> (Univ. of Liverpool) and Yalin Zheng<sup>*</sup> (Univ. of Liverpool).
 
 ### Plane Localization
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**   
