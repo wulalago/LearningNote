@@ -38,6 +38,11 @@
   *CVPR* (2019). [[Paper]](https://arxiv.org/pdf/1812.01187v2.pdf)
   > From Tong He<sup>1</sup> (AWS) and Mu Li<sup>*</sup> (AWS)
 
+### Learning
+- **Robust Learning Through Cross-Task Consistency**  
+  *CVPR* (2020). [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
+  > From Amir R. Zamir<sup>1</sup> (EPFL), Alexander Sax<sup>1</sup> (UC Berkeley) and Leonidas Guibas<sup>*</sup> (Stanford University)
+
 ### Recognition
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
   *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
