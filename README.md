@@ -32,7 +32,7 @@
 ### Summary, Survey and Review
 - **Deep Learning**   
   *Nature* (2015). [[Paper]](https://www.nature.com/articles/nature14539)
-  > From Yann LeCun, Yoshua Bengio, Geoffrey Hinton.
+  > From Yann LeCun (FAIR & NYU), Yoshua Bengio (Univ. de Montréal), Geoffrey Hinton (Google & Univ. of Toronto).
 - **Deep Learning for Cardiac Image Segmentation: A Review**  
   *Frontiers in Cardiovascular Medicine* (2020). [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
   > From Chen Chen<sup>1</sup> (ICL) and Daniel Rueckert<sup>*</sup> (ICL)
@@ -43,7 +43,7 @@
 ### Learning
 - **Robust Learning Through Cross-Task Consistency**  
   *CVPR* (2020). [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
-  > From Amir R. Zamir<sup>1</sup> (EPFL), Alexander Sax<sup>1</sup> (UC Berkeley) and Leonidas Guibas<sup>*</sup> (Stanford University)
+  > From Amir R. Zamir<sup>1</sup> (EPFL), Alexander Sax<sup>1</sup> (UC Berkeley) and Leonidas Guibas<sup>*</sup> (Stanford Univ.)
 
 ### Recognition
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
@@ -53,7 +53,10 @@
 ### Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  
   *CVPR* (2018). [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
-  > From Balakrishnan, Guha<sup>1</sup> (MIT) and Adrian V. Dalca<sup>*</sup> (MIT&MGH).
+  > From Balakrishnan Guha<sup>1</sup> (MIT) and Adrian V. Dalca<sup>*</sup> (MIT & MGH).
+- **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  
+  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
+  > From Fengze Liu<sup>1</sup> (PAII Inc. & Johns Hopkins Univ.) and Adam P Harrison<sup>*</sup> (PAII Inc.)
   
 ### Segmentation
 - **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  
