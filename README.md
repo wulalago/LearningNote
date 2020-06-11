@@ -16,6 +16,8 @@
   > Open Source Differentiable Computer Vision Library for PyTorch
 - [Torchmeta](https://github.com/tristandeleu/pytorch-meta)
   > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
+- [MONAI](https://github.com/Project-MONAI/MONAI)
+  > AI Toolkit for Healthcare Imaging 
   
 ### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
