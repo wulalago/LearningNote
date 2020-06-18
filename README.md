@@ -72,6 +72,9 @@
 - **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/abs/1911.10334)  
   > From Xuan Liao<sup>1</sup> (SJTU), Wenhao Li<sup>1</sup> (East China Normal Univ.) and Yanfeng Wang  <sup>*</sup> (SJTU)
+- **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  
+  **ICCV** (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
+  > From Wuyang Chen<sup>1</sup> (TAMU), Ziyu Jiang<sup>1</sup>  (TAMU) and Xiaoning Qian<sup>*</sup> (TAMU)
  
  ### Plane Localization
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**   
