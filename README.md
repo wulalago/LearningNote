@@ -18,6 +18,8 @@
   > A Collection of Extensions and Data-loaders for Few-shot Learning & Meta-learning in PyTorch
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
   > The Lightweight PyTorch Wrapper for ML Researchers
+- [Tianshou](https://github.com/thu-ml/tianshou)
+  > An Elegant, Flexible, and Superfast PyTorch Deep Reinforcement Learning Platform
 
   
 ### Python Extension Library
