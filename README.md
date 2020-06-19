@@ -46,7 +46,7 @@
   *CVPR* (2020). [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
   > From Amir R. Zamir<sup>1</sup> (EPFL), Alexander Sax<sup>1</sup> (UC Berkeley) and Leonidas Guibas<sup>*</sup> (Stanford Univ.)
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**   
-  ** (2020). [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
+  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
   > From Bryan A. Plummer<sup>1</sup> (Boston Univ.) and Kate Saenko<sup>*</sup> (Boston Univ. & MIT-IBM Watson AI Lab) 
 
 ### Recognition
