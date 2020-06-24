@@ -27,6 +27,8 @@
   > Advanced Normalization Tools in Python
 - [CuPy](https://github.com/cupy/cupy)
   > NumPy-like API Accelerated with CUDA
+- [MedPy](https://github.com/loli/medpy)  
+  > Medical Image Processing in Python
 
 
 ## Papers
