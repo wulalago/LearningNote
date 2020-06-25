@@ -97,5 +97,10 @@
   > From Huikai Wu<sup>1</sup> (CASIA) and Kaiqi Huang<sup>*</sup> (CASIA).
 
 ## CodeBox
-TO DO
+> CodeBox for fast coding  
+
+- **Metrics**
+  - registration
+    - negative_Jacobian
+      > Calculate the Negative Jacobian of the deformation filed
 
