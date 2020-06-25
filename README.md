@@ -102,5 +102,4 @@
 - **Metrics**
   - registration
     - negative_Jacobian
-      > Calculate the Negative Jacobian of the deformation filed
 
