@@ -100,6 +100,6 @@
 > CodeBox for fast coding  
 
 - **Metrics**
-  - registration
+  - [registration](codebox/metrics/registration.py)
     - negative_Jacobian
 
