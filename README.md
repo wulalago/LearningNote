@@ -55,7 +55,7 @@
 
 ### Recognition
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
-  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
+  *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
   > From Prateek Shroff<sup>1</sup> (TAMU) and Zhangyang Wang<sup>*</sup> (TAMU)
 
 ### Registration
