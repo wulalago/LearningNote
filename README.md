@@ -1,7 +1,7 @@
 # LearningNote
 > A record of my course for deep learning
 
-## [Programming Framework](Programming/Library_summary.md)
+## Programming Framework
 > Contents of the programming framework for machine learning and medical image computing.  
 
 ### [PyTorch](https://pytorch.org/)  
