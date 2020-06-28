@@ -85,7 +85,7 @@
   > From Xuan Liao<sup>1</sup> (SJTU), Wenhao Li<sup>1</sup> (East China Normal Univ.) and Yanfeng Wang<sup>*</sup> (SJTU)
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/abs/2004.04581) [[Code]](https://github.com/YudeWang/SEAM)
-  > From Yude Wang<sup>1</sup> (UCAS & ICT of CAS) and Xilin Chen<sup>*</sup> (UCAS & ICT of CAS)
+  > From Yude Wang<sup>1</sup> (UCAS & CAS) and Xilin Chen<sup>*</sup> (UCAS & CAS)
   
  
  ### Plane Localization
@@ -96,10 +96,13 @@
   *MICCAI* (2020). [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
   > From Tianrui Liu<sup>1</sup> (ICL) and Bernhard Kainz<sup>*</sup> (ICL)
 
-### Blending
+### Blending, Simulation
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  
   *ACMMM* (2019). [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
-  > From Huikai Wu<sup>1</sup> (IA of CAS) and Kaiqi Huang<sup>*</sup> (IA of CAS).
+  > From Huikai Wu<sup>1</sup> (CAS) and Kaiqi Huang<sup>*</sup> (CAS).
+- **Learning to Simulate Complex Scenes**  
+  *ACMMM* (2019). [[Paper]](https://arxiv.org/pdf/2006.14611.pdf)
+  > From Zhenfeng Xue<sup>1</sup> (Zhejiang Univ.) and Weijie Mao<sup>*</sup> (Zhejiang Univ.)
 
 ## CodeBox
 > CodeBox for fast coding  
