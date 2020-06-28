@@ -9,7 +9,7 @@ def negative_Jacobian(deformation_array, proportion=False):
     ==========================================================
     input:
     deformation_array: ndarray of 3D deformation filed
-    proportion:
+    proportion: option for return the proportion of negative Jacobian
 
     output:
     cnt: number of negative Jacobin voxels
