@@ -108,6 +108,8 @@
 > CodeBox for fast coding  
 
 - **Metrics**
+  - [segmentation](codebox/metrics/segmentation.py)
+    - dice_ratio
   - [registration](codebox/metrics/registration.py)
     - negative_Jacobian
 
