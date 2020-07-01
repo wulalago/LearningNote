@@ -103,7 +103,7 @@
 - **Learning to Simulate Complex Scenes**  
   *ACMMM* (2019). [[Paper]](https://arxiv.org/pdf/2006.14611.pdf)
   > From Zhenfeng Xue<sup>1</sup> (Zhejiang Univ.) and Weijie Mao<sup>*</sup> (Zhejiang Univ.)
-- **Learning to Simulate**
+- **Learning to Simulate**  
   *ICLR* (2019). [[Paper]](http://arxiv.org/pdf/1810.02513v2.pdf)
   > From Nataniel Ruiz<sup>1</sup> (Boston Univ.) and Manmohan Chandraker<sup>*</sup> (NEC Lab America & UC San Diego)
 
