@@ -53,6 +53,9 @@
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**   
   *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
   > From Bryan A. Plummer<sup>1</sup> (Boston Univ.) and Kate Saenko<sup>*</sup> (Boston Univ. & MIT-IBM Watson AI Lab) 
+- **A Simple Framework for Contrastive Learning of Visual Representations**   
+  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
+  > From Ting Chen<sup>1</sup> (Google) and Geoffrey Hinton<sup>*</sup> (Google)
 
 ### Recognition
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
