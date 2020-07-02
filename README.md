@@ -71,6 +71,9 @@
   > From Fengze Liu<sup>1</sup> (PAII Inc. & Johns Hopkins Univ.) and Adam P Harrison<sup>*</sup> (PAII Inc.)
   
 ### Segmentation
+- **Attention U-Net: Learning Where to Look for the Pancreas**  
+  *MIDL* (2018). [[Paper]](https://openreview.net/pdf?id=Skft7cijM) [[Code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
+  > From Ozan Oktay<sup>1</sup> (ICL & Babylon Health) and Daniel Rueckert<sup>*</sup> (ICL)
 - **Learning Active Contour Models for Medical Image Segmentation**  
   *CVPR* (2019). [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
   > From Xu Chen<sup>1</sup> (Univ. of Liverpool) and Yalin Zheng<sup>*</sup> (Univ. of Liverpool).
