@@ -69,6 +69,9 @@
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  
   *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
   > From Fengze Liu<sup>1</sup> (PAII Inc. & Johns Hopkins Univ.) and Adam P Harrison<sup>*</sup> (PAII Inc.)
+- **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  
+  *MICCAI* (2020). [[Paper]](https://arxiv.org/pdf/2007.02790.pdf)
+  > From Zhe Xu<sup>1</sup> (Tsinghua Univ. & BWH) and Jayender Jagadeesan<sup>*</sup> (BWH)
   
 ### Segmentation
 - **Attention U-Net: Learning Where to Look for the Pancreas**  
