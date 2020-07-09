@@ -45,14 +45,10 @@
   *Frontiers in Cardiovascular Medicine* (2020). [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
   > From Chen Chen<sup>1</sup> (ICL) and Daniel Rueckert<sup>*</sup> (ICL)
   
-
-### Learning
+### Contrast and Consistent Learning
 - **Robust Learning Through Cross-Task Consistency**  
   *CVPR* (2020). [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
   > From Amir R. Zamir<sup>1</sup> (EPFL), Alexander Sax<sup>1</sup> (UC Berkeley) and Leonidas Guibas<sup>*</sup> (Stanford Univ.)
-- **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**   
-  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
-  > From Bryan A. Plummer<sup>1</sup> (Boston Univ.) and Kate Saenko<sup>*</sup> (Boston Univ. & MIT-IBM Watson AI Lab) 
 - **A Simple Framework for Contrastive Learning of Visual Representations**   
   *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
   > From Ting Chen<sup>1</sup> (Google) and Geoffrey Hinton<sup>*</sup> (Google)
@@ -74,29 +70,33 @@
   > From Zhe Xu<sup>1</sup> (Tsinghua Univ. & BWH) and Jayender Jagadeesan<sup>*</sup> (BWH)
   
 ### Segmentation
-- **Attention U-Net: Learning Where to Look for the Pancreas**  
-  *MIDL* (2018). [[Paper]](https://openreview.net/pdf?id=Skft7cijM) [[Code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
-  > From Ozan Oktay<sup>1</sup> (ICL & Babylon Health) and Daniel Rueckert<sup>*</sup> (ICL)
-- **Learning Active Contour Models for Medical Image Segmentation**  
-  *CVPR* (2019). [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
-  > From Xu Chen<sup>1</sup> (Univ. of Liverpool) and Yalin Zheng<sup>*</sup> (Univ. of Liverpool).
+#### High Resolution and Efficient Model
 - **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  
   *ICCV* (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
   > From Wuyang Chen<sup>1</sup> (TAMU), Ziyu Jiang<sup>1</sup>  (TAMU) and Xiaoning Qian<sup>*</sup> (TAMU)
-- **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  
-  *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
-  > From Sungha Choi<sup>1</sup> (Korea Univ.) and Jaegul Choo<sup>*</sup> (KAIST).
+### Semi-, Weakly, and One-shot
 - **LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/abs/2003.07072)
   > From Shuxin Wang<sup>1</sup> (Xiamen Univ. & Jarvis Lab), Shilei Cao<sup>1</sup> (Jarvis Lab), Dong Wei<sup>1</sup> (Jarvis Lab) and Yefeng Zheng<sup>*</sup> (Jarvis Lab)
-- **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**  
-  *CVPR* (2020). [[Paper]](https://arxiv.org/abs/1911.10334)  
-  > From Xuan Liao<sup>1</sup> (SJTU), Wenhao Li<sup>1</sup> (East China Normal Univ.) and Yanfeng Wang<sup>*</sup> (SJTU)
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/abs/2004.04581) [[Code]](https://github.com/YudeWang/SEAM)
   > From Yude Wang<sup>1</sup> (UCAS & CAS) and Xilin Chen<sup>*</sup> (UCAS & CAS)
+### Interaction
+- **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**  
+  *CVPR* (2020). [[Paper]](https://arxiv.org/abs/1911.10334)  
+  > From Xuan Liao<sup>1</sup> (SJTU), Wenhao Li<sup>1</sup> (East China Normal Univ.) and Yanfeng Wang<sup>*</sup> (SJTU)
+### Uncertainty and Attention
+- **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  
+  *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
+  > From Sungha Choi<sup>1</sup> (Korea Univ.) and Jaegul Choo<sup>*</sup> (KAIST).
+- **Attention U-Net: Learning Where to Look for the Pancreas**  
+  *MIDL* (2018). [[Paper]](https://openreview.net/pdf?id=Skft7cijM) [[Code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
+  > From Ozan Oktay<sup>1</sup> (ICL & Babylon Health) and Daniel Rueckert<sup>*</sup> (ICL)
+### Loss Function
+- **Learning Active Contour Models for Medical Image Segmentation**  
+  *CVPR* (2019). [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
+  > From Xu Chen<sup>1</sup> (Univ. of Liverpool) and Yalin Zheng<sup>*</sup> (Univ. of Liverpool).
   
- 
  ### Plane Localization
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**   
   *MICCAI* (2018). [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
@@ -115,6 +115,11 @@
 - **Learning to Simulate**  
   *ICLR* (2019). [[Paper]](http://arxiv.org/pdf/1810.02513v2.pdf)
   > From Nataniel Ruiz<sup>1</sup> (Boston Univ.) and Manmohan Chandraker<sup>*</sup> (NEC Lab America & UC San Diego)
+
+### Other
+- **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**   
+  *ArXiv* (2020). [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
+  > From Bryan A. Plummer<sup>1</sup> (Boston Univ.) and Kate Saenko<sup>*</sup> (Boston Univ. & MIT-IBM Watson AI Lab) 
 
 ## CodeBox
 > CodeBox for fast coding  
