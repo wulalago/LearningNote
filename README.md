@@ -71,8 +71,11 @@
   
 ### Segmentation
 #### High Resolution and Efficient Model
+- **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  
+  *ECCV* (2018). [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
+  > From Hengshuang Zhao<sup>1</sup> (CUHK) and Jiaya Jia<sup>*</sup> (CUHK & Tencent Youtu Lab)
 - **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  
-  *ICCV* (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
+  *ICCV* (2019). [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
   > From Wuyang Chen<sup>1</sup> (TAMU), Ziyu Jiang<sup>1</sup>  (TAMU) and Xiaoning Qian<sup>*</sup> (TAMU)
 #### Semi, Weakly, and One-shot
 - **LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation**  
