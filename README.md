@@ -1,6 +1,9 @@
 # LearningNote
 > A record of my course for deep learning
 
+## Recent Update
+- Paper: GANomaly
+
 ## Programming Framework
 > Contents of the programming framework for machine learning and medical image computing.  
 
@@ -30,7 +33,6 @@
 - [MedPy](https://github.com/loli/medpy)  
   > Medical Image Processing in Python
 
-
 ## Papers
 > Paper list for deep learning in computer vision and medical image computing. 
 
@@ -57,6 +59,12 @@
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
   > From Prateek Shroff<sup>1</sup> (TAMU) and Zhangyang Wang<sup>*</sup> (TAMU)
+
+### Detection
+#### Anomaly Detection:
+**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  
+  *ACCV* (2018). [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
+  > From Samet Akcay<sup>1</sup> (Durham Univ.) and Toby P. Breckon<sup>*</sup> (Durham Univ.)
 
 ### Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  
