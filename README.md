@@ -75,8 +75,12 @@
   > From Fengze Liu<sup>1</sup> (PAII Inc. & Johns Hopkins Univ.) and Adam P Harrison<sup>*</sup> (PAII Inc.)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  
   *MICCAI* (2020). [[Paper]](https://arxiv.org/pdf/2007.02790.pdf)
-  > From Zhe Xu<sup>1</sup> (Tsinghua Univ. & BWH) and Jayender Jagadeesan<sup>*</sup> (BWH)
-  
+  > From Zhe Xu<sup>1</sup> (Tsinghua Univ. & BWH) and Jayender Jagadeesan<sup>*</sup> (BWH)    
+- **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**    
+  *CVPR* (2020). [[Paper]](https://arxiv.org/abs/2003.08073) 
+  > From Moab Arar<sup>1</sup> (Tel Aviv Univ.) and Daniel Cohen-Or<sup>*</sup> (Tel Aviv Univ.)   
+
+
 ### Segmentation
 #### High Resolution and Efficient Model
 - **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  
