@@ -59,7 +59,7 @@
 
 ### Detection
 #### Anomaly Detection:
-**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  
+- **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  
   *ACCV* (2018). [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
   > From Samet Akcay<sup>1</sup> (Durham Univ.) and Toby P. Breckon<sup>*</sup> (Durham Univ.)
 
