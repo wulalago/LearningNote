@@ -1,9 +1,6 @@
 # LearningNote
 > A record of my course for deep learning
 
-## Recent Update
-- Paper: GANomaly
-
 ## Programming Framework
 > Contents of the programming framework for machine learning and medical image computing.  
 
