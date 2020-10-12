@@ -20,6 +20,8 @@
   > The Lightweight PyTorch Wrapper for ML Researchers
 - [Tianshou](https://github.com/thu-ml/tianshou)
   > An Elegant, Flexible, and Superfast PyTorch Deep Reinforcement Learning Platform
+- [PyTorch Points3D](https://github.com/nicolas-chaulet/torch-points3d)
+  > Pytorch Framework for Doing Deep Learning on Point Clouds.
 
   
 ### Python Extension Library
