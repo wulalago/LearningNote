@@ -58,6 +58,10 @@
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification**  
   *CVPR* (2020). [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
   > From Prateek Shroff<sup>1</sup> (TAMU) and Zhangyang Wang<sup>*</sup> (TAMU)
+- **MixConv: Mixed Depthwise Convolutional Kernels**  
+  *BMVC* (2019). [[Paper]](https://arxiv.org/pdf/1907.09595.pdf) [[Code]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)    
+  > From Mingxing Tan<sup>1</sup> (Google Brain) and Quoc V. Le<sup>*</sup> (Google Brain)
+  
 
 ### Detection
 #### Anomaly Detection:
