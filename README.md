@@ -37,8 +37,10 @@
 
 ### Summary, Survey and Review
 - **Deep Learning**  *Nature* (2015) [[Paper]](https://www.nature.com/articles/nature14539)
+- **A Survey on Deep Learning in Medical Image Analysis**  *Medical Image Analysis* (2017) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841517301135)
 - **Bag of Tricks for Image Classification with Convolutional Neural Networks**  *CVPR* (2019) [[Paper]](https://arxiv.org/pdf/1812.01187v2.pdf)
 - **Deep Learning for Cardiac Image Segmentation: A Review**  *Frontiers in Cardiovascular Medicine* (2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
+- **Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9086055)
   
 ### Contrast and Consistent Learning
 - **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
@@ -49,6 +51,12 @@
 - **MixConv: Mixed Depthwise Convolutional Kernels**  *BMVC* (2019). [[Paper]](https://arxiv.org/pdf/1907.09595.pdf) [[Code]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)    
   
 ### Detection
+- **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation**  *CVPR* (2014) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Code]](https://github.com/rbgirshick/rcnn)
+- **Fast R-CNN** *ICCV* (2015) [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[Code]](https://github.com/rbgirshick/fast-rcnn)
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** *NeurIPS* (2015) [[Paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[Code]](https://github.com/ShaoqingRen/faster_rcnn)
+- **Focal Loss for Dense Object Detection**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
+- **Feature Pyramid Networks for Object Detection**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
+- **Mask R-CNN**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 #### Anomaly Detection:
 - **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  *ACCV* (2018) [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
 
@@ -62,7 +70,6 @@
 ### Segmentation
 #### High Resolution and Efficient Model
 - **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  *ECCV* (2018) [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
-
 - **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  *ICCV* (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
 
 #### Semi, Weakly, and One-shot
