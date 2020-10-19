@@ -63,6 +63,7 @@
 - **3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation**  *MICCAI* (2016) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)
 - **V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**  *3DV* (2016) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7785132)
 - **UNet++: A Nested U-Net Architecture for Medical Image Segmentation**  *DLMIA* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1)
+- **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2018) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7913730)
 
 #### High Resolution and Efficient Model
 - **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  *ECCV* (2018) [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
@@ -84,17 +85,15 @@
 #### Loss Function
 - **Learning Active Contour Models for Medical Image Segmentation**  *CVPR* (2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
   
-### Contrast and Consistent Learning
-- **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
-- **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
-  
 ### Detection
 - **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation**  *CVPR* (2014) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Code]](https://github.com/rbgirshick/rcnn)
 - **Fast R-CNN** *ICCV* (2015) [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[Code]](https://github.com/rbgirshick/fast-rcnn)
-- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** *NeurIPS* (2015) [[Paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[Code]](https://github.com/ShaoqingRen/faster_rcnn)
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**  *NeurIPS* (2015) [[Paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[Code]](https://github.com/ShaoqingRen/faster_rcnn)
+- **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2015) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7005506)
 - **Focal Loss for Dense Object Detection**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
 - **Feature Pyramid Networks for Object Detection**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
 - **Mask R-CNN**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+
 #### Anomaly Detection:
 - **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  *ACCV* (2018) [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
 
@@ -103,6 +102,10 @@
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
 - **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.08073) 
+  
+### Contrast and Consistent Learning
+- **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
+- **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
 
 ### Plane Localization
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
