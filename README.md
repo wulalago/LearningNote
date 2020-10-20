@@ -101,7 +101,6 @@
 
 ### Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
-
 #### Multi-modal
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
