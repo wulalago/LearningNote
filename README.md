@@ -102,6 +102,7 @@
 ### Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
 #### Multi-modal
+- **Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**  *Medical Image Analysis* (208) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
@@ -111,7 +112,9 @@
 - **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
 - **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
 
-### Plane Localization
+### View Planning
+- **SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7974824) [[Code]](https://github.com/baumgach/SonoNet-weights)
+- **Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**  *MICCAI* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45) [[Code]](https://github.com/yuanwei1989/plane-detection)
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
 - **Ultrasound Video Summarization using Deep Reinforcement Learning**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
 
