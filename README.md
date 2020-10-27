@@ -108,7 +108,10 @@
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
 - **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.08073) 
-  
+
+### Known Operator
+- **PYRO-NN: Python Reconstruction Operators in Neural Networks**  *Medical Physics* (2019) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31389023/) [[Code]](https://github.com/csyben/PYRO-NN)
+
 ### Contrast and Consistent Learning
 - **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
 - **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
