@@ -31,7 +31,9 @@
   > NumPy-like API Accelerated with CUDA
 - [MedPy](https://github.com/loli/medpy)  
   > Medical Image Processing in Python
-
+- [SimpleITK](https://github.com/SimpleITK/SimpleITK)
+  > An Image Analysis Toolkit
+  
 ## Papers
 > Paper list for deep learning in computer vision and medical image computing. 
 
