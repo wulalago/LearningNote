@@ -128,6 +128,9 @@
 - **Learning to Simulate Complex Scenes**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/2006.14611.pdf)
 - **Learning to Simulate**  *ICLR* (2019) [[Paper]](http://arxiv.org/pdf/1810.02513v2.pdf)
 
+#### MR Simulator
+- **Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7676360) [[Code]](https://github.com/leoliuf/MRiLab)
+
 ### Other
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
 
