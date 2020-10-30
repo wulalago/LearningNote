@@ -121,7 +121,7 @@
 ### View Planning
 - **SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7974824) [[Code]](https://github.com/baumgach/SonoNet-weights)
 - **Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**  *MICCAI* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45) [[Code]](https://github.com/yuanwei1989/plane-detection)
-- **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ)  
+- **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ) 
 - **Ultrasound Video Summarization using Deep Reinforcement Learning**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
 
 
@@ -132,6 +132,7 @@
 
 #### MR Simulator
 - **Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7676360) [[Code]](https://github.com/leoliuf/MRiLab)
+- **MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/6671435)
 
 ### Other
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
