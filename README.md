@@ -55,6 +55,7 @@
 - **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**  *AAAI* (2017) [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) 
 - **Densely Connected Convolutional Networks**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf) [[Code]](https://github.com/liuzhuang13/DenseNet)
 - **Aggregated Residual Transformations for Deep Neural Networks**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf) [[Code]](https://github.com/facebookresearch/ResNeXt)
+- **Dynamic Routing Between Capsules** *NeurIPS* （2017）[[Paper]](https://arxiv.org/pdf/1710.09829.pdf)
 - **Squeeze-and-Excitation Networks**  *CVPR* (2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) [[Code]](https://github.com/hujie-frank/SENet)
 - **MixConv: Mixed Depthwise Convolutional Kernels**  *BMVC* (2019) [[Paper]](https://arxiv.org/pdf/1907.09595.pdf) [[Code]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)    
 - **Res2Net: A New Multi-scale Backbone Architecture**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8821313) [[Code]](https://github.com/Res2Net)
