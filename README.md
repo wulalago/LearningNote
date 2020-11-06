@@ -71,6 +71,7 @@
 - **V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**  *3DV* (2016) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7785132)
 - **UNet++: A Nested U-Net Architecture for Medical Image Segmentation**  *DLMIA* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1)
 - **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2018) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7913730)
+- **Capsules for Biomedical Image Segmentation** *Medical Image Analysis* (2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S136184152030253X)
 
 #### High Resolution and Efficient Model
 - **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  *ECCV* (2018) [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
