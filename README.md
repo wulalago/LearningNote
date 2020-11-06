@@ -1,13 +1,13 @@
 # LearningNote
 > A record of my course for deep learning
 
-## Programming Framework
+## 1. Programming Framework
 > Contents of the programming framework for machine learning and medical image computing.  
 
-### [PyTorch](https://pytorch.org/)  
+### 1.1 [PyTorch](https://pytorch.org/)  
  An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-### PyTorch Extension Library
+### 1.2 PyTorch Extension Library
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
   > A Geometric Deep Learning Extension Library for PyTorch
 - [Kaolin](https://github.com/NVIDIA/GameWorkskaolin)
@@ -26,7 +26,7 @@
   > High-Level Training Framework for PyTorch
 
   
-### Python Extension Library
+### 1.3 Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
   > Advanced Normalization Tools in Python
 - [CuPy](https://github.com/cupy/cupy)
@@ -36,17 +36,17 @@
 - [SimpleITK](https://github.com/SimpleITK/SimpleITK)
   > An Image Analysis Toolkit
   
-## Papers
+## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing. 
 
-### Summary, Survey and Review
+### 2.1 Summary, Survey and Review
 - **Deep Learning**  *Nature* (2015) [[Paper]](https://www.nature.com/articles/nature14539)
 - **A Survey on Deep Learning in Medical Image Analysis**  *Medical Image Analysis* (2017) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841517301135)
 - **Bag of Tricks for Image Classification with Convolutional Neural Networks**  *CVPR* (2019) [[Paper]](https://arxiv.org/pdf/1812.01187v2.pdf)
 - **Deep Learning for Cardiac Image Segmentation: A Review**  *Frontiers in Cardiovascular Medicine* (2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
 - **Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9086055)
   
-### Recognition
+### 2.2 Recognition
 - **ImageNet Classification with Deep Convolutional Neural Networks**  *NeurIPS* (2012) [[Paper]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - **Very Deep Convolutional Networks for Large-Scale Image Recognition**  *ICLR* (2015) [[Paper]](https://arxiv.org/abs/1409.1556)
 - **Going Deeper with Convolutions**  *CVPR* (2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
@@ -60,10 +60,10 @@
 - **MixConv: Mixed Depthwise Convolutional Kernels**  *BMVC* (2019) [[Paper]](https://arxiv.org/pdf/1907.09595.pdf) [[Code]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)    
 - **Res2Net: A New Multi-scale Backbone Architecture**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8821313) [[Code]](https://github.com/Res2Net)
 
-#### Fine-grained
+#### 2.2.1 Fine-grained
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification**  *CVPR* (2020) [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
   
-### Segmentation
+### 2.3 Segmentation
 - **Fully Convolutional Networks for Semantic Segmentation**  *CVPR* (2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2017) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) 
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation**  *MICCAI* (2015) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28) [[Code]](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
@@ -73,27 +73,27 @@
 - **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2018) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7913730)
 - **Capsules for Biomedical Image Segmentation** *Medical Image Analysis* (2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S136184152030253X)
 
-#### High Resolution and Efficient Model
+#### 2.3.1 High Resolution and Efficient Model
 - **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  *ECCV* (2018) [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
 - **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  *ICCV* (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
 
-#### Semi, Weakly, and One-shot
+#### 2.3.2 Semi, Weakly, and One-shot
 - **LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.07072)
 
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2004.04581) [[Code]](https://github.com/YudeWang/SEAM)
  
-#### Interaction
+#### 2.3.3 Interaction
 - **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**  
   *CVPR* (2020) [[Paper]](https://arxiv.org/abs/1911.10334)  
 
-#### Uncertainty and Attention
+#### 2.3.4 Uncertainty and Attention
 - **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  *CVPR* (2020) [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
 - **Attention U-Net: Learning Where to Look for the Pancreas**  *MIDL* (2018) [[Paper]](https://openreview.net/pdf?id=Skft7cijM) [[Code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
 
-#### Loss Function
+#### 2.3.5 Loss Function
 - **Learning Active Contour Models for Medical Image Segmentation**  *CVPR* (2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
   
-### Detection
+### 2.4 Detection
 - **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation**  *CVPR* (2014) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Code]](https://github.com/rbgirshick/rcnn)
 - **Fast R-CNN** *ICCV* (2015) [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[Code]](https://github.com/rbgirshick/fast-rcnn)
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**  *NeurIPS* (2015) [[Paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[Code]](https://github.com/ShaoqingRen/faster_rcnn)
@@ -102,48 +102,48 @@
 - **Feature Pyramid Networks for Object Detection**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
 - **Mask R-CNN**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
-#### Anomaly Detection:
+#### 2.4.1 Anomaly Detection:
 - **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  *ACCV* (2018) [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
 
-### Registration
+### 2.5 Registration
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
 - **Learning Conditional Deformable Templates with Convolutional Networks**  *NeurIPS* (2019) [[Paper]](https://arxiv.org/pdf/1908.02738.pdf)
-#### Multi-modal
+#### 2.5.1 Multi-modal
 - **Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**  *Medical Image Analysis* (208) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
 - **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.08073) 
 
-### Known Operator
+### 2.6 Known Operator
 - **PYRO-NN: Python Reconstruction Operators in Neural Networks**  *Medical Physics* (2019) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31389023/) [[Code]](https://github.com/csyben/PYRO-NN)
 
-### Contrast and Consistent Learning
+### 2.7 Contrast and Consistent Learning
 - **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
 - **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
 
-### Landmark Detection
+### 2.8 Landmark Detection
 - **Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection**  *Medical Image Analysis* (2019) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306121) [[Code]](https://github.com/amiralansary/rl-medical/tree/master/examples/LandmarkDetection/MultiAgent)
 
-### View Planning
+### 2.9 View Planning
 - **SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7974824) [[Code]](https://github.com/baumgach/SonoNet-weights)
 - **Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**  *MICCAI* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45) [[Code]](https://github.com/yuanwei1989/plane-detection)
 - **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ) 
 - **Ultrasound Video Summarization using Deep Reinforcement Learning**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
 
-### Synthesis, Simulation and Blending
+### 2.10 Synthesis, Simulation and Blending
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
 - **Learning to Simulate Complex Scenes**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/2006.14611.pdf)
 - **Learning to Simulate**  *ICLR* (2019) [[Paper]](http://arxiv.org/pdf/1810.02513v2.pdf)
 
-#### MR Simulator
+#### 2.10.1 MR Simulator
 - **Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7676360) [[Code]](https://github.com/leoliuf/MRiLab)
 - **MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/6671435)
 
-### Other
+### 2.11 Other
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
 
 
-## CodeBox
+## 3. CodeBox
 > CodeBox for fast coding  
 
 - **Metrics**
