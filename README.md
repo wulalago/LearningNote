@@ -139,6 +139,9 @@
 - **Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7676360) [[Code]](https://github.com/leoliuf/MRiLab)
 - **MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/6671435)
 
+### 2.11 Shape Learning
+- **Learning to Infer Semantic Parameters for 3D Shape Editing**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2011.04755.pdf)
+
 ### 2.11 Other
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
 
