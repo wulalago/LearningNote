@@ -109,7 +109,7 @@
 - **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
 - **Learning Conditional Deformable Templates with Convolutional Networks**  *NeurIPS* (2019) [[Paper]](https://arxiv.org/pdf/1908.02738.pdf)
 #### 2.5.1 Multi-modal
-- **Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**  *Medical Image Analysis* (208) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
+- **Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**  *Medical Image Analysis* (2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
 - **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
 - **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
 - **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.08073) 
