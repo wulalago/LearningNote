@@ -10,7 +10,7 @@
 ### 1.2 PyTorch Extension Library
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
   > A Geometric Deep Learning Extension Library for PyTorch
-- [Kaolin](https://github.com/NVIDIA/GameWorkskaolin)
+- [Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
   > PyTorch Library for Accelerating 3D Deep Learning Research
 - [Kornia](https://github.com/kornia/kornia)
   > Open Source Differentiable Computer Vision Library for PyTorch
