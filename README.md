@@ -118,7 +118,7 @@
 - [**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.**](https://arxiv.org/abs/2003.08073) *CVPR,* 2020.
 
 ### Reinforcement Learning
-- [**Human-level control through deep reinforcement learning.**](https://www.nature.com/articles/nature14236) *Nature,* 2015.
+- [**Human-level Control through Deep Reinforcement Learning.**](https://www.nature.com/articles/nature14236) *Nature,* 2015.
 
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
