@@ -4,10 +4,10 @@
 ## 1. Programming Framework
 > Contents of the programming framework for machine learning and medical image computing.  
 
-### 1.1 [PyTorch](https://pytorch.org/)  
+### [PyTorch](https://pytorch.org/)  
  An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-### 1.2 PyTorch Extension Library
+### PyTorch Extension Library
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
   > A Geometric Deep Learning Extension Library for PyTorch
 - [Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
@@ -27,8 +27,7 @@
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
   > FAIR's Library of Reusable Components for Deep Learning with 3D Data
 
-  
-### 1.3 Python Extension Library
+### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
   > Advanced Normalization Tools in Python
 - [CuPy](https://github.com/cupy/cupy)
@@ -43,14 +42,14 @@
 ## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing. 
 
-### 2.1 Summary, Survey & Review
+### Summary, Survey & Review
 - [**Deep Learning.**](https://www.nature.com/articles/nature14539)  *Nature,* 2015.
 - [**A Survey on Deep Learning in Medical Image Analysis.**](https://www.sciencedirect.com/science/article/pii/S1361841517301135)  *Medical Image Analysis,* 2017.
 - [**Bag of Tricks for Image Classification with Convolutional Neural Networks.**](https://arxiv.org/pdf/1812.01187v2.pdf)  *CVPR,* 2019.
 - [**Deep Learning for Cardiac Image Segmentation: A Review.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)  *Frontiers in Cardiovascular Medicine,* 2020.
 - [**Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.**](https://ieeexplore.ieee.org/abstract/document/9086055)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
   
-### 2.2 Recognition
+### Recognition
 - [**ImageNet Classification with Deep Convolutional Neural Networks.**](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  *NeurIPS,* 2012.
 - [**Very Deep Convolutional Networks for Large-Scale Image Recognition.**](https://arxiv.org/abs/1409.1556)  *ICLR,* 2015.
 - [**Going Deeper with Convolutions.**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  *CVPR,* 2015.
@@ -63,7 +62,7 @@
 - [**Squeeze-and-Excitation Networks.**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  *CVPR,* 2018.
 - [**MixConv: Mixed Depthwise Convolutional Kernels.**](https://arxiv.org/pdf/1907.09595.pdf)  *BMVC,* 2019.
 - [**Res2Net: A New Multi-scale Backbone Architecture.**](https://ieeexplore.ieee.org/abstract/document/8821313)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
-#### 2.2.1 Fine-grained
+#### Fine-grained
 - [**Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification.**](https://arxiv.org/pdf/2005.10979.pdf)  *CVPR,* 2020.
 
 ### Segmentation
@@ -78,18 +77,18 @@
 #### High-resolution & Efficient Model
 - [**ICNet for Real-Time Semantic Segmentation on High-Resolution Images.**](https://arxiv.org/abs/1704.08545)  *ECCV,* 2018.
 - [**Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.**](https://arxiv.org/pdf/1905.06368.pdf)   *ICCV,* 2019.
-#### 2.3.2 Semi-, Weakly-, One-shot & Few-shot Learning
+#### Semi-, Weakly-, One-shot & Few-shot Learning
 - [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR*, 2020.
 - [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.**](https://arxiv.org/abs/2004.04581) *CVPR,* 2020.
-#### 2.3.3 Interaction
+#### Interaction
 - [**Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning.**](https://arxiv.org/abs/1911.10334) *CVPR,* 2020.
-#### 2.3.4 Uncertainty & Attention
+#### Uncertainty & Attention
 - [**Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks.**](https://arxiv.org/pdf/2003.05128.pdf) *CVPR,* 2020.
 - [**Attention U-Net: Learning Where to Look for the Pancreas.**](https://openreview.net/pdf?id=Skft7cijM)  *MIDL,* 2018.
-#### 2.3.5 Loss Function
+#### Loss Function
 - [**Learning Active Contour Models for Medical Image Segmentation.**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf)  *CVPR,* 2019.
   
-### 2.4 Detection
+### Detection
 - [**Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.**](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  *CVPR,* 2014. 
 - [**Fast R-CNN.**](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) *ICCV,* 2015.
 - [**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.**](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  *NeurIPS,* 2015.
@@ -112,6 +111,17 @@
 - [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations.**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
+### Pointset, Mesh & Surface Learning
+### Shape Editing
+- [**Learning to Infer Semantic Parameters for 3D Shape Editing.**](https://arxiv.org/pdf/2011.04755.pdf)  *arXiv,* 2020.
+
+### Generative & Simulation model.
+- [**Learning to Simulate Complex Scenes.**](https://arxiv.org/pdf/2006.14611.pdf)  *ACMMM,* 2019.
+- [**Learning to Simulate.**](http://arxiv.org/pdf/1810.02513v2.pdf)  *ICLR,* 2019.
+#### Medical Image Simulator
+- [**Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model.**](https://ieeexplore.ieee.org/document/7676360)  *IEEE Transctions on Medical Imaging,* 2017.
+- [**MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations.**](https://ieeexplore.ieee.org/document/6671435) *IEEE Transctions on Medical Imaging,* 2017.
+
 ### Landmark Detection
 - [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection.**](https://www.sciencedirect.com/science/article/pii/S1361841518306121) *Medical Image Analysis,* 2019.
 - [**Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans.**](https://ieeexplore.ieee.org/abstract/document/8187667) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
@@ -129,21 +139,10 @@
 - [**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training.**](https://arxiv.org/pdf/1805.06725.pdf) *ACCV,* 2018. 
 #### Known Operator
 - [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
-
-### 2.10 Synthesis, Simulation and Blending
-- **GP-GAN: Towards Realistic High-Resolution Image Blending**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
-- **Learning to Simulate Complex Scenes**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/2006.14611.pdf)
-- **Learning to Simulate**  *ICLR* (2019) [[Paper]](http://arxiv.org/pdf/1810.02513v2.pdf)
-
-#### 2.10.1 MR Simulator
-- **Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7676360) [[Code]](https://github.com/leoliuf/MRiLab)
-- **MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/6671435)
-
-### 2.11 Shape Learning
-- **Learning to Infer Semantic Parameters for 3D Shape Editing**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2011.04755.pdf)
-
-### 2.11 Efficient Learning
-- **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
+#### Blending
+- [**GP-GAN: Towards Realistic High-Resolution Image Blending.**](https://arxiv.org/pdf/1703.07195.pdf) *ACMMM,* 2019.
+### Parameter Sharing
+- [**Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning.**](https://arxiv.org/pdf/2006.10598.pdf)   *arXiv,* 2020.
 
 
 ## 3. CodeBox
