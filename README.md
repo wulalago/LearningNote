@@ -122,13 +122,17 @@
 - **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
 
 ### 2.8 Landmark Detection
-- **Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection**  *Medical Image Analysis* (2019) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306121) [[Code]](https://github.com/amiralansary/rl-medical/tree/master/examples/LandmarkDetection/MultiAgent)
+- [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection.**](https://www.sciencedirect.com/science/article/pii/S1361841518306121)  *Medical Image Analysis,* 2019.
+- [**Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans**](https://ieeexplore.ieee.org/abstract/document/8187667) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
 
 ### 2.9 View Planning
-- **SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**  *IEEE Transctions on Medical Imaging* (2017) [[Paper]](https://ieeexplore.ieee.org/document/7974824) [[Code]](https://github.com/baumgach/SonoNet-weights)
-- **Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**  *MICCAI* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45) [[Code]](https://github.com/yuanwei1989/plane-detection)
-- **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**  *MICCAI* (2018) [[Paper]](https://arxiv.org/pdf/1806.03228.pdf) [[Code]](https://git.io/vhuMZ) 
-- **Ultrasound Video Summarization using Deep Reinforcement Learning**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2005.09531.pdf)
+#### 2D View Planning
+- [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transctions on Medical Imaging,* 2017.
+- [**Ultrasound Video Summarization using Deep Reinforcement Learning**](https://arxiv.org/pdf/2005.09531.pdf)  *MICCAI,* 2020. 
+#### 3D View Planning
+- [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
+- [**Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**](https://arxiv.org/pdf/1806.03228.pdf)  *MICCAI,* 2018. 
+
 
 ### 2.10 Synthesis, Simulation and Blending
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
@@ -142,7 +146,7 @@
 ### 2.11 Shape Learning
 - **Learning to Infer Semantic Parameters for 3D Shape Editing**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2011.04755.pdf)
 
-### 2.11 Other
+### 2.11 Efficient Learning
 - **Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2006.10598.pdf) 
 
 
