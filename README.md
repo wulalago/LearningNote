@@ -24,6 +24,8 @@
   > PyTorch Framework for Doing Deep Learning on Point Clouds.
 - [Pywick](https://github.com/achaiah/pywick)
   > High-Level Training Framework for PyTorch
+- [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
+  > FAIR's Library of Reusable Components for Deep Learning with 3D Data
 
   
 ### 1.3 Python Extension Library
@@ -35,6 +37,8 @@
   > Medical Image Processing in Python
 - [SimpleITK](https://github.com/SimpleITK/SimpleITK)
   > An Image Analysis Toolkit
+- [Gym](https://github.com/openai/gym)
+  > A Toolkit for Developing and Comparing Reinforcement Learning Algorithms
   
 ## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing. 
@@ -63,35 +67,28 @@
 #### 2.2.1 Fine-grained
 - **Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification**  *CVPR* (2020) [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
   
-### 2.3 Segmentation
-- **Fully Convolutional Networks for Semantic Segmentation**  *CVPR* (2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-- **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2017) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) 
-- **U-Net: Convolutional Networks for Biomedical Image Segmentation**  *MICCAI* (2015) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28) [[Code]](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
-- **3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation**  *MICCAI* (2016) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)
-- **V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**  *3DV* (2016) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7785132)
-- **UNet++: A Nested U-Net Architecture for Medical Image Segmentation**  *DLMIA* (2018) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1)
-- **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2018) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7913730)
-- **Capsules for Biomedical Image Segmentation** *Medical Image Analysis* (2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S136184152030253X)
-
-#### 2.3.1 High Resolution and Efficient Model
-- **ICNet for Real-Time Semantic Segmentation on High-Resolution Images**  *ECCV* (2018) [[Paper]](https://arxiv.org/abs/1704.08545) [[Code]](https://github.com/hszhao/ICNet)
-- **Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images**  *ICCV* (2019) [[Paper]](https://arxiv.org/pdf/1905.06368.pdf) [[Code]](https://github.com/TAMU-VITA/GLNet)
-
-#### 2.3.2 Semi, Weakly, and One-shot
-- **LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.07072)
-
-- **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2004.04581) [[Code]](https://github.com/YudeWang/SEAM)
- 
+### Segmentation
+- [**Fully Convolutional Networks for Semantic Segmentation.**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  *CVPR,* 2015. 
+- [**U-Net: Convolutional Networks for Biomedical Image Segmentation.**](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28)  *MICCAI,* 2015. 
+- [**3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation.**](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)  *MICCAI,* 2016.
+- [**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.**](https://ieeexplore.ieee.org/abstract/document/7785132)  *3DV,* 2016.
+- [**SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2017. 
+- [**UNet++: A Nested U-Net Architecture for Medical Image Segmentation.**](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1) *DLMIA,* 2018.
+- [**DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.**](https://ieeexplore.ieee.org/abstract/document/7913730)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2018.
+- [**Capsules for Biomedical Image Segmentation.**](https://www.sciencedirect.com/science/article/pii/S136184152030253X) *Medical Image Analysis,* 2020.
+#### High-resolution & Efficient Model
+- [**ICNet for Real-Time Semantic Segmentation on High-Resolution Images.**](https://arxiv.org/abs/1704.08545)  *ECCV,* 2018.
+- [**Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.**](https://arxiv.org/pdf/1905.06368.pdf)   *ICCV,* 2019.
+#### 2.3.2 Semi-, Weakly-, One-shot & Few-shot Learning
+- [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR, 2020.
+- [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.**](https://arxiv.org/abs/2004.04581) *CVPR,* 2020.
 #### 2.3.3 Interaction
-- **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**  
-  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/1911.10334)  
-
-#### 2.3.4 Uncertainty and Attention
-- **Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**  *CVPR* (2020) [[Paper]](https://arxiv.org/pdf/2003.05128.pdf) [[Code]](https://github.com/shachoi/HANet)
-- **Attention U-Net: Learning Where to Look for the Pancreas**  *MIDL* (2018) [[Paper]](https://openreview.net/pdf?id=Skft7cijM) [[Code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
-
+- [**Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning.**](https://arxiv.org/abs/1911.10334) *CVPR,* 2020.
+#### 2.3.4 Uncertainty & Attention
+- [**Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks.**](https://arxiv.org/pdf/2003.05128.pdf) *CVPR,* 2020.
+- [**Attention U-Net: Learning Where to Look for the Pancreas.**](https://openreview.net/pdf?id=Skft7cijM)  *MIDL,* 2018.
 #### 2.3.5 Loss Function
-- **Learning Active Contour Models for Medical Image Segmentation**  *CVPR* (2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
+- [**Learning Active Contour Models for Medical Image Segmentation.**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf)  *CVPR,* 2019.
   
 ### 2.4 Detection
 - [**Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.**](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  *CVPR,* 2014. 
@@ -131,7 +128,7 @@
 ### Others
 #### Anomaly Detection:
 - [**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training.**](https://arxiv.org/pdf/1805.06725.pdf) *ACCV,* 2018. 
-### Known Operator
+#### Known Operator
 - [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
 
 ### 2.10 Synthesis, Simulation and Blending
