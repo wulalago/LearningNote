@@ -43,30 +43,29 @@
 ## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing. 
 
-### 2.1 Summary, Survey and Review
-- **Deep Learning**  *Nature* (2015) [[Paper]](https://www.nature.com/articles/nature14539)
-- **A Survey on Deep Learning in Medical Image Analysis**  *Medical Image Analysis* (2017) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841517301135)
-- **Bag of Tricks for Image Classification with Convolutional Neural Networks**  *CVPR* (2019) [[Paper]](https://arxiv.org/pdf/1812.01187v2.pdf)
-- **Deep Learning for Cardiac Image Segmentation: A Review**  *Frontiers in Cardiovascular Medicine* (2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)
-- **Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9086055)
+### 2.1 Summary, Survey & Review
+- [**Deep Learning.**](https://www.nature.com/articles/nature14539)  *Nature,* 2015.
+- [**A Survey on Deep Learning in Medical Image Analysis.**](https://www.sciencedirect.com/science/article/pii/S1361841517301135)  *Medical Image Analysis,* 2017.
+- [**Bag of Tricks for Image Classification with Convolutional Neural Networks.**](https://arxiv.org/pdf/1812.01187v2.pdf)  *CVPR,* 2019.
+- [**Deep Learning for Cardiac Image Segmentation: A Review.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)  *Frontiers in Cardiovascular Medicine,* 2020.
+- [**Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.**](https://ieeexplore.ieee.org/abstract/document/9086055)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
   
 ### 2.2 Recognition
-- **ImageNet Classification with Deep Convolutional Neural Networks**  *NeurIPS* (2012) [[Paper]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- **Very Deep Convolutional Networks for Large-Scale Image Recognition**  *ICLR* (2015) [[Paper]](https://arxiv.org/abs/1409.1556)
-- **Going Deeper with Convolutions**  *CVPR* (2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
-- **Deep Residual Learning for Image Recognition**  *CVPR* (2016) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) 
-- **Identity Mappings in Deep Residual Networks**  *ECCV* (2016) [[Paper]](https://rd.springer.com/chapter/10.1007/978-3-319-46493-0_38) [[Code]](https://github.com/KaimingHe/resnet-1k-layers)
-- **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**  *AAAI* (2017) [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) 
-- **Densely Connected Convolutional Networks**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf) [[Code]](https://github.com/liuzhuang13/DenseNet)
-- **Aggregated Residual Transformations for Deep Neural Networks**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf) [[Code]](https://github.com/facebookresearch/ResNeXt)
-- **Dynamic Routing Between Capsules** *NeurIPS* （2017）[[Paper]](https://arxiv.org/pdf/1710.09829.pdf)
-- **Squeeze-and-Excitation Networks**  *CVPR* (2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) [[Code]](https://github.com/hujie-frank/SENet)
-- **MixConv: Mixed Depthwise Convolutional Kernels**  *BMVC* (2019) [[Paper]](https://arxiv.org/pdf/1907.09595.pdf) [[Code]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)    
-- **Res2Net: A New Multi-scale Backbone Architecture**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8821313) [[Code]](https://github.com/Res2Net)
-
+- [**ImageNet Classification with Deep Convolutional Neural Networks.**](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  *NeurIPS,* 2012.
+- [**Very Deep Convolutional Networks for Large-Scale Image Recognition.**](https://arxiv.org/abs/1409.1556)  *ICLR,* 2015.
+- [**Going Deeper with Convolutions.**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  *CVPR,* 2015.
+- [**Deep Residual Learning for Image Recognition.**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)   *CVPR,* 2016.
+- [**Identity Mappings in Deep Residual Networks.**](https://rd.springer.com/chapter/10.1007/978-3-319-46493-0_38)  *ECCV,* 2016.
+- [**Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.**](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) *AAAI,* 2017.
+- [**Densely Connected Convolutional Networks.**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)  *CVPR,* 2017.
+- [**Aggregated Residual Transformations for Deep Neural Networks.**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)  *CVPR,* 2017.
+- [**Dynamic Routing Between Capsules.**](https://arxiv.org/pdf/1710.09829.pdf) *NeurIPS,* 2017.
+- [**Squeeze-and-Excitation Networks.**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  *CVPR,* 2018.
+- [**MixConv: Mixed Depthwise Convolutional Kernels.**](https://arxiv.org/pdf/1907.09595.pdf)  *BMVC,* 2019.
+- [**Res2Net: A New Multi-scale Backbone Architecture.**](https://ieeexplore.ieee.org/abstract/document/8821313)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
 #### 2.2.1 Fine-grained
-- **Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification**  *CVPR* (2020) [[Paper]](https://arxiv.org/pdf/2005.10979.pdf) [[Code]](https://github.com/TAMU-VITA/Focus-Longer-to-See-Better)
-  
+- [**Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification.**](https://arxiv.org/pdf/2005.10979.pdf)  *CVPR,* 2020.
+
 ### Segmentation
 - [**Fully Convolutional Networks for Semantic Segmentation.**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  *CVPR,* 2015. 
 - [**U-Net: Convolutional Networks for Biomedical Image Segmentation.**](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28)  *MICCAI,* 2015. 
@@ -80,7 +79,7 @@
 - [**ICNet for Real-Time Semantic Segmentation on High-Resolution Images.**](https://arxiv.org/abs/1704.08545)  *ECCV,* 2018.
 - [**Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.**](https://arxiv.org/pdf/1905.06368.pdf)   *ICCV,* 2019.
 #### 2.3.2 Semi-, Weakly-, One-shot & Few-shot Learning
-- [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR, 2020.
+- [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR*, 2020.
 - [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.**](https://arxiv.org/abs/2004.04581) *CVPR,* 2020.
 #### 2.3.3 Interaction
 - [**Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning.**](https://arxiv.org/abs/1911.10334) *CVPR,* 2020.
