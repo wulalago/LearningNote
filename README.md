@@ -94,16 +94,13 @@
 - **Learning Active Contour Models for Medical Image Segmentation**  *CVPR* (2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [[Code]](https://github.com/xuuuuuuchen/Active-Contour-Loss)
   
 ### 2.4 Detection
-- **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation**  *CVPR* (2014) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Code]](https://github.com/rbgirshick/rcnn)
-- **Fast R-CNN** *ICCV* (2015) [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[Code]](https://github.com/rbgirshick/fast-rcnn)
-- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**  *NeurIPS* (2015) [[Paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[Code]](https://github.com/ShaoqingRen/faster_rcnn)
-- **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2015) [[Paper]](https://ieeexplore.ieee.org/abstract/document/7005506)
-- **Focal Loss for Dense Object Detection**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
-- **Feature Pyramid Networks for Object Detection**  *CVPR* (2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
-- **Mask R-CNN**  *ICCV* (2017) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
-
-#### 2.4.1 Anomaly Detection:
-- **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  *ACCV* (2018) [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
+- [**Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.**](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  *CVPR,* 2014. 
+- [**Fast R-CNN.**](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) *ICCV,* 2015.
+- [**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.**](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  *NeurIPS,* 2015.
+- [**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.**](https://ieeexplore.ieee.org/abstract/document/7005506)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2015.
+- [**Focal Loss for Dense Object Detection.**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  *ICCV* 2017.
+- [**Feature Pyramid Networks for Object Detection.**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)  *CVPR,* 2017.
+- [**Mask R-CNN.**](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)  *ICCV,* 2017.
 
 ### Registration
 - [**An Unsupervised Learning Model for Deformable Medical Image Registration.**](https://arxiv.org/abs/1802.02604)  *CVPR,* 2018.
@@ -114,11 +111,8 @@
 - [**Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration.**](https://arxiv.org/pdf/2007.02790.pdf) *MICCAI,* 2020.
 - [**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.**](https://arxiv.org/abs/2003.08073) *CVPR,* 2020.
 
-### Known Operator
-- [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
-
 ### Self-supervised Learning
-### Contrast & Consistent Learning
+#### Contrast & Consistent Learning
 - [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations.**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
@@ -134,6 +128,11 @@
 - [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network.**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
 - [**Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents.**](https://arxiv.org/pdf/1806.03228.pdf)  *MICCAI,* 2018. 
 
+### Others
+#### Anomaly Detection:
+- [**GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training.**](https://arxiv.org/pdf/1805.06725.pdf) *ACCV,* 2018. 
+### Known Operator
+- [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
 
 ### 2.10 Synthesis, Simulation and Blending
 - **GP-GAN: Towards Realistic High-Resolution Image Blending**  *ACMMM* (2019) [[Paper]](https://arxiv.org/pdf/1703.07195.pdf) [[Code]](https://github.com/wuhuikai/GP-GAN)  
