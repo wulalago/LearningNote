@@ -105,33 +105,34 @@
 #### 2.4.1 Anomaly Detection:
 - **GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training**  *ACCV* (2018) [[Paper]](https://arxiv.org/pdf/1805.06725.pdf) [[Code]](https://github.com/samet-akcay/ganomaly)
 
-### 2.5 Registration
-- **An Unsupervised Learning Model for Deformable Medical Image Registration**  *CVPR* (2018) [[Paper]](https://arxiv.org/abs/1802.02604) [[Code]](https://github.com/voxelmorph/voxelmorph)
-- **Learning Conditional Deformable Templates with Convolutional Networks**  *NeurIPS* (2019) [[Paper]](https://arxiv.org/pdf/1908.02738.pdf)
-#### 2.5.1 Multi-modal
-- **Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**  *Medical Image Analysis* (2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
-- **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2005.12209.pdf)
-- **Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**  *MICCAI* (2020) [[Paper]](https://arxiv.org/pdf/2007.02790.pdf) 
-- **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**  *CVPR* (2020) [[Paper]](https://arxiv.org/abs/2003.08073) 
+### Registration
+- [**An Unsupervised Learning Model for Deformable Medical Image Registration.**](https://arxiv.org/abs/1802.02604)  *CVPR,* 2018.
+- [**Learning Conditional Deformable Templates with Convolutional Networks.**](https://arxiv.org/pdf/1908.02738.pdf)  *NeurIPS,* 2019. 
+#### Multi-modal registration
+- [**Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration.**](https://www.sciencedirect.com/science/article/pii/S1361841518301051)  *Medical Image Analysis,* 2018.
+- [**JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans.**](https://arxiv.org/pdf/2005.12209.pdf) *arXiv,* 2020.
+- [**Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration.**](https://arxiv.org/pdf/2007.02790.pdf) *MICCAI,* 2020.
+- [**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.**](https://arxiv.org/abs/2003.08073) *CVPR,* 2020.
 
-### 2.6 Known Operator
-- **PYRO-NN: Python Reconstruction Operators in Neural Networks**  *Medical Physics* (2019) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31389023/) [[Code]](https://github.com/csyben/PYRO-NN)
+### Known Operator
+- [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
 
-### 2.7 Contrast and Consistent Learning
-- **Robust Learning Through Cross-Task Consistency**  *CVPR* (2020) [[Paper]](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf) [[Code]](https://github.com/EPFL-VILAB/XTConsistency)  
-- **A Simple Framework for Contrastive Learning of Visual Representations**  *ArXiv* (2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) [[Code]](https://github.com/google-research/simclr)
+### Self-supervised Learning
+### Contrast & Consistent Learning
+- [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
+- [**A Simple Framework for Contrastive Learning of Visual Representations.**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
-### 2.8 Landmark Detection
-- [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection.**](https://www.sciencedirect.com/science/article/pii/S1361841518306121)  *Medical Image Analysis,* 2019.
-- [**Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans**](https://ieeexplore.ieee.org/abstract/document/8187667) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
+### Landmark Detection
+- [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection.**](https://www.sciencedirect.com/science/article/pii/S1361841518306121) *Medical Image Analysis,* 2019.
+- [**Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans.**](https://ieeexplore.ieee.org/abstract/document/8187667) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
 
-### 2.9 View Planning
+### View Planning
 #### 2D View Planning
-- [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transctions on Medical Imaging,* 2017.
-- [**Ultrasound Video Summarization using Deep Reinforcement Learning**](https://arxiv.org/pdf/2005.09531.pdf)  *MICCAI,* 2020. 
+- [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound.**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transctions on Medical Imaging,* 2017.
+- [**Ultrasound Video Summarization using Deep Reinforcement Learning.**](https://arxiv.org/pdf/2005.09531.pdf)  *MICCAI,* 2020. 
 #### 3D View Planning
-- [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
-- [**Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents**](https://arxiv.org/pdf/1806.03228.pdf)  *MICCAI,* 2018. 
+- [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network.**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
+- [**Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents.**](https://arxiv.org/pdf/1806.03228.pdf)  *MICCAI,* 2018. 
 
 
 ### 2.10 Synthesis, Simulation and Blending
