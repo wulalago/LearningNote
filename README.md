@@ -112,7 +112,7 @@
 - [**A Simple Framework for Contrastive Learning of Visual Representations.**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
 ### Pointset, Mesh & Surface Learning
-### Shape Editing
+#### Shape Editing
 - [**Learning to Infer Semantic Parameters for 3D Shape Editing.**](https://arxiv.org/pdf/2011.04755.pdf)  *arXiv,* 2020.
 
 ### Generative & Simulation model.
@@ -141,7 +141,7 @@
 - [**PYRO-NN: Python Reconstruction Operators in Neural Networks.**](https://pubmed.ncbi.nlm.nih.gov/31389023/)  *Medical Physics,* 2019.
 #### Blending
 - [**GP-GAN: Towards Realistic High-Resolution Image Blending.**](https://arxiv.org/pdf/1703.07195.pdf) *ACMMM,* 2019.
-### Parameter Sharing
+##### Parameter Sharing
 - [**Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning.**](https://arxiv.org/pdf/2006.10598.pdf)   *arXiv,* 2020.
 
 
