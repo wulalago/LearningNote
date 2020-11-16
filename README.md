@@ -117,6 +117,9 @@
 - [**Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration.**](https://arxiv.org/pdf/2007.02790.pdf) *MICCAI,* 2020.
 - [**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.**](https://arxiv.org/abs/2003.08073) *CVPR,* 2020.
 
+### Reinforcement Learning
+- [**Human-level control through deep reinforcement learning.**](https://www.nature.com/articles/nature14236) *Nature,* 2015.
+
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
 - [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
