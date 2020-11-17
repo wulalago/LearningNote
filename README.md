@@ -59,6 +59,7 @@
 - [**Deep Learning.**](https://www.nature.com/articles/nature14539)  *Nature,* 2015.
 - [**A Survey on Deep Learning in Medical Image Analysis.**](https://www.sciencedirect.com/science/article/pii/S1361841517301135)  *Medical Image Analysis,* 2017.
 - [**Bag of Tricks for Image Classification with Convolutional Neural Networks.**](https://arxiv.org/pdf/1812.01187v2.pdf)  *CVPR,* 2019.
+- [**Deep Learning in Medical Ultrasound Analysis: A Review.**](https://www.sciencedirect.com/science/article/pii/S2095809918301887) *Engineering,* 2019.
 - [**Deep Learning for Cardiac Image Segmentation: A Review.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)  *Frontiers in Cardiovascular Medicine,* 2020.
 - [**Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.**](https://ieeexplore.ieee.org/abstract/document/9086055)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
 
