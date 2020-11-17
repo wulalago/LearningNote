@@ -37,7 +37,10 @@
   > An Image Analysis Toolkit
 - [Gym](https://github.com/openai/gym)
   > A Toolkit for Developing and Comparing Reinforcement Learning Algorithms
-### Software & App 
+- [OpenCV](https://opencv.org/)
+  > Open Source Computer Vision Library
+
+### Software, APP & SDK 
 - [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
   > A Software Application Used to Segment Structures in 3D Medical Images
 - [ParaView](https://www.paraview.org/)
@@ -46,6 +49,8 @@
   > A Visualization Tool Based on the VTK Library
 - [3DSlicer](https://www.slicer.org/)
   > An Open Source Software Platform for Medical Image Informatics, Image Processing, and Three-dimensional Visualization
+- [TensorRT](https://developer.nvidia.com/tensorrt)
+  > An SDK for High-performance Deep Learning Inference
 
 ## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing 
