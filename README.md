@@ -2,10 +2,10 @@
 > A record of my course for deep learning
 
 ## 1. Programming Framework
-> Contents of the programming framework for machine learning and medical image computing.  
+> Contents of the programming framework for machine learning and medical image computing  
 
 ### [PyTorch](https://pytorch.org/)  
- An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+ An open source machine learning framework that accelerates the path from research prototyping to production deployment
 
 ### PyTorch Extension Library
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
@@ -26,7 +26,6 @@
   > High-Level Training Framework for PyTorch
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
   > FAIR's Library of Reusable Components for Deep Learning with 3D Data
-
 ### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
   > Advanced Normalization Tools in Python
@@ -38,9 +37,16 @@
   > An Image Analysis Toolkit
 - [Gym](https://github.com/openai/gym)
   > A Toolkit for Developing and Comparing Reinforcement Learning Algorithms
-  
+### Software & App 
+- [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
+  > A Software Application Used to Segment Structures in 3D Medical Images
+- [ParaView](https://www.paraview.org/)
+  > An Open-source, Multi-platform Data Analysis and Visualization Application
+- [3DMeshMetric](https://www.nitrc.org/projects/meshmetric3d/)
+  > A Visualization Tool Based on the VTK Library
+
 ## 2. Papers
-> Paper list for deep learning in computer vision and medical image computing. 
+> Paper list for deep learning in computer vision and medical image computing 
 
 ### Summary, Survey & Review
 - [**Deep Learning.**](https://www.nature.com/articles/nature14539)  *Nature,* 2015.
