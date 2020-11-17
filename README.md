@@ -45,7 +45,7 @@
 - [3DMeshMetric](https://www.nitrc.org/projects/meshmetric3d/)
   > A Visualization Tool Based on the VTK Library
 - [3DSlicer](https://www.slicer.org/)
-  > An Open source Software Platform for Medical Image Informatics, Image Processing, and Three-dimensional Visualization
+  > An Open Source Software Platform for Medical Image Informatics, Image Processing, and Three-dimensional Visualization
 
 ## 2. Papers
 > Paper list for deep learning in computer vision and medical image computing 
