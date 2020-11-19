@@ -102,15 +102,16 @@
 - [**ICNet for Real-Time Semantic Segmentation on High-Resolution Images.**](https://arxiv.org/abs/1704.08545)  *ECCV,* 2018.
 - [**Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.**](https://arxiv.org/pdf/1905.06368.pdf)   *ICCV,* 2019.
 #### Semi-, Weakly-, One-shot & Few-shot Learning
-- [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR*, 2020.
+- [**Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation.**](https://arxiv.org/pdf/1907.07034.pdf) *MICCAI,* 2019.
+- [**LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation.**](https://arxiv.org/abs/2003.07072)  *CVPR,* 2020.
 - [**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.**](https://arxiv.org/abs/2004.04581) *CVPR,* 2020.
 #### Interaction
 - [**Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning.**](https://arxiv.org/abs/1911.10334) *CVPR,* 2020.
 #### Uncertainty & Attention
-- [**Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks.**](https://arxiv.org/pdf/2003.05128.pdf) *CVPR,* 2020.
 - [**Attention U-Net: Learning Where to Look for the Pancreas.**](https://openreview.net/pdf?id=Skft7cijM)  *MIDL,* 2018.
-- [**Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images.**](https://www.sciencedirect.com/science/article/pii/S1361841518306133) *Medical Image Analysis,* 2019.
 - [**Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks.**](https://arxiv.org/pdf/1808.08127.pdf) *IEEE Transctions on Medical Imaging,* 2018.
+- [**Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images.**](https://www.sciencedirect.com/science/article/pii/S1361841518306133) *Medical Image Analysis,* 2019.
+- [**Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks.**](https://arxiv.org/pdf/2003.05128.pdf) *CVPR,* 2020.
 #### Loss Function
 - [**Learning Active Contour Models for Medical Image Segmentation.**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Active_Contour_Models_for_Medical_Image_Segmentation_CVPR_2019_paper.pdf)  *CVPR,* 2019.
   
