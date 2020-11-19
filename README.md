@@ -140,9 +140,6 @@
 - [**Human-level Control through Deep Reinforcement Learning.**](https://www.nature.com/articles/nature14236) *Nature,* 2015.
 - [**Deep Reinforcement Learning with Double Q-learning.**](https://arxiv.org/pdf/1509.06461.pdf) *AAAI,* 2016.
 
-### Generative Model
-- [**Auto-Encoding Variational Bayes.**](https://arxiv.org/pdf/1312.6114.pdf) *arXiv,* 2013. 
-
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
 - [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
@@ -154,6 +151,7 @@
 - [**Learning Part Generation and Assembly for Structure-Aware Shape Synthesis.**](https://ojs.aaai.org//index.php/AAAI/article/view/6798) *AAAI,* 2020.
 
 ### Generative & Simulation model.
+- [**Auto-Encoding Variational Bayes.**](https://arxiv.org/pdf/1312.6114.pdf) *arXiv,* 2013. 
 - [**Learning to Simulate Complex Scenes.**](https://arxiv.org/pdf/2006.14611.pdf)  *ACMMM,* 2019.
 - [**Learning to Simulate.**](http://arxiv.org/pdf/1810.02513v2.pdf)  *ICLR,* 2019.
 #### Medical Image Simulator
