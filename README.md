@@ -148,9 +148,10 @@
 - [**Robust Learning Through Cross-Task Consistency.**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations.**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
-### Pointset, Mesh & Surface Learning
-#### Shape Editing
+### Pointset, Mesh & Shape Learning
+#### Shape Generation & Editing
 - [**Learning to Infer Semantic Parameters for 3D Shape Editing.**](https://arxiv.org/pdf/2011.04755.pdf)  *arXiv,* 2020.
+- [**Learning Part Generation and Assembly for Structure-Aware Shape Synthesis.**](https://ojs.aaai.org//index.php/AAAI/article/view/6798) *AAAI,* 2020.
 
 ### Generative & Simulation model.
 - [**Learning to Simulate Complex Scenes.**](https://arxiv.org/pdf/2006.14611.pdf)  *ACMMM,* 2019.
