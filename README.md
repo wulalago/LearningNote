@@ -120,7 +120,8 @@
 - [**Fast R-CNN.**](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) *ICCV,* 2015.
 - [**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.**](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  *NeurIPS,* 2015.
 - [**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.**](https://ieeexplore.ieee.org/abstract/document/7005506)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2015.
-- [**Focal Loss for Dense Object Detection.**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  *ICCV* 2017.
+- [**SSD: Single Shot MultiBox Detector.**](https://arxiv.org/pdf/1512.02325.pdf) *ECCV,* 2016.
+- [**Focal Loss for Dense Object Detection.**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  *ICCV,* 2017.
 - [**Feature Pyramid Networks for Object Detection.**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)  *CVPR,* 2017.
 - [**Mask R-CNN.**](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)  *ICCV,* 2017.
 
