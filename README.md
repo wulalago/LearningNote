@@ -149,6 +149,7 @@
 ### Reinforcement Learning
 - [**Human-level Control through Deep Reinforcement Learning.**](https://www.nature.com/articles/nature14236) *Nature,* 2015.
 - [**Deep Reinforcement Learning with Double Q-learning.**](https://arxiv.org/pdf/1509.06461.pdf) *AAAI,* 2016.
+- [**Dueling Network Architectures for Deep Reinforcement Learning**](https://arxiv.org/pdf/1511.06581.pdf) *ICML,* 2016.
 
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
