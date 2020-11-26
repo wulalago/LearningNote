@@ -123,7 +123,7 @@
 - [**Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/1911.10334) *CVPR,* 2020.
 #### Uncertainty & Attention
 - [**Attention U-Net: Learning Where to Look for the Pancreas**](https://openreview.net/pdf?id=Skft7cijM)  *MIDL,* 2018.
-- [**Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks**](https://arxiv.org/pdf/1808.08127.pdf) *IEEE Transctions on Medical Imaging,* 2018.
+- [**Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks**](https://arxiv.org/pdf/1808.08127.pdf) *IEEE Transactions on Medical Imaging,* 2018.
 - [**Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images**](https://www.sciencedirect.com/science/article/pii/S1361841518306133) *Medical Image Analysis,* 2019.
 - [**Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**](https://arxiv.org/pdf/2003.05128.pdf) *CVPR,* 2020.
 #### Loss Function
@@ -161,8 +161,12 @@
 
 ### Pointset, Mesh & Shape Learning
 #### Shape Generation & Editing
+- [**A Point Set Generation Network for 3D Object Reconstruction from a Single Image**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) *CVPR,* 2017.
+- [**Variational Shape Completion for Virtual Planning of Jaw Reconstructive Surgery**](https://arxiv.org/pdf/1906.11957.pdf) *MICCAI,* 2019.
+- [**Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation**](https://ieeexplore.ieee.org/abstract/document/9055070) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
 - [**Learning to Infer Semantic Parameters for 3D Shape Editing**](https://arxiv.org/pdf/2011.04755.pdf)  *arXiv,* 2020.
 - [**Learning Part Generation and Assembly for Structure-Aware Shape Synthesis**](https://ojs.aaai.org//index.php/AAAI/article/view/6798) *AAAI,* 2020.
+
 
 ### Generative & Simulation model.
 - [**Auto-Encoding Variational Bayes**](https://arxiv.org/pdf/1312.6114.pdf) *arXiv,* 2013. 
@@ -178,7 +182,7 @@
 
 ### View Planning
 #### 2D View Planning
-- [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transctions on Medical Imaging,* 2017.
+- [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transactions on Medical Imaging,* 2017.
 - [**Ultrasound Video Summarization using Deep Reinforcement Learning**](https://arxiv.org/pdf/2005.09531.pdf)  *MICCAI,* 2020. 
 #### 3D View Planning
 - [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
