@@ -26,6 +26,7 @@
   > High-Level Training Framework for PyTorch
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
   > FAIR's Library of Reusable Components for Deep Learning with 3D Data
+
 ### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
   > Advanced Normalization Tools in Python
@@ -41,6 +42,8 @@
   > Open Source Computer Vision Library
 - [DIPY](https://github.com/dipy/dipy)
   > Python Library for the Analysis of MR Diffusion Imaging.
+- [Trimesh](https://github.com/mikedh/trimesh)
+  > Python Library for Loading and Using Triangular Meshes.
 
 ### Software, APP & SDK 
 - [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
@@ -55,17 +58,26 @@
   > An SDK for High-performance Deep Learning Inference
 
 ## 2. Dataset
-
+### Natural Images
+#### Classification
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)
+#### 3D Shape
+- [ShapeNet](https://www.shapenet.org/)
 ### Medical Images
 #### Heart
- - [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
- - [Left Atrial Wall Thickness Challenge (SLAWT)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html)
- - [Left Atrium Fibrosis Benchmark (cDEMRIS)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/fibrosis/index.html)
- - [Left Ventricle Infarct](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html)
+- [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
+- [Left Atrial Wall Thickness Challenge (SLAWT)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html)
+- [Left Atrium Fibrosis Benchmark (cDEMRIS)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/fibrosis/index.html)
+- [Left Ventricle Infarct](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html)
 #### Eye
- - [DRIVE: Digital Retinal Images for Vessel Extraction](https://drive.grand-challenge.org/DRIVE/)
- - [IOSTAR – Retinal Vessel Segmentation and Artery/Vein Classification Dataset](http://www.retinacheck.org/datasets)
- 
+- [DRIVE: Digital Retinal Images for Vessel Extraction](https://drive.grand-challenge.org/DRIVE/)
+- [IOSTAR – Retinal Vessel Segmentation and Artery/Vein Classification Dataset](http://www.retinacheck.org/datasets)
+#### Lung
+- [JSRT](http://db.jsrt.or.jp/eng.php)
+- [Montgomery County X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
+- [Shenzhen Hospital X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
+
 ## 3. Papers
 > Paper list for deep learning in computer vision and medical image computing 
 
@@ -144,6 +156,7 @@
 - [**Learning Conditional Deformable Templates with Convolutional Networks**](https://arxiv.org/pdf/1908.02738.pdf)  *NeurIPS,* 2019. 
 #### Multi-modal registration
 - [**Weakly-supervised Convolutional Neural Networks for Multi-modal Image Registration**](https://www.sciencedirect.com/science/article/pii/S1361841518301051)  *Medical Image Analysis,* 2018.
+- [**Adversarial Learning for Mono- or Multi-modal Registration**](http://website60s.com/upload/files/adversarial-learning-for-mono-or-multi-modal-regis_2019_medical-image-analy.pdf) *Medical Image Analysis,* 2019.
 - [**JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans**](https://arxiv.org/pdf/2005.12209.pdf) *arXiv,* 2020.
 - [**Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration**](https://arxiv.org/pdf/2007.02790.pdf) *MICCAI,* 2020.
 - [**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation**](https://arxiv.org/abs/2003.08073) *CVPR,* 2020.
@@ -166,6 +179,7 @@
 - [**Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation**](https://ieeexplore.ieee.org/abstract/document/9055070) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
 - [**Learning to Infer Semantic Parameters for 3D Shape Editing**](https://arxiv.org/pdf/2011.04755.pdf)  *arXiv,* 2020.
 - [**Learning Part Generation and Assembly for Structure-Aware Shape Synthesis**](https://ojs.aaai.org//index.php/AAAI/article/view/6798) *AAAI,* 2020.
+- [**Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data**](https://arxiv.org/abs/1912.03681) *MICCAI,* 2020.
 
 
 ### Generative & Simulation model.
