@@ -78,7 +78,29 @@
 - [Montgomery County X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
 - [Shenzhen Hospital X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
 
-## 3. Papers
+## 3. Journals
+### Springer
+- [**Nature Medicine**](https://www.nature.com/nm/) IF=36.13
+- [**Nature Biomedical Engineering**](https://www.nature.com/natbiomedeng/) IF=18.952
+- [**Nature Machine Intelligence**](https://www.nature.com/natmachintell/) 
+- [**International Journal of Computer Vision**](https://www.springer.com/journal/11263) IF=5.698
+### IEEE
+- [**IEEE Transactions on Pattern Analysis and Machine Intelligence**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) IF=17.861
+- [**IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) IF=11.079
+- [**IEEE Transactions on Medical Imaging**](https://www.embs.org/tmi/) IF=6.685
+- [**IEEE Transactions on Biomedical Engineering**](https://www.embs.org/tbme/) IF=4.424
+- [**IEEE Journal of Biomedical And Health Informatics**](https://www.embs.org/jbhi/) IF=5.223
+- [**IEEE Access**](https://ieeeaccess.ieee.org/) IF=3.745
+### Elsevier
+- [**Medical Image Analysis**](https://www.journals.elsevier.com/medical-image-analysis) IF=11.148
+- [**Pattern Recognition**](https://www.journals.elsevier.com/pattern-recognition) IF=7.196
+- [**NeuroImage**](https://www.journals.elsevier.com/neuroimage) IF=5.902
+- [**Neurocomputing**](https://www.journals.elsevier.com/neurocomputing) IF=4.438
+- [**Ultrasound in Medicine & Biology**](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) IF=2.514
+- [**Computer Methods and Programs in Biomedicine**](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) IF=3.632
+
+
+## 4. Papers
 > Paper list for deep learning in computer vision and medical image computing 
 
 ### Summary, Survey & Review
@@ -213,7 +235,7 @@
 - [**Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**](https://arxiv.org/pdf/2006.10598.pdf)   *arXiv,* 2020.
 
 
-## 4. CodeBox
+## 5. CodeBox
 > CodeBox for fast coding  
 
 - **Metrics**
