@@ -1,7 +1,15 @@
 # LearningNote
 > A record of my course for deep learning
 
-## 1. Programming Framework
+## Contents
+- [Programming Framework](#program)
+- [Dataset](#dataset)
+- [Journals](#journal)
+- [Leading Group & Researcher](#researcher)
+- [CodeBox](#codebox)
+
+
+## <span id = "program">Programming Framework</span>
 > Contents of the programming framework for machine learning and medical image computing  
 
 ### [PyTorch](https://pytorch.org/)  
@@ -26,6 +34,8 @@
   > High-Level Training Framework for PyTorch
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
   > FAIR's Library of Reusable Components for Deep Learning with 3D Data
+- [Torch Optimizer](https://github.com/jettify/pytorch-optimizer)
+  > Collection of Optimizers for Pytorch
 
 ### Python Extension Library
 - [ANTsPy](https://github.com/ANTsX/ANTsPy)
@@ -44,6 +54,8 @@
   > Python Library for the Analysis of MR Diffusion Imaging.
 - [Trimesh](https://github.com/mikedh/trimesh)
   > Python Library for Loading and Using Triangular Meshes.
+- [Open3d](https://github.com/intel-isl/Open3D)
+  > A Modern Library for 3D Data Processing
 
 ### Software, APP & SDK 
 - [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
@@ -57,7 +69,7 @@
 - [TensorRT](https://developer.nvidia.com/tensorrt)
   > An SDK for High-performance Deep Learning Inference
 
-## 2. Dataset
+## <span id = "dataset">Dataset</span>
 ### Natural Images
 #### Classification
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
@@ -78,7 +90,7 @@
 - [Montgomery County X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
 - [Shenzhen Hospital X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
 
-## 3. Journals
+## <span id = "journal">Journals</span>
 ### Springer
 - [**Nature Medicine**](https://www.nature.com/nm/) IF=36.13
 - [**Nature Biomedical Engineering**](https://www.nature.com/natbiomedeng/) IF=18.952
@@ -99,8 +111,7 @@
 - [**Ultrasound in Medicine & Biology**](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) IF=2.514
 - [**Computer Methods and Programs in Biomedicine**](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) IF=3.632
 
-
-## 4. Papers
+## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
 
 ### Summary, Survey & Review
@@ -119,7 +130,6 @@
 - [**Layer Normalization**](https://openreview.net/forum?id=BJLa_ZC9) *NeurIPS,* 2016.
 - [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf) *ICCV,* 2017.
 - [**Group Normalization**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) *ECCV,* 2018.
-
 
 ### Recognition
 - [**ImageNet Classification with Deep Convolutional Neural Networks**](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  *NeurIPS,* 2012.
@@ -194,6 +204,9 @@
 - [**Robust Learning Through Cross-Task Consistency**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
+### Graph Neural Network
+- [**Learning Convolutional Neural Networks for Graphs**](http://proceedings.mlr.press/v48/niepert16.pdf) *ICML,* 2016 
+
 ### Pointset, Mesh & Shape Learning
 #### Shape Generation & Editing
 - [**A Point Set Generation Network for 3D Object Reconstruction from a Single Image**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) *CVPR,* 2017.
@@ -203,14 +216,13 @@
 - [**Learning Part Generation and Assembly for Structure-Aware Shape Synthesis**](https://ojs.aaai.org//index.php/AAAI/article/view/6798) *AAAI,* 2020.
 - [**Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data**](https://arxiv.org/abs/1912.03681) *MICCAI,* 2020.
 
-
 ### Generative & Simulation model.
 - [**Auto-Encoding Variational Bayes**](https://arxiv.org/pdf/1312.6114.pdf) *arXiv,* 2013. 
 - [**Learning to Simulate Complex Scenes**](https://arxiv.org/pdf/2006.14611.pdf)  *ACMMM,* 2019.
 - [**Learning to Simulate**](http://arxiv.org/pdf/1810.02513v2.pdf)  *ICLR,* 2019.
 #### Medical Image Simulator
-- [**Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**](https://ieeexplore.ieee.org/document/7676360)  *IEEE Transctions on Medical Imaging,* 2017.
-- [**MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**](https://ieeexplore.ieee.org/document/6671435) *IEEE Transctions on Medical Imaging,* 2017.
+- [**Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**](https://ieeexplore.ieee.org/document/7676360)  *IEEE Transactions on Medical Imaging,* 2017.
+- [**MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**](https://ieeexplore.ieee.org/document/6671435) *IEEE Transactions on Medical Imaging,* 2017.
 
 ### Landmark Detection
 - [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection**](https://www.sciencedirect.com/science/article/pii/S1361841518306121) *Medical Image Analysis,* 2019.
@@ -234,8 +246,41 @@
 #### Parameter Sharing
 - [**Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning**](https://arxiv.org/pdf/2006.10598.pdf)   *arXiv,* 2020.
 
-
-## 5. CodeBox
+## <span id = "researcher">Leading Group & Researcher</span>
+| Affiliation | Name|
+| :- | :- | 
+| China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
+| Chinese University of Hong Kong | [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en&oi=ao) |
+| Chinese University of Hong Kong | [Qi Dou](https://scholar.google.com/citations?user=iHh7IJQAAAAJ&hl=en) |
+| Chinese University of Hong Kong| [Xiaoou Tang](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) |
+| Facebook AI Research | [Kaiming He](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&oi=ao) |
+| Facebook AI Research | [Ross Girshick](https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en) |
+| Google Brain | [Quoc V. Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en&oi=ao) |
+| Google DeepMind | [David Silver](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=en&oi=ao) |
+| Google Research | [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en&oi=ao) |
+| Imperial College London | [Bernhard Kainz](https://scholar.google.com/citations?user=Igxq-YEAAAAJ&hl=en&oi=ao) |
+| Imperial College London | [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao) |
+| Imperial College London | [Wenjia Bai](https://scholar.google.com/citations?user=IA1QFM4AAAAJ&hl=en&oi=ao) |
+| King's College London | [Tom Vercauteren](https://scholar.google.com/citations?user=zduEJkcAAAAJ&hl=en&oi=ao) |
+| Harvard Medical School | [Adrian V. Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao) |
+| Harvard Medical School | [Ali Gholipour](https://scholar.google.com/citations?user=mPB7nkYAAAAJ&hl=en&oi=ao) |
+| Massachusetts Institute of Technology | [Polina Golland](https://scholar.google.com/citations?user=4GpKQUIAAAAJ&hl=en) |
+| Megvii | [Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en) |
+| Radboud University | [Bram van Ginneken](https://scholar.google.com/citations?user=O1j6_MsAAAAJ&hl=en&oi=ao) |
+| Shanghai Jiao Tong University | [Qian Wang](https://scholar.google.com/citations?hl=en&user=m6ZNDewAAAAJ) |
+| Shanghai Tech University | [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en) |
+| Shenzhen University | [Dong Ni](https://scholar.google.com/citations?user=J27J2VUAAAAJ&hl=en&oi=ao) |
+| Technical University of Munich | [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) |
+| Tencent | [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao) |
+| University of Amsterdam | [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao) |
+| University of British Columbia | [Purang Abolmaesumi](https://scholar.google.com/citations?user=gKZS5-IAAAAJ&hl=en&oi=ao) |
+| University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
+| University of Leeds | [Alejandro Frangi](https://scholar.google.com/citations?user=9fGrB0sAAAAJ&hl=en&oi=ao) |
+| University of North Carolina at Chapel Hill | [Pew-Thian Yap](https://scholar.google.com/citations?user=QGdnthwAAAAJ&hl=en&oi=ao) |
+| University of Toronto | [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&oi=ao) |
+| University of Western Ontario | [Shuo Li](https://scholar.google.com/citations?hl=en&user=6WNtJa0AAAAJ) |
+ 
+## <span id = "code">CodeBox</span>
 > CodeBox for fast coding  
 
 - **Metrics**
