@@ -6,7 +6,7 @@
 - [Dataset](#dataset)
 - [Journals](#journal)
 - [Leading Group & Researcher](#researcher)
-- [CodeBox](#codebox)
+- [CodeBox](#code)
 
 
 ## <span id = "program">Programming Framework</span>
@@ -201,7 +201,8 @@
 
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
-- [**Robust Learning Through Cross-Task Consistency**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020. 
+- [**Robust Learning Through Cross-Task Consistency**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020.
+- - [**Momentum Contrast for Unsupervised Visual Representation Learning**](https://arxiv.org/pdf/1911.05722.pdf) *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
 ### Graph Neural Network
@@ -223,6 +224,8 @@
 #### Medical Image Simulator
 - [**Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model**](https://ieeexplore.ieee.org/document/7676360)  *IEEE Transactions on Medical Imaging,* 2017.
 - [**MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations**](https://ieeexplore.ieee.org/document/6671435) *IEEE Transactions on Medical Imaging,* 2017.
+#### Style Transfer
+- [**A Style-Based Generator Architecture for Generative Adversarial Networks**](https://arxiv.org/abs/1812.04948) *CVPR,* 2019.
 
 ### Landmark Detection
 - [**Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection**](https://www.sciencedirect.com/science/article/pii/S1361841518306121) *Medical Image Analysis,* 2019.
@@ -249,10 +252,13 @@
 ## <span id = "researcher">Leading Group & Researcher</span>
 | Affiliation | Name|
 | :- | :- | 
+| Apple | [Ian Goodfellow](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ&view_op=list_works&sortby=pubdate) |
 | China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
+| Cornell University | [Mert R. Sabuncu](https://scholar.google.com/citations?hl=en&user=Pig-I4QAAAAJ&view_op=list_works&sortby=pubdate) |
 | Chinese University of Hong Kong | [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en&oi=ao) |
 | Chinese University of Hong Kong | [Qi Dou](https://scholar.google.com/citations?user=iHh7IJQAAAAJ&hl=en) |
 | Chinese University of Hong Kong| [Xiaoou Tang](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) |
+| Eindhoven University of Technology| [Josien Pluim](https://scholar.google.com/citations?hl=en&user=wjB-g1wAAAAJ)
 | Facebook AI Research | [Kaiming He](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&oi=ao) |
 | Facebook AI Research | [Ross Girshick](https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en) |
 | Google Brain | [Quoc V. Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en&oi=ao) |
@@ -264,8 +270,10 @@
 | King's College London | [Tom Vercauteren](https://scholar.google.com/citations?user=zduEJkcAAAAJ&hl=en&oi=ao) |
 | Harvard Medical School | [Adrian V. Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao) |
 | Harvard Medical School | [Ali Gholipour](https://scholar.google.com/citations?user=mPB7nkYAAAAJ&hl=en&oi=ao) |
+| Huazhong University of Science and Technology | [Xin Yang](https://scholar.google.com/citations?hl=en&user=lsz8OOYAAAAJ&view_op=list_works&sortby=pubdate)
 | Massachusetts Institute of Technology | [Polina Golland](https://scholar.google.com/citations?user=4GpKQUIAAAAJ&hl=en) |
 | Megvii | [Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en) |
+| New York University| [Yann LeCun](https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en&oi=ao) |
 | Radboud University | [Bram van Ginneken](https://scholar.google.com/citations?user=O1j6_MsAAAAJ&hl=en&oi=ao) |
 | Shanghai Jiao Tong University | [Qian Wang](https://scholar.google.com/citations?hl=en&user=m6ZNDewAAAAJ) |
 | Shanghai Tech University | [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en) |
@@ -276,6 +284,7 @@
 | University of British Columbia | [Purang Abolmaesumi](https://scholar.google.com/citations?user=gKZS5-IAAAAJ&hl=en&oi=ao) |
 | University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
 | University of Leeds | [Alejandro Frangi](https://scholar.google.com/citations?user=9fGrB0sAAAAJ&hl=en&oi=ao) |
+| University of Montreal | [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en) |
 | University of North Carolina at Chapel Hill | [Pew-Thian Yap](https://scholar.google.com/citations?user=QGdnthwAAAAJ&hl=en&oi=ao) |
 | University of Toronto | [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&oi=ao) |
 | University of Western Ontario | [Shuo Li](https://scholar.google.com/citations?hl=en&user=6WNtJa0AAAAJ) |
