@@ -101,6 +101,7 @@
 - [**IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) IF=11.079
 - [**IEEE Transactions on Medical Imaging**](https://www.embs.org/tmi/) IF=6.685
 - [**IEEE Transactions on Biomedical Engineering**](https://www.embs.org/tbme/) IF=4.424
+- [**IEEE Transactions on Computational Imaging**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) IF=4.015
 - [**IEEE Journal of Biomedical And Health Informatics**](https://www.embs.org/jbhi/) IF=5.223
 - [**IEEE Access**](https://ieeeaccess.ieee.org/) IF=3.745
 ### Elsevier
@@ -210,6 +211,7 @@
 
 ### Pointset, Mesh & Shape Learning
 #### Shape Generation & Editing
+- [**Variational Graph Auto-Encoders**](https://arxiv.org/pdf/1611.07308.pdf) *arXiv,* 2016.
 - [**A Point Set Generation Network for 3D Object Reconstruction from a Single Image**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) *CVPR,* 2017.
 - [**Variational Shape Completion for Virtual Planning of Jaw Reconstructive Surgery**](https://arxiv.org/pdf/1906.11957.pdf) *MICCAI,* 2019.
 - [**Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation**](https://ieeexplore.ieee.org/abstract/document/9055070) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
@@ -254,10 +256,11 @@
 | :- | :- | 
 | Apple | [Ian Goodfellow](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ&view_op=list_works&sortby=pubdate) |
 | China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
-| Cornell University | [Mert R. Sabuncu](https://scholar.google.com/citations?hl=en&user=Pig-I4QAAAAJ&view_op=list_works&sortby=pubdate) |
+| Chinese University of Hong Kong | [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=zh-CN) |
 | Chinese University of Hong Kong | [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en&oi=ao) |
 | Chinese University of Hong Kong | [Qi Dou](https://scholar.google.com/citations?user=iHh7IJQAAAAJ&hl=en) |
 | Chinese University of Hong Kong| [Xiaoou Tang](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) |
+| Cornell University | [Mert R. Sabuncu](https://scholar.google.com/citations?hl=en&user=Pig-I4QAAAAJ&view_op=list_works&sortby=pubdate) |
 | Eindhoven University of Technology| [Josien Pluim](https://scholar.google.com/citations?hl=en&user=wjB-g1wAAAAJ)
 | Facebook AI Research | [Kaiming He](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&oi=ao) |
 | Facebook AI Research | [Ross Girshick](https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en) |
@@ -280,6 +283,7 @@
 | Shenzhen University | [Dong Ni](https://scholar.google.com/citations?user=J27J2VUAAAAJ&hl=en&oi=ao) |
 | Technical University of Munich | [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) |
 | Tencent | [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao) |
+| United Imaging Intelligence | [Yaozong Gao](https://scholar.google.com/citations?hl=zh-CN&user=8BNBTaQAAAAJ&view_op=list_works&sortby=pubdate)
 | University of Amsterdam | [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao) |
 | University of British Columbia | [Purang Abolmaesumi](https://scholar.google.com/citations?user=gKZS5-IAAAAJ&hl=en&oi=ao) |
 | University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
@@ -288,7 +292,7 @@
 | University of North Carolina at Chapel Hill | [Pew-Thian Yap](https://scholar.google.com/citations?user=QGdnthwAAAAJ&hl=en&oi=ao) |
 | University of Toronto | [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&oi=ao) |
 | University of Western Ontario | [Shuo Li](https://scholar.google.com/citations?hl=en&user=6WNtJa0AAAAJ) |
- 
+
 ## <span id = "code">CodeBox</span>
 > CodeBox for fast coding  
 
