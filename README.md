@@ -281,6 +281,7 @@
 | Shanghai Jiao Tong University | [Qian Wang](https://scholar.google.com/citations?hl=en&user=m6ZNDewAAAAJ) |
 | Shanghai Tech University | [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en) |
 | Shenzhen University | [Dong Ni](https://scholar.google.com/citations?user=J27J2VUAAAAJ&hl=en&oi=ao) |
+| Swiss Federal Institute of Technology Zurich | [Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ&view_op=list_works) |
 | Technical University of Munich | [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) |
 | Tencent | [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao) |
 | United Imaging Intelligence | [Yaozong Gao](https://scholar.google.com/citations?hl=zh-CN&user=8BNBTaQAAAAJ&view_op=list_works&sortby=pubdate)
