@@ -5,6 +5,7 @@
 - [Programming Framework](#program)
 - [Dataset](#dataset)
 - [Journals](#journal)
+- [Paper](#paper)
 - [Leading Group & Researcher](#researcher)
 - [CodeBox](#code)
 
