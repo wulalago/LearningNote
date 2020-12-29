@@ -57,6 +57,8 @@
   > Python Library for Loading and Using Triangular Meshes.
 - [Open3d](https://github.com/intel-isl/Open3D)
   > A Modern Library for 3D Data Processing
+- [Optuna](https://github.com/optuna/optuna)
+  > A Hyperparameter Optimization Framework
 
 ### Software, APP & SDK 
 - [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
