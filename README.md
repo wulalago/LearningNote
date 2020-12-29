@@ -156,6 +156,8 @@
 - [**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**](https://ieeexplore.ieee.org/abstract/document/7785132)  *3DV,* 2016.
 - [**SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2017. 
 - [**UNet++: A Nested U-Net Architecture for Medical Image Segmentation**](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1) *DLMIA,* 2018.
+- [**VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images**](https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348) *NeuroImage,* 2018.
+- [**H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation From CT Volumes**](https://ieeexplore.ieee.org/abstract/document/8379359) *IEEE Transactions on Medical Imaging,* 2018.
 - [**DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**](https://ieeexplore.ieee.org/abstract/document/7913730)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2018.
 - [**Capsules for Biomedical Image Segmentation**](https://www.sciencedirect.com/science/article/pii/S136184152030253X) *Medical Image Analysis,* 2020.
 #### High-resolution & Efficient Model
@@ -237,6 +239,7 @@
 ### View Planning
 #### 2D View Planning
 - [**SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound**](https://ieeexplore.ieee.org/document/7974824) *IEEE Transactions on Medical Imaging,* 2017.
+- [**Ultrasound Standard Plane Detection Using a Composite Neural Network Framework**](https://ieeexplore.ieee.org/abstract/document/7890445) *IEEE Transactions on Cybernetics,* 2017.
 - [**Ultrasound Video Summarization using Deep Reinforcement Learning**](https://arxiv.org/pdf/2005.09531.pdf)  *MICCAI,* 2020. 
 #### 3D View Planning
 - [**Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network**](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  *MICCAI,* 2018. 
