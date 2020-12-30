@@ -208,7 +208,7 @@
 ### Self-supervised Learning
 #### Contrast & Consistent Learning
 - [**Robust Learning Through Cross-Task Consistency**](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  *CVPR,* 2020.
-- - [**Momentum Contrast for Unsupervised Visual Representation Learning**](https://arxiv.org/pdf/1911.05722.pdf) *CVPR,* 2020. 
+- [**Momentum Contrast for Unsupervised Visual Representation Learning**](https://arxiv.org/pdf/1911.05722.pdf) *CVPR,* 2020. 
 - [**A Simple Framework for Contrastive Learning of Visual Representations**](https://arxiv.org/pdf/2002.05709.pdf)  *arXiv,* 2020.
 
 ### Graph Neural Network
