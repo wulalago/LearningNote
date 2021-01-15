@@ -59,6 +59,8 @@
   > A Modern Library for 3D Data Processing
 - [Optuna](https://github.com/optuna/optuna)
   > A Hyperparameter Optimization Framework
+- [PyVista](https://github.com/pyvista/pyvista)
+  > A Helper Module for the Visualization Toolkit (VTK)
 
 ### Software, APP & SDK 
 - [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
