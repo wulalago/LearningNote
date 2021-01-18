@@ -1,5 +1,5 @@
 # LearningNote
-> A record of my course for deep learning
+> A record of my course for academic learning
 
 ## Contents
 - [Programming Framework](#program)
@@ -96,26 +96,39 @@
 - [Shenzhen Hospital X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
 
 ## <span id = "journal">Journals</span>
-### Springer
-- [**Nature Medicine**](https://www.nature.com/nm/) IF=36.13
-- [**Nature Biomedical Engineering**](https://www.nature.com/natbiomedeng/) IF=18.952
-- [**Nature Machine Intelligence**](https://www.nature.com/natmachintell/) 
-- [**International Journal of Computer Vision**](https://www.springer.com/journal/11263) IF=5.698
-### IEEE
-- [**IEEE Transactions on Pattern Analysis and Machine Intelligence**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) IF=17.861
-- [**IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) IF=11.079
-- [**IEEE Transactions on Medical Imaging**](https://www.embs.org/tmi/) IF=6.685
-- [**IEEE Transactions on Biomedical Engineering**](https://www.embs.org/tbme/) IF=4.424
-- [**IEEE Transactions on Computational Imaging**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) IF=4.015
-- [**IEEE Journal of Biomedical And Health Informatics**](https://www.embs.org/jbhi/) IF=5.223
-- [**IEEE Access**](https://ieeeaccess.ieee.org/) IF=3.745
-### Elsevier
-- [**Medical Image Analysis**](https://www.journals.elsevier.com/medical-image-analysis) IF=11.148
-- [**Pattern Recognition**](https://www.journals.elsevier.com/pattern-recognition) IF=7.196
-- [**NeuroImage**](https://www.journals.elsevier.com/neuroimage) IF=5.902
-- [**Neurocomputing**](https://www.journals.elsevier.com/neurocomputing) IF=4.438
-- [**Ultrasound in Medicine & Biology**](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) IF=2.514
-- [**Computer Methods and Programs in Biomedicine**](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) IF=3.632
+
+| Journal | IF |
+| :- | :- |
+| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 3.632 |
+| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.223 |
+| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.424 |
+| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.015 |
+| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.079 | 
+| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 6.685 |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 17.861 | 
+| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 |
+| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 |
+| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 18.952 |
+| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD | 
+| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | TBD |
+| [Nature Medicine](https://www.nature.com/nm/) | 36.13 |
+| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 4.438 |
+| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.902 |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 |
+| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.514 | 
+
+| Conference | Abbr |
+| :- | :- |
+|British Machine Vision Conference|BMVC|
+| Conference on Computer Vision and Pattern Recognition | CVPR |
+|Conference on Neural Information Processing Systems|NeurIPS|
+|European Conference on Computer Vision|ECCV|
+|International Conference on Computer Vision | ICCV |
+|International Conference on Learning Representations|ICLR|
+|International Conference on Machine Learning| ICML |
+|International Conference on Medical Image Computing and Computer Assisted Intervention| MICCAI |
+|International Symposium on Biomedical Imaging|ISBI|
+|Medical Imaging with Deep Learning| MIDL |
 
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
