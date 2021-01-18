@@ -120,39 +120,36 @@
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
 
-### Summary, Survey & Review
-- [**Deep Learning**](https://www.nature.com/articles/nature14539)  *Nature,* 2015.
-- [**A Survey on Deep Learning in Medical Image Analysis**](https://www.sciencedirect.com/science/article/pii/S1361841517301135)  *Medical Image Analysis,* 2017.
-- [**Bag of Tricks for Image Classification with Convolutional Neural Networks**](https://arxiv.org/pdf/1812.01187v2.pdf)  *CVPR,* 2019.
-- [**Deep Learning in Medical Ultrasound Analysis: A Review**](https://www.sciencedirect.com/science/article/pii/S2095809918301887) *Engineering,* 2019.
-- [**Deep Learning for Cardiac Image Segmentation: A Review**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066212/)  *Frontiers in Cardiovascular Medicine,* 2020.
-- [**Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey**](https://ieeexplore.ieee.org/abstract/document/9086055)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2020.
-- [**A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges**](https://arxiv.org/pdf/2011.06225.pdf) *arXiv,* 2021.
-
-### Basic Technology
-- [**Dropout: A Simple Way to Prevent Neural Networks from Overfitting**](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) *Journal of Machine Learning Research,* 2014.
-#### Normalization
-- [**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**](http://proceedings.mlr.press/v37/ioffe15.html) *ICML,* 2015.
-- [**Instance Normalization: The Missing Ingredient for Fast Stylization**](https://arxiv.org/abs/1607.08022) *arXiv,* 2016.
-- [**Layer Normalization**](https://openreview.net/forum?id=BJLa_ZC9) *NeurIPS,* 2016.
-- [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf) *ICCV,* 2017.
-- [**Group Normalization**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) *ECCV,* 2018.
-
-### Recognition
-- [**ImageNet Classification with Deep Convolutional Neural Networks**](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  *NeurIPS,* 2012.
-- [**Very Deep Convolutional Networks for Large-Scale Image Recognition**](https://arxiv.org/abs/1409.1556)  *ICLR,* 2015.
-- [**Going Deeper with Convolutions**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  *CVPR,* 2015.
-- [**Deep Residual Learning for Image Recognition**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)   *CVPR,* 2016.
-- [**Identity Mappings in Deep Residual Networks**](https://rd.springer.com/chapter/10.1007/978-3-319-46493-0_38)  *ECCV,* 2016.
-- [**Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) *AAAI,* 2017.
-- [**Densely Connected Convolutional Networks**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)  *CVPR,* 2017.
-- [**Aggregated Residual Transformations for Deep Neural Networks**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)  *CVPR,* 2017.
-- [**Dynamic Routing Between Capsules**](https://arxiv.org/pdf/1710.09829.pdf) *NeurIPS,* 2017.
-- [**Squeeze-and-Excitation Networks**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  *CVPR,* 2018.
-- [**MixConv: Mixed Depthwise Convolutional Kernels**](https://arxiv.org/pdf/1907.09595.pdf)  *BMVC,* 2019.
-- [**Res2Net: A New Multi-scale Backbone Architecture**](https://ieeexplore.ieee.org/abstract/document/8821313)  *IEEE Transactions on Pattern Analysis and Machine Intelligence,* 2019.
-#### Fine-grained
-- [**Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification**](https://arxiv.org/pdf/2005.10979.pdf)  *CVPR,* 2020.
+| Paper | Publication | Year |
+| :- | :- | :- |
+| *Summary, Survey & Review* |
+| [**Deep Learning**](https://www.nature.com/articles/nature14539) | Nature | 2015 |
+| [**A Survey on Deep Learning in Medical Image Analysis**](https://www.sciencedirect.com/science/article/pii/S1361841517301135) | MedIA | 2017 |
+| [**Bag of Tricks for Image Classification with Convolutional Neural Networks**](https://arxiv.org/pdf/1812.01187v2.pdf) | CVPR | 2019 |
+| [**Deep Learning in Medical Ultrasound Analysis: A Review**](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Engineering | 2019 |
+| [**Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey**](https://ieeexplore.ieee.org/abstract/document/9086055)  | IEEE T-PAMI | 2020 |
+| [**A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges**](https://arxiv.org/pdf/2011.06225.pdf) | arXiv | 2021 |
+| *Basic Technology* |
+| [**Dropout: A Simple Way to Prevent Neural Networks from Overfitting**](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) | JMLR | 2014 |
+| [**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**](http://proceedings.mlr.press/v37/ioffe15.html) | ICML | 2015 |
+| [**Instance Normalization: The Missing Ingredient for Fast Stylization**](https://arxiv.org/abs/1607.08022) | arXiv | 2016 |
+| [**Layer Normalization**](https://openreview.net/forum?id=BJLa_ZC9) | NeurIPS | 2016 |
+| [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf) | ICCV | 2017 |
+| [**Group Normalization**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) | ECCV | 2018 |
+| *Classification & Recognition* |
+| [**ImageNet Classification with Deep Convolutional Neural Networks**](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  |NeurIPS| 2012|
+| [**Very Deep Convolutional Networks for Large-Scale Image Recognition**](https://arxiv.org/abs/1409.1556)  |ICLR| 2015|
+| [**Going Deeper with Convolutions**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  |CVPR| 2015|
+| [**Deep Residual Learning for Image Recognition**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)  |CVPR| 2016|
+| [**Identity Mappings in Deep Residual Networks**](https://rd.springer.com/chapter/10.1007/978-3-319-46493-0_38)  |ECCV| 2016|
+| [**Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) |AAAI| 2017|
+| [**Densely Connected Convolutional Networks**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)  |CVPR| 2017|
+| [**Aggregated Residual Transformations for Deep Neural Networks**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)  |CVPR| 2017|
+| [**Dynamic Routing Between Capsules**](https://arxiv.org/pdf/1710.09829.pdf) |NeurIPS| 2017|
+| [**Squeeze-and-Excitation Networks**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  |CVPR| 2018|
+| [**MixConv: Mixed Depthwise Convolutional Kernels**](https://arxiv.org/pdf/1907.09595.pdf)  |BMVC| 2019|
+| [**Res2Net: A New Multi-scale Backbone Architecture**](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE T-PAMI| 2019|
+| [**Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification**](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
 
 ### Segmentation
 - [**Fully Convolutional Networks for Semantic Segmentation**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  *CVPR,* 2015. 
