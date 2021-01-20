@@ -81,9 +81,9 @@
 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) | JMLR | 2014 |
 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html) | ICML | 2015 |
 | [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022) | arXiv | 2016 |
-| [Layer Normalization**](https://openreview.net/forum?id=BJLa_ZC9) | NeurIPS | 2016 |
+| [Layer Normalization](https://openreview.net/forum?id=BJLa_ZC9) | NeurIPS | 2016 |
 | [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf) | ICCV | 2017 |
-| [Group Normalization**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) | ECCV | 2018 |
+| [Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) | ECCV | 2018 |
 | *Classification & Recognition* |
 | [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  |NeurIPS| 2012|
 | [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)  |ICLR| 2015|
