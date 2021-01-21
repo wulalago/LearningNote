@@ -100,7 +100,8 @@
 | [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE T-PAMI| 2019|
 | [Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
 | *Segmentation*|
-| [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  |CVPR| 2015 
+| [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  |CVPR| 2015 |
+| [Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding](https://arxiv.org/pdf/1511.02680.pdf) |arXiv|2015|
 | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28)  |MICCAI|2015| 
 | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)  |MICCAI| 2016|
 | [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7785132)  |3DV| 2016|
