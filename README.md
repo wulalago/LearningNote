@@ -78,6 +78,7 @@
 | [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9086055)  | IEEE T-PAMI | 2020 |
 | [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) |IEEE T-NNLS | 2020 | 
 | [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](https://arxiv.org/pdf/2011.06225.pdf) | arXiv | 2021 |
+| [Curriculum Learning: A Survey](https://arxiv.org/pdf/2101.10382.pdf) | arXiv | 2021 |
 | ***Basic Technology*** |
 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) | JMLR | 2014 |
 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html) | ICML | 2015 |
