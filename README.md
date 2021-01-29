@@ -44,12 +44,16 @@
 | [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 |
 | [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 |
 | [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 18.952 |
+| [Nature Communications](https://www.nature.com/ncomms/)| 12.121 |
 | [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD | 
 | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | TBD |
 | [Nature Medicine](https://www.nature.com/nm/) | 36.13 |
+| [Nature Protocols](http://www.nature.com/nprot)| 10.419 | 
 | [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 4.438 |
 | [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.902 |
 | [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 |
+| [PNAS](http://www.pnas.org/)| 9.412 |
+| [Science Advances](https://advances.sciencemag.org/)| 13.116 |
 | [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.514 | 
 
 | Conference | Abbr |
