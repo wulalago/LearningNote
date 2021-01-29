@@ -58,8 +58,10 @@
 
 | Conference | Abbr |
 | :- | :- |
+|ACM International Conference on Multimedia |ACMMM |
+|Asian Conference on Computer Vision|ACCV|
 |British Machine Vision Conference|BMVC|
-| Conference on Computer Vision and Pattern Recognition | CVPR |
+|Conference on Computer Vision and Pattern Recognition | CVPR |
 |Conference on Neural Information Processing Systems|NeurIPS|
 |European Conference on Computer Vision|ECCV|
 |International Conference on Computer Vision | ICCV |
