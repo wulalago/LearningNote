@@ -159,6 +159,7 @@
 | [Learning Part Generation and Assembly for Structure-Aware Shape Synthesis](https://ojs.aaai.org//index.php/AAAI/article/view/6798) |AAAI| 2020|
 | [Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://arxiv.org/abs/1912.03681) |MICCAI| 2020|
 | [Joint Learning of 3D Shape Retrieval and Deformation](https://arxiv.org/pdf/2101.07889.pdf) | arXiv | 2021 |
+| [NEMO : Neural Mesh Models of Contrastive Feature for Robust 3D Pose Estimation](https://arxiv.org/pdf/2101.12378.pdf) | ICLR | 2021 |
 | ***Generative & Simulation Model*** |
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
 | [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE T-MI| 2017|
