@@ -104,6 +104,7 @@
 | [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) |NeurIPS| 2017|
 | [Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  |CVPR| 2018|
 | [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/pdf/1907.09595.pdf)  |BMVC| 2019|
+| [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf) |ICCV| 2019|
 | [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE T-PAMI| 2019|
 | [Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
 | ***Segmentation***|
