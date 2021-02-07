@@ -105,6 +105,7 @@
 | [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) |NeurIPS| 2017|
 | [Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  |CVPR| 2018|
 | [Non-local Neural Networks](https://arxiv.org/pdf/1711.07971.pdf) |CVPR | 2018| 
+| [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06521v2.pdf) | ECCV|2018 |
 | [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/pdf/1907.09595.pdf)  |BMVC| 2019|
 | [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf) |ICCV| 2019|
 | [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE T-PAMI| 2019|
@@ -125,6 +126,7 @@
 | [Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks](https://arxiv.org/pdf/1808.08127.pdf) |IEEE T-MI| 2018|
 | [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/pdf/1905.06368.pdf)  |ICCV| 2019|
 | [Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/pdf/1907.07034.pdf) |MICCAI| 2019|
+| [Dual Attention Network for Scene Segmentation](https://arxiv.org/pdf/1809.02983.pdf)| CVPR|2019 |
 | [Capsules for Biomedical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S136184152030253X) | MedIA|2020|
 | [LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation](https://arxiv.org/abs/2003.07072) |CVPR| 2020|
 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2004.04581) | CVPR | 2020 |
