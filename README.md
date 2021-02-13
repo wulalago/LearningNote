@@ -20,6 +20,7 @@
 |[Gym](https://github.com/openai/gym)|Reinforcement Learning|
 |[Kornia](https://github.com/kornia/kornia)|Differentiable Computer Vision|
 |[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
+|[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
 |[OpenCV](https://opencv.org/)|Computer Vision|
 |[Pywick](https://github.com/achaiah/pywick)|High-level Training|
 |[PyTorch](https://pytorch.org/)|General Deep Learning|
