@@ -131,6 +131,7 @@
 | [Capsules for Biomedical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S136184152030253X) | MedIA|2020|
 | [LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation](https://arxiv.org/abs/2003.07072) |CVPR| 2020|
 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2004.04581) | CVPR | 2020 |
+| [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf)| CVPR | 2020 |
 | ***Detection***|
 | [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  |CVPR| 2014|
 | [Fast R-CNN](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) |ICCV| 2015|
