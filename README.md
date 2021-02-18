@@ -152,6 +152,7 @@
 | [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf) |AAAI| 2016|
 | [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf) |ICML| 2016|
 | [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) |ICLR| 2016 |
+| [Learning to paint with model-based deep reinforcement learning](https://arxiv.org/pdf/1903.04411.pdf) | ICCV | 2019 |
 | [Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection](https://www.sciencedirect.com/science/article/pii/S1361841518306121) |MedIA| 2019|
 | [Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans](https://ieeexplore.ieee.org/abstract/document/8187667) |IEEE T-PAMI| 2019 |
 | ***Self-supervised Learning*** | 
