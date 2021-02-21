@@ -202,6 +202,7 @@
 | Imperial College London | [Bernhard Kainz](https://scholar.google.com/citations?user=Igxq-YEAAAAJ&hl=en&oi=ao) |
 | Imperial College London | [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao) |
 | Imperial College London | [Wenjia Bai](https://scholar.google.com/citations?user=IA1QFM4AAAAJ&hl=en&oi=ao) |
+| Inria | [Nicholas Ayache](https://scholar.google.com/citations?hl=zh-CN&user=29XL16UAAAAJ&view_op=list_works&sortby=pubdate)|
 | King's College London | [Tom Vercauteren](https://scholar.google.com/citations?user=zduEJkcAAAAJ&hl=en&oi=ao) |
 | Harvard Medical School | [Adrian V. Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao) |
 | Harvard Medical School | [Ali Gholipour](https://scholar.google.com/citations?user=mPB7nkYAAAAJ&hl=en&oi=ao) |
