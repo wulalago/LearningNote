@@ -173,6 +173,7 @@
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
 | [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE T-MI| 2017|
 | [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACMMM| 2019|
+| [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a/antelmi19a.pdf) | ICML | 2019 |
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
 | ***View Planning*** |
