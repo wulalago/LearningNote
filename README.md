@@ -178,7 +178,7 @@
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
 | ***View Planning*** |
 | [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE T-MI| 2017|
-| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE T-Cybern | 2017|
+| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE T-Cyber | 2017|
 | [Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  |MICCAI| 2018|
 | [Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1806.03228.pdf)  |MICCAI| 2018| 
 | [Ultrasound Video Summarization using Deep Reinforcement Learning](https://arxiv.org/pdf/2005.09531.pdf)  |MICCAI| 2020| 
