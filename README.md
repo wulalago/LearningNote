@@ -2,15 +2,16 @@
 > A record of my course for academic learning
 
 ## Contents
-- [Programming Framework](#program)
+- [Programming Frameworks](#program)
 - [Journals](#journal)
-- [Paper](#paper)
-- [Leading Group & Researcher](#researcher)
-- [Dataset](#dataset)
+- [Resources](#resource)
+- [Papers](#paper)
+- [Leading Researchers](#researcher)
+- [Datasets](#dataset)
 - [CodeBox](#code)
 
 
-## <span id = "program">Programming Framework</span>
+## <span id = "program">Programming Frameworks</span>
 > Contents of the programming framework for machine learning and medical image computing  
 
 | Library | Usage |
@@ -71,6 +72,13 @@
 |International Conference on Medical Image Computing and Computer Assisted Intervention| MICCAI |
 |International Symposium on Biomedical Imaging|ISBI|
 |Medical Imaging with Deep Learning| MIDL |
+
+## <span id = "resource">Resources</span>
+> Useful resources
+
+| Tool | Content | 
+| :- | :- |
+| [Procrustes Analysis](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421) | Python code for Procrustes analysis |
 
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
