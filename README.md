@@ -76,8 +76,9 @@
 ## <span id = "resource">Resources</span>
 > Useful resources
 
-| Tool | Content | 
+| Resource | Content | 
 | :- | :- |
+| [MCVAE](https://github.com/ggbioing/mcvae) | Official code for multi-task and multi-channel VAE |
 | [Procrustes Analysis](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421) | Python code for Procrustes analysis |
 
 ## <span id = "paper">Papers</span>
