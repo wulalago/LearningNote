@@ -172,6 +172,7 @@
 | [Variational Graph Auto-Encoders](https://arxiv.org/pdf/1611.07308.pdf) |arXiv| 2016|
 | [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) |CVPR| 2017|
 | [Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/abs/1807.10267)| ECCV | 2018 |
+| [3D Cardiac Shape Prediction with Deep Neural Networks: Simultaneous Use of Images and Patient Metadata](https://arxiv.org/pdf/1907.01913.pdf) | MICCAI | 2019 | 
 | [Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070) |IEEE T-PAMI| 2020|
 | [Learning to Infer Semantic Parameters for 3D Shape Editing](https://arxiv.org/pdf/2011.04755.pdf)  |arXiv| 2020|
 | [Learning Part Generation and Assembly for Structure-Aware Shape Synthesis](https://ojs.aaai.org//index.php/AAAI/article/view/6798) |AAAI| 2020|
