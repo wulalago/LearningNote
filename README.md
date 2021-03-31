@@ -91,8 +91,8 @@
 | [A Survey on Deep Learning in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841517301135) | MedIA | 2017 |
 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187v2.pdf) | CVPR | 2019 |
 | [Deep Learning in Medical Ultrasound Analysis: A Review](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Engineering | 2019 |
-| [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9086055)  | IEEE T-PAMI | 2020 |
-| [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) |IEEE T-NNLS | 2020 | 
+| [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9086055)  | IEEE TPAMI | 2020 |
+| [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) |IEEE TNNLS | 2020 | 
 | [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](https://arxiv.org/pdf/2011.06225.pdf) | arXiv | 2021 |
 | [Curriculum Learning: A Survey](https://arxiv.org/pdf/2101.10382.pdf) | arXiv | 2021 |
 | ***Basic Technology*** |
@@ -118,7 +118,7 @@
 | [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06521v2.pdf) | ECCV|2018 |
 | [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/pdf/1907.09595.pdf)  |BMVC| 2019|
 | [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf) |ICCV| 2019|
-| [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE T-PAMI| 2019|
+| [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE TPAMI| 2019|
 | [Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
 | ***Segmentation***|
 | [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  |CVPR| 2015 |
@@ -126,14 +126,14 @@
 | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28)  |MICCAI|2015| 
 | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)  |MICCAI| 2016|
 | [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7785132)  |3DV| 2016|
-| [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) |IEEE T-PAMI| 2017| 
+| [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) |IEEE TPAMI| 2017| 
 | [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1) |DLMIA| 2018|
 | [VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images](https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348) |NeuroImage| 2018|
 | [Attention U-Net: Learning Where to Look for the Pancreas](https://openreview.net/pdf?id=Skft7cijM)  |MIDL| 2018|
 | [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545)  |ECCV| 2018 |
-| [H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation From CT Volumes](https://ieeexplore.ieee.org/abstract/document/8379359) |IEEE T-PAMI| 2018|
-| [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://ieeexplore.ieee.org/abstract/document/7913730)  |IEEE T-PAMI| 2018|
-| [Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks](https://arxiv.org/pdf/1808.08127.pdf) |IEEE T-MI| 2018|
+| [H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation From CT Volumes](https://ieeexplore.ieee.org/abstract/document/8379359) |IEEE TPAMI| 2018|
+| [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://ieeexplore.ieee.org/abstract/document/7913730)  |IEEE TPAMI| 2018|
+| [Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks](https://arxiv.org/pdf/1808.08127.pdf) |IEEE TMI| 2018|
 | [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/pdf/1905.06368.pdf)  |ICCV| 2019|
 | [Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/pdf/1907.07034.pdf) |MICCAI| 2019|
 | [Dual Attention Network for Scene Segmentation](https://arxiv.org/pdf/1809.02983.pdf)| CVPR|2019 |
@@ -145,7 +145,7 @@
 | [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  |CVPR| 2014|
 | [Fast R-CNN](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) |ICCV| 2015|
 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  |NeurIPS| 2015|
-| [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://ieeexplore.ieee.org/abstract/document/7005506)  |IEEE T-PAMI| 2015|
+| [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://ieeexplore.ieee.org/abstract/document/7005506)  |IEEE TPAMI| 2015|
 | [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf) |ECCV| 2016|
 | [Focal Loss for Dense Object Detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  |ICCV| 2017|
 | [Feature Pyramid Networks for Object Detection](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)  |CVPR| 2017|
@@ -163,7 +163,7 @@
 | [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) |ICLR| 2016 |
 | [Learning to paint with model-based deep reinforcement learning](https://arxiv.org/pdf/1903.04411.pdf) | ICCV | 2019 |
 | [Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection](https://www.sciencedirect.com/science/article/pii/S1361841518306121) |MedIA| 2019|
-| [Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans](https://ieeexplore.ieee.org/abstract/document/8187667) |IEEE T-PAMI| 2019 |
+| [Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans](https://ieeexplore.ieee.org/abstract/document/8187667) |IEEE TPAMI| 2019 |
 | ***Self-supervised Learning*** | 
 | [Robust Learning Through Cross-Task Consistency](https://consistency.epfl.ch/Cross_Task_Consistency_CVPR2020.pdf)  |CVPR| 2020|
 | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf) |CVPR| 2020|
@@ -173,7 +173,7 @@
 | [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) |CVPR| 2017|
 | [Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/abs/1807.10267)| ECCV | 2018 |
 | [3D Cardiac Shape Prediction with Deep Neural Networks: Simultaneous Use of Images and Patient Metadata](https://arxiv.org/pdf/1907.01913.pdf) | MICCAI | 2019 | 
-| [Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070) |IEEE T-PAMI| 2020|
+| [Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070) |IEEE TPAMI| 2020|
 | [Learning to Infer Semantic Parameters for 3D Shape Editing](https://arxiv.org/pdf/2011.04755.pdf)  |arXiv| 2020|
 | [Learning Part Generation and Assembly for Structure-Aware Shape Synthesis](https://ojs.aaai.org//index.php/AAAI/article/view/6798) |AAAI| 2020|
 | [Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://arxiv.org/abs/1912.03681) |MICCAI| 2020|
@@ -181,14 +181,14 @@
 | [NEMO : Neural Mesh Models of Contrastive Feature for Robust 3D Pose Estimation](https://arxiv.org/pdf/2101.12378.pdf) | ICLR | 2021 |
 | ***Generative & Simulation Model*** |
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
-| [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE T-MI| 2017|
+| [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE TMI| 2017|
 | [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACMMM| 2019|
 | [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a/antelmi19a.pdf) | ICML | 2019 |
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
 | ***View Planning*** |
-| [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE T-MI| 2017|
-| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE T-C | 2017|
+| [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE TMI| 2017|
+| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE TCyb | 2017|
 | [Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  |MICCAI| 2018|
 | [Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1806.03228.pdf)  |MICCAI| 2018| 
 | [Ultrasound Video Summarization using Deep Reinforcement Learning](https://arxiv.org/pdf/2005.09531.pdf)  |MICCAI| 2020| 
