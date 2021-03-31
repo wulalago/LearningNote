@@ -60,7 +60,7 @@
 
 | Conference | Abbr |
 | :- | :- |
-|ACM International Conference on Multimedia |ACMMM |
+|ACM International Conference on Multimedia |ACM MM |
 |Asian Conference on Computer Vision|ACCV|
 |British Machine Vision Conference|BMVC|
 |Conference on Computer Vision and Pattern Recognition | CVPR |
@@ -182,10 +182,11 @@
 | ***Generative & Simulation Model*** |
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
 | [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE TMI| 2017|
-| [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACMMM| 2019|
+| [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACM MM| 2019|
 | [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a/antelmi19a.pdf) | ICML | 2019 |
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
+| [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a.html)| ICML | 2019|
 | ***View Planning*** |
 | [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE TMI| 2017|
 | [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE TCyb | 2017|
