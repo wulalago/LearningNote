@@ -179,7 +179,7 @@
 | [Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://arxiv.org/abs/1912.03681) |MICCAI| 2020|
 | [Joint Learning of 3D Shape Retrieval and Deformation](https://arxiv.org/pdf/2101.07889.pdf) | arXiv | 2021 |
 | [NEMO : Neural Mesh Models of Contrastive Feature for Robust 3D Pose Estimation](https://arxiv.org/pdf/2101.12378.pdf) | ICLR | 2021 |
-| ***Generative & Simulation Model*** |
+| ***Generative, Super-resolution & Simulation Model*** |
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
 | [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE TMI| 2017|
 | [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACM MM| 2019|
@@ -187,9 +187,10 @@
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
 | [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a.html)| ICML | 2019|
+| [Best-Buddy GANs for Highly Detailed Image Super-Resolution](https://arxiv.org/pdf/2103.15295.pdf)| arXiv| 2021|
 | ***View Planning*** |
 | [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE TMI| 2017|
-| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE TCyb | 2017|
+| [Ultrasound Standard Plane Detection Using a Composite Neural Network Framework](https://ieeexplore.ieee.org/abstract/document/7890445) | IEEE TCs | 2017|
 | [Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network](https://rd.springer.com/chapter/10.1007/978-3-030-00928-1_45)  |MICCAI| 2018|
 | [Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1806.03228.pdf)  |MICCAI| 2018| 
 | [Ultrasound Video Summarization using Deep Reinforcement Learning](https://arxiv.org/pdf/2005.09531.pdf)  |MICCAI| 2020| 
