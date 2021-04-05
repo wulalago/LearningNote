@@ -23,6 +23,7 @@
 |[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
 |[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
 |[OpenCV](https://opencv.org/)|Computer Vision|
+|[Psutils](https://github.com/giampaolo/psutil) | CPU Monitor  |
 |[Pywick](https://github.com/achaiah/pywick)|High-level Training|
 |[PyTorch](https://pytorch.org/)|General Deep Learning|
 |[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | Geometric Deep Learning |
