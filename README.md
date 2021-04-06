@@ -121,6 +121,7 @@
 | [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf) |ICCV| 2019|
 | [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE TPAMI| 2019|
 | [Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
+| [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/pdf/2101.03697.pdf) | arXiv | 2021 |
 | ***Segmentation***|
 | [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  |CVPR| 2015 |
 | [Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding](https://arxiv.org/pdf/1511.02680.pdf) |arXiv|2015|
