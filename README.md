@@ -233,11 +233,12 @@
 | Swiss Federal Institute of Technology Zurich | [Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ&view_op=list_works) |
 | Technical University of Munich | [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) |
 | Tencent | [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao) |
-| United Imaging Intelligence | [Yaozong Gao](https://scholar.google.com/citations?hl=zh-CN&user=8BNBTaQAAAAJ&view_op=list_works&sortby=pubdate)
+| United Imaging Intelligence | [Yaozong Gao](https://scholar.google.com/citations?hl=zh-CN&user=8BNBTaQAAAAJ&view_op=list_works&sortby=pubdate) |
+| University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
 | University of Amsterdam | [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao) |
 | University of British Columbia | [Purang Abolmaesumi](https://scholar.google.com/citations?user=gKZS5-IAAAAJ&hl=en&oi=ao) |
 | University of Electronic Science and Technology of China | [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) |
-| University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
+| University of Hong Kong | [Lequan Yu](https://scholar.google.com/citations?hl=en&user=llXf3wUAAAAJ&view_op=list_works) |
 | University of Leeds | [Alejandro Frangi](https://scholar.google.com/citations?user=9fGrB0sAAAAJ&hl=en&oi=ao) |
 | University of Montreal | [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en) |
 | University of North Carolina at Chapel Hill | [Pew-Thian Yap](https://scholar.google.com/citations?user=QGdnthwAAAAJ&hl=en&oi=ao) |
@@ -248,7 +249,6 @@
 ### Natural Images
 #### Classification
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
-- [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)
 #### 3D Shape
 - [ShapeNet](https://www.shapenet.org/)
 ### Medical Images
