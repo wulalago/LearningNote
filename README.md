@@ -184,6 +184,8 @@
 | ***Generative, Super-resolution & Simulation Model*** |
 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) |arXiv| 2013|
 | [MRISIMUL: A GPU-Based Parallel Approach to MRI Simulations](https://ieeexplore.ieee.org/document/6671435) |IEEE TMI| 2017|
+| [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf) | ICCV | 2017 |
+| [Image-to-Image Translation with Conditional Adversarial Nets](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf) | CVPR | 2017 |
 | [Learning to Simulate Complex Scenes](https://arxiv.org/pdf/2006.14611.pdf)  |ACM MM| 2019|
 | [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a/antelmi19a.pdf) | ICML | 2019 |
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
@@ -203,6 +205,7 @@
 | :- | :- | 
 | Amazon| [Mu Li](https://scholar.google.com/citations?user=Z_WrhK8AAAAJ&hl=en&oi=ao) |
 | Apple | [Ian Goodfellow](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ&view_op=list_works&sortby=pubdate) |
+| Carnegie Mellon University | [Junyan Zhu](https://scholar.google.com/citations?user=UdpacsMAAAAJ&hl=en) |
 | Carnegie Mellon University | [Tianqi Chen](https://scholar.google.com/citations?user=7nlvOMQAAAAJ&hl=en&oi=ao) | 
 | China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
 | Chinese University of Hong Kong | [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=zh-CN) |
