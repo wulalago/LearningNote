@@ -201,7 +201,9 @@
 ## <span id = "researcher">Leading Group & Researcher</span>
 | Affiliation | Name|
 | :- | :- | 
+| Amazon| [Mu Li](https://scholar.google.com/citations?user=Z_WrhK8AAAAJ&hl=en&oi=ao) |
 | Apple | [Ian Goodfellow](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ&view_op=list_works&sortby=pubdate) |
+| Carnegie Mellon University | [Tianqi Chen](https://scholar.google.com/citations?user=7nlvOMQAAAAJ&hl=en&oi=ao) | 
 | China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
 | Chinese University of Hong Kong | [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=zh-CN) |
 | Chinese University of Hong Kong | [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en&oi=ao) |
