@@ -191,6 +191,7 @@
 | [Learning to Simulate](http://arxiv.org/pdf/1810.02513v2.pdf)  |ICLR| 2019|
 | [Learning Conditional Deformable Templates with Convolutional Networks](https://arxiv.org/pdf/1908.02738.pdf) |NeurIPS| 2019| 
 | [Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data](http://proceedings.mlr.press/v97/antelmi19a.html)| ICML | 2019|
+| [Parameter-Free Style Projection for Arbitrary Style Transfer](https://arxiv.org/pdf/2003.07694.pdf) | arXiv | 2020 |
 | [Best-Buddy GANs for Highly Detailed Image Super-Resolution](https://arxiv.org/pdf/2103.15295.pdf)| arXiv| 2021|
 | ***View Planning*** |
 | [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://ieeexplore.ieee.org/document/7974824) |IEEE TMI| 2017|
