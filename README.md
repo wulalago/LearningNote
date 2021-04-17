@@ -3,7 +3,7 @@
 
 ## Contents
 - [Programming Frameworks](#program)
-- [Journals](#journal)
+- [Journals & Conferences](#journal)
 - [Resources](#resource)
 - [Papers](#paper)
 - [Leading Researchers](#researcher)
@@ -12,52 +12,55 @@
 
 
 ## <span id = "program">Programming Frameworks</span>
-> Contents of the programming framework for machine learning and medical image computing  
 
 | Library | Usage |
 | :- | :- |
-|[ANTsPy](https://github.com/ANTsX/ANTsPy)| Medical Registration & Segmentation |
+|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Medical Registration & Segmentation|
 |[CuPy](https://github.com/cupy/cupy)|GPU Programming |
 |[Gym](https://github.com/openai/gym)|Reinforcement Learning|
 |[Kornia](https://github.com/kornia/kornia)|Differentiable Computer Vision|
 |[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
 |[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
 |[OpenCV](https://opencv.org/)|Computer Vision|
-|[Psutils](https://github.com/giampaolo/psutil) | CPU Monitor  |
+|[Psutils](https://github.com/giampaolo/psutil)|CPU Monitor|
 |[Pywick](https://github.com/achaiah/pywick)|High-level Training|
 |[PyTorch](https://pytorch.org/)|General Deep Learning|
 |[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | Geometric Deep Learning |
 |[PyVista](https://github.com/pyvista/pyvista)|Hyper Module for VTK|
 |[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
 |[TensorRT](https://developer.nvidia.com/tensorrt)|High-performance Inference|
+|[Torchinfo](https://github.com/TylerYep/torchinfo)|Model Summary|
 |[Torch Optimizer](https://github.com/jettify/pytorch-optimizer)| Optimization |
 |[Trimesh](https://github.com/mikedh/trimesh)|IO for Mesh|
 
-## <span id = "journal">Journals</span>
+## <span id = "journal">Journals & Conferences</span>
 
-| Journal | IF |
-| :- | :- |
-| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 3.632 |
-| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.223 |
-| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.424 |
-| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.015 |
-| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.079 | 
-| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 6.685 |
-| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 17.861 | 
-| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 |
-| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 |
-| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 18.952 |
-| [Nature Communications](https://www.nature.com/ncomms/)| 12.121 |
-| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD | 
-| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | TBD |
-| [Nature Medicine](https://www.nature.com/nm/) | 36.13 |
-| [Nature Protocols](http://www.nature.com/nprot)| 10.419 | 
-| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 4.438 |
-| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.902 |
-| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 |
-| [PNAS](http://www.pnas.org/)| 9.412 |
-| [Science Advances](https://advances.sciencemag.org/)| 13.116 |
-| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.514 | 
+| Journal | IF | 中科院分区 |
+| :- | :- | :- |
+| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 3.632 | 2区 |
+| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 3.707 | 3区| 
+| [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD | TBD |
+| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.223 | 2区 Top |
+| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.424 | 2区 |
+| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.015 | 2区 |
+| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.079 | 1区 Top |
+| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 6.685 | 1区 Top |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 17.861 | 1区 Top |
+| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 | 1区 Top |
+| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 | 1区 Top |
+| [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 3.317 | 2区 |
+| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 18.952 | 1区 Top |
+| [Nature Communications](https://www.nature.com/ncomms/)| 12.121 | 1区 Top |
+| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD | TBD |
+| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | TBD | TBD |
+| [Nature Medicine](https://www.nature.com/nm/) | 36.13 | 1区 Top |
+| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 4.438 | 2区 Top |
+| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.902 | 1区 Top |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 | 1区 Top |
+| [PNAS](http://www.pnas.org/)| 9.412 | 1区 Top |
+| [Radiology](https://pubs.rsna.org/journal/radiology) | 7.931 | 1区 Top |
+| [Science Advances](https://advances.sciencemag.org/)| 13.116 | 1区 Top |
+| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.514 | 3区 |
 
 | Conference | Abbr |
 | :- | :- |
@@ -75,7 +78,6 @@
 |Medical Imaging with Deep Learning| MIDL |
 
 ## <span id = "resource">Resources</span>
-> Useful resources
 
 | Resource | Content | 
 | :- | :- |
