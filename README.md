@@ -30,6 +30,7 @@
 |[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
 |[TensorRT](https://developer.nvidia.com/tensorrt)|High-performance Inference|
 |[Torchinfo](https://github.com/TylerYep/torchinfo)|Model Summary|
+|[TorchIO](https://github.com/fepegar/torchio)| 3D Medical Images for Deep Learning|
 |[Torch Optimizer](https://github.com/jettify/pytorch-optimizer)| Optimization |
 |[Trimesh](https://github.com/mikedh/trimesh)|IO for Mesh|
 
