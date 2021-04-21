@@ -84,6 +84,7 @@
 | :- | :- |
 | [MCVAE](https://github.com/ggbioing/mcvae) | Official code for multi-task and multi-channel VAE |
 | [Procrustes Analysis](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421) | Python code for Procrustes analysis |
+| [Pair Norm](https://github.com/LingxiaoShawn/PairNorm) | Official code for pair normalization | 
 
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
