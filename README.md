@@ -6,14 +6,10 @@
 - [Journals & Conferences](#journal)
 - [Resources](#resource)
 - [Papers](#paper)
-- [Leading Researchers](#researcher)
-- [Datasets](#dataset)
-- [CodeBox](#code)
-
 
 ## <span id = "program">Programming Frameworks</span>
 
-| Library | Usage |
+| Libraries | Usage |
 | :- | :- |
 |[ANTsPy](https://github.com/ANTsX/ANTsPy)|Medical Registration & Segmentation|
 |[CuPy](https://github.com/cupy/cupy)|GPU Programming |
@@ -24,7 +20,8 @@
 |[OpenCV](https://opencv.org/)|Computer Vision|
 |[Psutils](https://github.com/giampaolo/psutil)|CPU Monitor|
 |[Pywick](https://github.com/achaiah/pywick)|High-level Training|
-|[PyTorch](https://pytorch.org/)|General Deep Learning|
+|[PyTorch](https://pytorch.org/)|General Deep Learning| 
+|[PyTorch](https://github.com/facebookresearch/pytorch3d)| 3D Computer Vision | 
 |[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | Geometric Deep Learning |
 |[PyVista](https://github.com/pyvista/pyvista)|Hyper Module for VTK|
 |[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
@@ -204,83 +201,4 @@
 | [Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1806.03228.pdf)  |MICCAI| 2018| 
 | [Ultrasound Video Summarization using Deep Reinforcement Learning](https://arxiv.org/pdf/2005.09531.pdf)  |MICCAI| 2020| 
 
-
-## <span id = "researcher">Leading Group & Researcher</span>
-| Affiliation | Name|
-| :- | :- | 
-| Amazon| [Mu Li](https://scholar.google.com/citations?user=Z_WrhK8AAAAJ&hl=en&oi=ao) |
-| Apple | [Ian Goodfellow](https://scholar.google.com/citations?hl=en&user=iYN86KEAAAAJ&view_op=list_works&sortby=pubdate) |
-| Carnegie Mellon University | [Junyan Zhu](https://scholar.google.com/citations?user=UdpacsMAAAAJ&hl=en) |
-| Carnegie Mellon University | [Tianqi Chen](https://scholar.google.com/citations?user=7nlvOMQAAAAJ&hl=en&oi=ao) | 
-| China Academy of Science | [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en&oi=ao) |
-| Chinese University of Hong Kong | [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=zh-CN) |
-| Chinese University of Hong Kong | [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en&oi=ao) |
-| Chinese University of Hong Kong | [Qi Dou](https://scholar.google.com/citations?user=iHh7IJQAAAAJ&hl=en) |
-| Chinese University of Hong Kong| [Xiaoou Tang](https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en) |
-| Cornell University | [Mert R. Sabuncu](https://scholar.google.com/citations?hl=en&user=Pig-I4QAAAAJ&view_op=list_works&sortby=pubdate) |
-| Eindhoven University of Technology| [Josien Pluim](https://scholar.google.com/citations?hl=en&user=wjB-g1wAAAAJ)
-| Facebook AI Research | [Kaiming He](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&oi=ao) |
-| Facebook AI Research | [Ross Girshick](https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en) |
-| Google Brain | [Quoc V. Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en&oi=ao) |
-| Google DeepMind | [David Silver](https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=en&oi=ao) |
-| Google Research | [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en&oi=ao) |
-| Imperial College London | [Bernhard Kainz](https://scholar.google.com/citations?user=Igxq-YEAAAAJ&hl=en&oi=ao) |
-| Imperial College London | [Ben Glocker](https://scholar.google.co.uk/citations?user=g_HtjLIAAAAJ) |
-| Imperial College London | [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao) |
-| Imperial College London | [Wenjia Bai](https://scholar.google.com/citations?user=IA1QFM4AAAAJ&hl=en&oi=ao) |
-| Inria | [Nicholas Ayache](https://scholar.google.com/citations?hl=zh-CN&user=29XL16UAAAAJ&view_op=list_works&sortby=pubdate)|
-| King's College London | [Tom Vercauteren](https://scholar.google.com/citations?user=zduEJkcAAAAJ&hl=en&oi=ao) |
-| Harvard Medical School | [Adrian V. Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao) |
-| Harvard Medical School | [Ali Gholipour](https://scholar.google.com/citations?user=mPB7nkYAAAAJ&hl=en&oi=ao) |
-| Huazhong University of Science and Technology | [Xin Yang](https://scholar.google.com/citations?hl=en&user=lsz8OOYAAAAJ&view_op=list_works&sortby=pubdate)
-| Massachusetts Institute of Technology | [Polina Golland](https://scholar.google.com/citations?user=4GpKQUIAAAAJ&hl=en) |
-| Megvii | [Jian Sun](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en) |
-| New York University| [Yann LeCun](https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en&oi=ao) |
-| Radboud University | [Bram van Ginneken](https://scholar.google.com/citations?user=O1j6_MsAAAAJ&hl=en&oi=ao) |
-| Shanghai Jiao Tong University | [Qian Wang](https://scholar.google.com/citations?hl=en&user=m6ZNDewAAAAJ) |
-| Shanghai Tech University | [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en) |
-| Shenzhen University | [Dong Ni](https://scholar.google.com/citations?user=J27J2VUAAAAJ&hl=en&oi=ao) |
-| Swiss Federal Institute of Technology Zurich | [Luc Van Gool](https://scholar.google.com/citations?hl=zh-CN&user=TwMib_QAAAAJ&view_op=list_works) |
-| Technical University of Munich | [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) |
-| Tencent | [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao) |
-| United Imaging Intelligence | [Yaozong Gao](https://scholar.google.com/citations?hl=zh-CN&user=8BNBTaQAAAAJ&view_op=list_works&sortby=pubdate) |
-| University College London | [Yipeng Hu](https://scholar.google.com/citations?user=_jYXK0IAAAAJ&hl=en&oi=ao) |
-| University of Amsterdam | [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao) |
-| University of British Columbia | [Purang Abolmaesumi](https://scholar.google.com/citations?user=gKZS5-IAAAAJ&hl=en&oi=ao) |
-| University of Electronic Science and Technology of China | [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) |
-| University of Hong Kong | [Lequan Yu](https://scholar.google.com/citations?hl=en&user=llXf3wUAAAAJ&view_op=list_works) |
-| University of Leeds | [Alejandro Frangi](https://scholar.google.com/citations?user=9fGrB0sAAAAJ&hl=en&oi=ao) |
-| University of Montreal | [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en) |
-| University of North Carolina at Chapel Hill | [Pew-Thian Yap](https://scholar.google.com/citations?user=QGdnthwAAAAJ&hl=en&oi=ao) |
-| University of Toronto | [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&oi=ao) |
-| University of Western Ontario | [Shuo Li](https://scholar.google.com/citations?hl=en&user=6WNtJa0AAAAJ) |
-
-## <span id = "dataset">Dataset</span>
-### Natural Images
-#### Classification
-- [MNIST](http://yann.lecun.com/exdb/mnist/)
-#### 3D Shape
-- [ShapeNet](https://www.shapenet.org/)
-### Medical Images
-#### Heart
-- [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
-- [Left Atrial Wall Thickness Challenge (SLAWT)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html)
-- [Left Atrium Fibrosis Benchmark (cDEMRIS)](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/fibrosis/index.html)
-- [Left Ventricle Infarct](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html)
-#### Eye
-- [DRIVE: Digital Retinal Images for Vessel Extraction](https://drive.grand-challenge.org/DRIVE/)
-- [IOSTAR – Retinal Vessel Segmentation and Artery/Vein Classification Dataset](http://www.retinacheck.org/datasets)
-#### Lung
-- [JSRT](http://db.jsrt.or.jp/eng.php)
-- [Montgomery County X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
-- [Shenzhen Hospital X-ray Set](https://lhncbc.nlm.nih.gov/publication/pub9931)
-
-## <span id = "code">CodeBox</span>
-> CodeBox for fast coding  
-
-- **Metrics**
-  - [segmentation](codebox/metrics/segmentation.py)
-    - dice_ratio
-  - [registration](codebox/metrics/registration.py)
-    - negative_Jacobian
 
