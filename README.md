@@ -82,6 +82,7 @@
 | [MCVAE](https://github.com/ggbioing/mcvae) | Official code for multi-task and multi-channel VAE |
 | [Procrustes Analysis](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421) | Python code for Procrustes analysis |
 | [Pair Norm](https://github.com/LingxiaoShawn/PairNorm) | Official code for pair normalization | 
+| [Segmentation losses](https://github.com/JunMa11/SegLoss) | Collection of the segmentation losses |
 
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
