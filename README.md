@@ -97,6 +97,7 @@
 | [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) |IEEE TNNLS | 2020 | 
 | [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](https://arxiv.org/pdf/2011.06225.pdf) | arXiv | 2021 |
 | [Curriculum Learning: A Survey](https://arxiv.org/pdf/2101.10382.pdf) | arXiv | 2021 |
+| [Loss Odyssey in Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841521000815) | MedIA | 2021|
 | ***Basic Technology*** |
 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) | JMLR | 2014 |
 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html) | ICML | 2015 |
