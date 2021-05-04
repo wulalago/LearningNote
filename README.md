@@ -11,25 +11,28 @@
 
 | Libraries | Usage |
 | :- | :- |
-|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Medical Registration & Segmentation|
-|[CuPy](https://github.com/cupy/cupy)|GPU Programming |
-|[Gym](https://github.com/openai/gym)|Reinforcement Learning|
-|[Kornia](https://github.com/kornia/kornia)|Differentiable Computer Vision|
-|[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
-|[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
-|[OpenCV](https://opencv.org/)|Computer Vision|
-|[Psutils](https://github.com/giampaolo/psutil)|CPU Monitor|
-|[Pywick](https://github.com/achaiah/pywick)|High-level Training|
 |[PyTorch](https://pytorch.org/)|General Deep Learning| 
-|[PyTorch](https://github.com/facebookresearch/pytorch3d)| 3D Computer Vision | 
+|[TensorFlow](https://www.tensorflow.org/)|General Deep Learning|
+|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Medical Registration & Segmentation|
+|[TorchIO](https://github.com/fepegar/torchio)| 3D Medical Images for Deep Learning|
+|[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
+|[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
+|[PyTorch3d](https://github.com/facebookresearch/pytorch3d)| 3D Computer Vision | 
 |[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | Geometric Deep Learning |
 |[PyVista](https://github.com/pyvista/pyvista)|Hyper Module for VTK|
-|[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
-|[TensorRT](https://developer.nvidia.com/tensorrt)|High-performance Inference|
-|[Torchinfo](https://github.com/TylerYep/torchinfo)|Model Summary|
-|[TorchIO](https://github.com/fepegar/torchio)| 3D Medical Images for Deep Learning|
-|[Torch Optimizer](https://github.com/jettify/pytorch-optimizer)| Optimization |
 |[Trimesh](https://github.com/mikedh/trimesh)|IO for Mesh|
+|[Gym](https://github.com/openai/gym)|Reinforcement Learning|
+|[OpenCV](https://opencv.org/)|Computer Vision|
+|[Kornia](https://github.com/kornia/kornia)|Differentiable Computer Vision|
+|[CuPy](https://github.com/cupy/cupy)|GPU Programming |
+|[TensorRT](https://developer.nvidia.com/tensorrt)|High-performance Inference|
+|[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
+|[Optuna](https://github.com/optuna/optuna) | Hyperparameters Optimization |
+|[Torch Optimizer](https://github.com/jettify/pytorch-optimizer)| Optimization |
+|[Psutils](https://github.com/giampaolo/psutil)|CPU Monitor|
+|[Torchinfo](https://github.com/TylerYep/torchinfo)|Model Summary|
+|[Pywick](https://github.com/achaiah/pywick)|High-level Training|
+
 
 ## <span id = "journal">Journals & Conferences</span>
 
