@@ -93,6 +93,9 @@
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
 
+Please find the following link for details of paper list.  
+https://drive.google.com/file/d/1DtNBsdfYhf8P5iYndhMHn_6QzqazWvVE/view?usp=sharing
+
 | Paper | Publication | Year |
 | :- | :- | :- |
 | ***Summary, Survey & Review*** |
