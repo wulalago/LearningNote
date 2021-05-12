@@ -98,63 +98,6 @@ https://drive.google.com/file/d/1DtNBsdfYhf8P5iYndhMHn_6QzqazWvVE/view?usp=shari
 
 | Paper | Publication | Year |
 | :- | :- | :- |
-| ***Summary, Survey & Review*** |
-| [Deep Learning](https://www.nature.com/articles/nature14539) | Nature | 2015 |
-| [A Survey on Deep Learning in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841517301135) | MedIA | 2017 |
-| [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187v2.pdf) | CVPR | 2019 |
-| [Deep Learning in Medical Ultrasound Analysis: A Review](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Engineering | 2019 |
-| [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9086055)  | IEEE TPAMI | 2020 |
-| [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) |IEEE TNNLS | 2020 | 
-| [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](https://arxiv.org/pdf/2011.06225.pdf) | arXiv | 2021 |
-| [Curriculum Learning: A Survey](https://arxiv.org/pdf/2101.10382.pdf) | arXiv | 2021 |
-| [Loss Odyssey in Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841521000815) | MedIA | 2021|
-| ***Basic Technology*** |
-| [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.datopia.ir/wp-content/uploads/2018/12/srivastava14a.pdf) | JMLR | 2014 |
-| [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html) | ICML | 2015 |
-| [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022) | arXiv | 2016 |
-| [Layer Normalization](https://openreview.net/forum?id=BJLa_ZC9) | NeurIPS | 2016 |
-| [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf) | ICCV | 2017 |
-| [Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf) | ECCV | 2018 |
-| [DropBlock: A Regularization Method for Convolutional Networks](https://arxiv.org/pdf/1810.12890.pdf)| NeurIPS | 2018 | 
-| ***Classification & Recognition*** |
-| [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  |NeurIPS| 2012|
-| [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)  |ICLR| 2015|
-| [Going Deeper with Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  |CVPR| 2015|
-| [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)  |CVPR| 2016|
-| [Identity Mappings in Deep Residual Networks](https://rd.springer.com/chapter/10.1007/978-3-319-46493-0_38)  |ECCV| 2016|
-| [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311) |AAAI| 2017|
-| [Densely Connected Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)  |CVPR| 2017|
-| [Aggregated Residual Transformations for Deep Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf)  |CVPR| 2017|
-| [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) |NeurIPS| 2017|
-| [Squeeze-and-Excitation Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)  |CVPR| 2018|
-| [Non-local Neural Networks](https://arxiv.org/pdf/1711.07971.pdf) |CVPR | 2018| 
-| [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06521v2.pdf) | ECCV|2018 |
-| [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/pdf/1907.09595.pdf)  |BMVC| 2019|
-| [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf) |ICCV| 2019|
-| [Res2Net: A New Multi-scale Backbone Architecture](https://ieeexplore.ieee.org/abstract/document/8821313)  |IEEE TPAMI| 2019|
-| [Focus Longer to See Better: Recursively Refined Attention for Fine-grained Image Classification](https://arxiv.org/pdf/2005.10979.pdf)  |CVPR| 2020|
-| [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/pdf/2101.03697.pdf) | arXiv | 2021 |
-| ***Segmentation***|
-| [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)  |CVPR| 2015 |
-| [Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding](https://arxiv.org/pdf/1511.02680.pdf) |arXiv|2015|
-| [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://rd.springer.com/chapter/10.1007/978-3-319-24574-4_28)  |MICCAI|2015| 
-| [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://rd.springer.com/chapter/10.1007/978-3-319-46723-8_49)  |MICCAI| 2016|
-| [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7785132)  |3DV| 2016|
-| [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544) |IEEE TPAMI| 2017| 
-| [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://rd.springer.com/chapter/10.1007/978-3-030-00889-5_1) |DLMIA| 2018|
-| [VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images](https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348) |NeuroImage| 2018|
-| [Attention U-Net: Learning Where to Look for the Pancreas](https://openreview.net/pdf?id=Skft7cijM)  |MIDL| 2018|
-| [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545)  |ECCV| 2018 |
-| [H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation From CT Volumes](https://ieeexplore.ieee.org/abstract/document/8379359) |IEEE TPAMI| 2018|
-| [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://ieeexplore.ieee.org/abstract/document/7913730)  |IEEE TPAMI| 2018|
-| [Recalibrating Fully Convolutional Networks with Spatial and Channel “Squeeze and Excitation” Blocks](https://arxiv.org/pdf/1808.08127.pdf) |IEEE TMI| 2018|
-| [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/pdf/1905.06368.pdf)  |ICCV| 2019|
-| [Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/pdf/1907.07034.pdf) |MICCAI| 2019|
-| [Dual Attention Network for Scene Segmentation](https://arxiv.org/pdf/1809.02983.pdf)| CVPR|2019 |
-| [Capsules for Biomedical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S136184152030253X) | MedIA|2020|
-| [LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation](https://arxiv.org/abs/2003.07072) |CVPR| 2020|
-| [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2004.04581) | CVPR | 2020 |
-| [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf)| CVPR | 2020 |
 | ***Detection***|
 | [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)  |CVPR| 2014|
 | [Fast R-CNN](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) |ICCV| 2015|
