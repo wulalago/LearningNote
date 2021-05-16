@@ -89,6 +89,7 @@
 | [Pair Norm](https://github.com/LingxiaoShawn/PairNorm) | Official code for pair normalization | 
 | [Segmentation losses](https://github.com/JunMa11/SegLoss) | Collection of the segmentation losses |
 | [From AE to Beta VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) | Induction of the Autoencoders |
+| [AdaIN](https://github.com/irasin/Pytorch_AdaIN) | Pytorch code for adapative instance normalization |
 
 ## <span id = "paper">Papers</span>
 > Paper list for deep learning in computer vision and medical image computing 
