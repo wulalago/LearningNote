@@ -97,4 +97,6 @@
 Please find the following link for details of paper list.  
 https://drive.google.com/file/d/1DtNBsdfYhf8P5iYndhMHn_6QzqazWvVE/view?usp=sharing
 
+- [ResNet Family](./Paper/resnet.md)
+
 
