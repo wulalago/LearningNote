@@ -101,6 +101,11 @@
 - [ ] Residual Learning
 - [ ] Densely Connected Network
 - [ ] Auto-Encoder
+- [ ] DQN
+- [ ] Diffusion Model
+- [ ] UNet
+- [ ] GAN
+- [ ] Attention
 
 
 ### Paper
