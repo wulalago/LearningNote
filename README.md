@@ -92,11 +92,31 @@
 | [AdaIN](https://github.com/irasin/Pytorch_AdaIN) | Pytorch code for adapative instance normalization |
 
 ## <span id = "paper">Papers</span>
-> Paper list for deep learning in computer vision and medical image computing 
+> Induction on the papers for machine learning in computer vision and medical image computing.
 
-Please find the following link for details of paper list.  
+### Blog
+- [ResNet Family](./Paper/resnet.md)
+
+**To do**
+- [ ] Residual Learning
+- [ ] Densely Connected Network
+- [ ] Auto-Encoder
+
+
+### Paper
+**To read**
+- [ ] VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
+- [ ] Improved Denoising Diffusion Probabilistic Models
+- [ ] Diffusion Models Beat GANs on Image Synthesis
+- [ ] Rethinking “Batch” in BatchNorm
+- [ ] Deep Learning for Deepfakes Creation and Detection: A Survey
+- [ ] GANimation: Anatomically-aware Facial Animation from a Single Image
+
+
+
+Please find the following link for the full list of papers.  
 https://drive.google.com/file/d/1DtNBsdfYhf8P5iYndhMHn_6QzqazWvVE/view?usp=sharing
 
-- [ResNet Family](./Paper/resnet.md)
+
 
 
