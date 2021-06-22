@@ -5,7 +5,6 @@
 - [Programming Frameworks](#program)
 - [Journals & Conferences](#journal)
 - [Resources](#resource)
-- [Papers](#paper)
 
 ## <span id = "program">Programming Frameworks</span>
 
@@ -81,23 +80,22 @@
 |Medical Imaging with Deep Learning| MIDL |
 
 ## <span id = "resource">Resources</span>
+**Data Preparation**
+- [*(Generalized) Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
 
-| Resource | Content | 
-| :- | :- |
-| [MCVAE](https://github.com/ggbioing/mcvae) | Official code for multi-task and multi-channel VAE |
-| [Procrustes Analysis](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421) | Python code for Procrustes analysis |
-| [Pair Norm](https://github.com/LingxiaoShawn/PairNorm) | Official code for pair normalization | 
-| [Segmentation losses](https://github.com/JunMa11/SegLoss) | Collection of the segmentation losses |
-| [From AE to Beta VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) | Induction of the Autoencoders |
-| [AdaIN](https://github.com/irasin/Pytorch_AdaIN) | Pytorch code for adapative instance normalization |
+**Network Training** 
+- [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
+- [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
-## <span id = "paper">Papers</span>
-> Induction on the papers for machine learning in computer vision and medical image computing.
+**Generation Model**
+- [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 
-### Blog
+**Segmentation**
+- [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 
-Please find the following link for the full list of papers.  
-https://drive.google.com/file/d/1DtNBsdfYhf8P5iYndhMHn_6QzqazWvVE/view?usp=sharing
+**Unarchived**
+- [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+
 
 
 
