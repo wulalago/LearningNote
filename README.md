@@ -38,15 +38,15 @@
 | Journal | IF | 中科院分区 |
 | :- | :- | :- |
 | [BME Frontiers](https://spj.sciencemag.org/journals/bmef/) | TBD | TBD |
-| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 3.632 | 2区 |
-| [Engineering](https://www.journals.elsevier.com/engineering/) | 6.495 | 1区 Top|
-| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 3.707 | 3区| 
+| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.428 | 2区 |
+| [Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 | 1区 Top|
+| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.677 | 3区| 
 | [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD | TBD |
-| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.223 | 2区 Top |
-| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.424 | 2区 |
-| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.015 | 2区 |
+| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.772 | 2区 Top |
+| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.538 | 2区 |
+| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | Todo | 2区 |
 | [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.079 | 1区 Top |
-| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 6.685 | 1区 Top |
+| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 | 1区 Top |
 | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 17.861 | 1区 Top |
 | [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 | 1区 Top |
 | [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 | 1区 Top |
