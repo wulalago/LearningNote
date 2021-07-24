@@ -93,6 +93,9 @@
 **Segmentation**
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 
+**Writing**
+- [*Free PDF White Space Cropping Website*](https://croppdf.com/)
+
 **Unarchived**
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
