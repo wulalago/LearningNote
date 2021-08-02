@@ -35,34 +35,36 @@
 
 ## <span id = "journal">Journals & Conferences</span>
 
-| Journal | IF | 中科院分区 |
-| :- | :- | :- |
-| [BME Frontiers](https://spj.sciencemag.org/journals/bmef/) | TBD | TBD |
-| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.428 | 2区 |
-| [Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 | 1区 Top|
-| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.677 | 3区| 
-| [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD | TBD |
-| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.772 | 2区 Top |
-| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.538 | 2区 |
-| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | Todo | 2区 |
-| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.079 | 1区 Top |
-| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 | 1区 Top |
-| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 17.861 | 1区 Top |
-| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 5.698 | 1区 Top |
-| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 11.148 | 1区 Top |
-| [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 3.317 | 2区 |
-| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 18.952 | 1区 Top |
-| [Nature Communications](https://www.nature.com/ncomms/)| 12.121 | 1区 Top |
-| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD | TBD |
-| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | TBD | TBD |
-| [Nature Medicine](https://www.nature.com/nm/) | 36.13 | 1区 Top |
-| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 4.438 | 2区 Top |
-| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.902 | 1区 Top |
-| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.196 | 1区 Top |
-| [PNAS](http://www.pnas.org/)| 9.412 | 1区 Top |
-| [Radiology](https://pubs.rsna.org/journal/radiology) | 7.931 | 1区 Top |
-| [Science Advances](https://advances.sciencemag.org/)| 13.116 | 1区 Top |
-| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.514 | 3区 |
+| Journal | IF |
+| :- | :- |
+| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.420 |
+| [Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 | 
+| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 |
+| [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD |
+| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.773 | 
+| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.531 |
+| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 3.492 |
+| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.442 |
+| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 |
+| [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.450 |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 16.384 |
+| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 	7.412 |
+| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 8.543 |
+| [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.070 |
+| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 25.674| 
+| [Nature Communications](https://www.nature.com/ncomms/)| 14.914 |
+| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD |
+| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) |15.500 |
+| [Nature Medicine](https://www.nature.com/nm/) | 53.443 |
+| [Nature Methods](https://www.nature.com/nmeth/) | 28.542 |
+| [Nature Neuroscience](https://www.nature.com/neuro/) |24.882 |
+| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 8.053 |
+| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.711| 
+| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 6.554 |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.743 | 
+| [PNAS](http://www.pnas.org/)| 11.202 | 
+| [Radiology](https://pubs.rsna.org/journal/radiology) | 11.103 |
+| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.994|
 
 | Conference | Abbr |
 | :- | :- |
