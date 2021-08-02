@@ -93,6 +93,9 @@
 **Segmentation**
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 
+**Reinforcement Learning**
+- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+
 **Writing**
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
 
