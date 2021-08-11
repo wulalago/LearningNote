@@ -10,27 +10,23 @@
 
 | Libraries | Usage |
 | :- | :- |
-|[PyTorch](https://pytorch.org/)|General Deep Learning| 
-|[TensorFlow](https://www.tensorflow.org/)|General Deep Learning|
-|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Medical Registration & Segmentation|
-|[TorchIO](https://github.com/fepegar/torchio)| 3D Medical Images for Deep Learning|
-|[MedPy](https://github.com/loli/medpy)|Medical Imaging Processing|
-|[SimpleITK](https://github.com/SimpleITK/SimpleITK)|Image Analysis|
-|[PyTorch3d](https://github.com/facebookresearch/pytorch3d)| 3D Computer Vision | 
-|[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | Geometric Deep Learning |
-|[PyVista](https://github.com/pyvista/pyvista)|Hyper Module for VTK|
-|[Trimesh](https://github.com/mikedh/trimesh)|IO for Mesh|
-|[Gym](https://github.com/openai/gym)|Reinforcement Learning|
-|[OpenCV](https://opencv.org/)|Computer Vision|
-|[Kornia](https://github.com/kornia/kornia)|Differentiable Computer Vision|
-|[CuPy](https://github.com/cupy/cupy)|GPU Programming |
-|[TensorRT](https://developer.nvidia.com/tensorrt)|High-performance Inference|
-|[Numba](https://github.com/numba/numba)| Optimizing Compiler| 
-|[Optuna](https://github.com/optuna/optuna) | Hyperparameters Optimization |
-|[Torch Optimizer](https://github.com/jettify/pytorch-optimizer)| Optimization |
-|[Psutils](https://github.com/giampaolo/psutil)|CPU Monitor|
-|[Torchinfo](https://github.com/TylerYep/torchinfo)|Model Summary|
-|[Pywick](https://github.com/achaiah/pywick)|High-level Training|
+|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
+|[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
+|[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
+|[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
+|[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
+|[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
+|[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration| 
+|[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data | 
+|[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
+|[PyTorch Optimizer](https://pytorch-optimizer.readthedocs.io/en/latest/)|  Collection of optimizers for PyTorch |
+|[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
+|[SimpleITK](https://simpleitk.org/)| A layer built on top of the ITK|
+|[TensorFlow](https://www.tensorflow.org/)|An open source machine learning framework for everyone|
+|[TensorRT](https://developer.nvidia.com/tensorrt)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
+|[Torchinfo](https://github.com/TylerYep/torchinfo)|View model summaries in PyTorch|
+|[TorchIO](https://torchio.readthedocs.io/)| Medical image preprocessing and augmentation toolkit for deep learning.|
+|[Vedo](https://vedo.embl.es/) | A python module for scientific analysis of 3D objects based on VTK and Numpy |
 
 
 ## <span id = "journal">Journals & Conferences</span>
@@ -62,9 +58,7 @@
 | [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.711| 
 | [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 6.554 |
 | [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.743 | 
-| [PNAS](http://www.pnas.org/)| 11.202 | 
 | [Radiology](https://pubs.rsna.org/journal/radiology) | 11.103 |
-| [Ultrasound in Medicine & Biology](https://www.journals.elsevier.com/ultrasound-in-medicine-and-biology) | 2.994|
 
 | Conference | Abbr |
 | :- | :- |
