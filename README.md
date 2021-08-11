@@ -1,5 +1,5 @@
 # LearningNote
-> A record of my course for academic learning
+> some resources of deep learning and medical image analysis
 
 ## Contents
 - [Programming Frameworks](#program)
