@@ -91,6 +91,7 @@
 
 **Reinforcement Learning**
 - [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+- [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
 **Writing**
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
