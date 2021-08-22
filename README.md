@@ -84,8 +84,10 @@
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
-**Generation Model**
+**Generative Model**
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
+- [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+- [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 
 **Segmentation**
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
@@ -97,10 +99,13 @@
 **Writing**
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
 
-**Unarchived**
-- [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
-- [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
+**Research**
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
+
+**Geometric Learning**
+- [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
+
+
 
 
 
