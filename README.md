@@ -105,8 +105,8 @@
 **Geometric Learning**
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
 
-
-
+**Deep Learning**
+- [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 
 
 
