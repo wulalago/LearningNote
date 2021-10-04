@@ -79,6 +79,7 @@
 ## <span id = "resource">Resources</span>
 **Data Preparation**
 - [*(Generalized) Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
+- [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
 **Network Training** 
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
