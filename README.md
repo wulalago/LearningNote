@@ -84,6 +84,7 @@
 **Network Training** 
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
 
 **Generative Model**
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
