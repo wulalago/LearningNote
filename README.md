@@ -100,6 +100,7 @@
 
 **Writing**
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
+- [*Aims and Objectives – A Guide for Academic Writing*](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
 
 **Research**
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
