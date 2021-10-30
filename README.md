@@ -104,6 +104,7 @@
 
 **Research**
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
+- [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
 
 **Geometric Learning**
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
