@@ -15,6 +15,7 @@
 |[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
 |[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
 |[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
+|[MONAI](https://monai.io/)|AI Toolkit for Healthcare Imaging|
 |[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
 |[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
 |[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration| 
