@@ -91,6 +91,7 @@
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
+- [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 
 **Segmentation**
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
