@@ -40,6 +40,7 @@
 | [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 |
 | [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD |
 | [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.773 | 
+| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | TBD |
 | [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.531 |
 | [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 3.492 |
 | [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.442 |
