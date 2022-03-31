@@ -12,6 +12,7 @@
 | :- | :- |
 |[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
 |[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
+|[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
 |[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
 |[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
 |[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
