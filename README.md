@@ -107,6 +107,7 @@
 - [*Aims and Objectives – A Guide for Academic Writing*](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
 - [*Latex Symbol and Mark (Chinese)*](https://blog.csdn.net/u010440456/article/details/89787326)
 - [*Latex Table Generator*](https://www.tablesgenerator.com/)
+- [*Thesaurus and Word tools for your creative needs*](https://www.wordhippo.com/)
 
 **Research**
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
