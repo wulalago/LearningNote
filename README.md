@@ -7,28 +7,27 @@
 - [Resources](#resource)
 
 ## <span id = "program">Programming Frameworks</span>
-
-
-
 | Libraries | Usage |
 | :- | :- |
-|[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
 |[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
 |[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
 |[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
 |[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
 |[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
+|[Matplotlib](https://matplotlib.org/stable/)|A comprehensive library for creating static, animated, and interactive visualizations in Python.|
 |[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
 |[MONAI](https://monai.io/)|AI Toolkit for Healthcare Imaging|
+|[NumPy](https://numpy.org/)|Fundamental package for scientific computing with Python.|
 |[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
 |[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
-|<img src="icon/pytorch-logo.png#pic_left" width="5%" ></img> [PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
-|<img src="icon/pytorch3dfavicon.png#pic_left" width="5%" ></img> [PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
-|<img src="icon/pyg2.png#pic_left" width="3%" ></img> [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
+|[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
+|[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
+|[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
 |[PyTorch Optimizer](https://pytorch-optimizer.readthedocs.io/en/latest/)|  Collection of optimizers for PyTorch |
 |[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
-|[SimpleITK](https://simpleitk.org/)| A layer built on top of the ITK|
-|[TensorFlow](https://www.tensorflow.org/)|An open source machine learning framework for everyone|
+|[Seaborn](https://seaborn.pydata.org/)|A Python data visualization library based on matplotlib|
+|[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
+|[SciPy](https://scipy.org/)|An open-source software for mathematics, science, and engineering|
 |[TensorRT](https://developer.nvidia.com/tensorrt)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
 |[Torchinfo](https://github.com/TylerYep/torchinfo)|View model summaries in PyTorch|
 |[TorchIO](https://torchio.readthedocs.io/)| Medical image preprocessing and augmentation toolkit for deep learning.|
@@ -37,35 +36,35 @@
 
 ## <span id = "journal">Journals & Conferences</span>
 
-| Journal | IF |
-| :- | :- |
-| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.420 |
-| [Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 |
-| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 |
-| [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | TBD |
-| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.773 |
-| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | TBD |
-| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.531 |
-| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 3.492 |
-| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.442 |
-| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 |
-| [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.450 |
-| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 16.384 |
-| [International Journal of Computer Vision](https://www.springer.com/journal/11263) | 	7.412 |
-| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 8.543 |
-| [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.070 |
-| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 25.674|
-| [Nature Communications](https://www.nature.com/ncomms/)| 14.914 |
-| [Nature Computational Science](https://www.nature.com/natcomputsci) | TBD |
-| [Nature Machine Intelligence](https://www.nature.com/natmachintell/) |15.500 |
-| [Nature Medicine](https://www.nature.com/nm/) | 53.443 |
-| [Nature Methods](https://www.nature.com/nmeth/) | 28.542 |
-| [Nature Neuroscience](https://www.nature.com/neuro/) |24.882 |
-| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 8.053 |
-| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.711|
-| [NeuroImage](https://www.journals.elsevier.com/neuroimage) | 6.554 |
-| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.743 |
-| [Radiology](https://pubs.rsna.org/journal/radiology) | 11.103 |
+| Journal | IF | Top |
+| :- | :- | :-: |
+|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.428 | N | 
+|[Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 | Y |
+|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | N |
+|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 | N |
+|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | Y |
+|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.773 | Y |
+|[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | N | 
+|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.531 | N | 
+|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 3.492 | N |
+|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.442 | Y |
+|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 | Y |
+|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.450 | Y |
+|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 16.384 | Y |
+|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 7.412 | Y | 
+|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 25.674| Y |
+|[Nature Communications](https://www.nature.com/ncomms/)| 14.914 | Y |
+|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) |15.500 | Y |
+|[Nature Medicine](https://www.nature.com/nm/) | 53.443 | Y |
+|[Nature Methods](https://www.nature.com/nmeth/) | 28.542 | Y |
+|[Nature Neuroscience](https://www.nature.com/neuro/) |24.882 | Y |
+|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 8.543 | Y |
+|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.070 | N |
+|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 8.053 | N |
+|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.711| Y |
+|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 6.554 | Y |
+|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.743 | Y |
+|[Radiology](https://pubs.rsna.org/journal/radiology) | 11.103 | Y |
 
 | Conference | Abbr |
 | :- | :- |
