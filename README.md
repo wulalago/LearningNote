@@ -2,11 +2,12 @@
 > some resources of deep learning and medical image analysis
 
 ## Contents
-- [Programming Frameworks](#program)
-- [Journals & Conferences](#journal)
-- [Resources](#resource)
+- [PROGRAMMING LIBRARIES](#program)
+- [JOURNALS & CONFERENCES](#journal)
+- [RESOURCES](#resource)
+- [QUICK-ANSWERS](#quick-answer)
 
-## <span id = "program">Programming Frameworks</span>
+## <span id = "program">PROGRAMMING LIBRARIES</span>
 | Libraries | Usage |
 | :- | :- |
 |[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
@@ -34,7 +35,7 @@
 |[Vedo](https://vedo.embl.es/) | A python module for scientific analysis of 3D objects based on VTK and Numpy |
 
 
-## <span id = "journal">Journals & Conferences</span>
+## <span id = "journal">JOURNALS & CONFERENCES</span>
 
 | Journal | IF | Top |
 | :- | :- | :-: |
@@ -81,28 +82,22 @@
 |International Symposium on Biomedical Imaging|ISBI|
 |Medical Imaging with Deep Learning| MIDL |
 
-## <span id = "resource">Resources</span>
-**Data Preparation**
-- [*(Generalized) Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
-- [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
-
-**Network Training**
-- [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
-- [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+## <span id = "resource">RESOURCES</span>
+**Machine Learning**
 - [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
-
-**Generative Model**
-- [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
-- [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
-- [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
+- [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
-
-**Segmentation**
+- [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+- [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
-
-**Reinforcement Learning**
-- [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+- [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
+- [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
+- [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+- [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
+- [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+- [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
 **Writing**
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
@@ -115,8 +110,6 @@
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
 
-**Geometric Learning**
-- [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
-
-**Deep Learning**
-- [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
+## <span id = "quick-answer">QUICK-ANSWERS</span>
+**Python**
+- Q: *What is the difference between f-string and str.format() in Python?* A: [[1]](https://jovian.ai/forum/t/what-is-the-difference-between-f-string-and-str-format-in-python/17768)[[2]](https://stackoverflow.com/questions/43123408/f-strings-vs-str-format)[[3]](https://stackoverflow.com/questions/44780357/how-to-use-newline-n-in-f-string-to-format-output-in-python-3-6)
