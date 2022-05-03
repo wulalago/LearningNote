@@ -114,4 +114,5 @@
 **Python**
 - Q: *What is the difference between f-string and str.format() in Python?* A: [[1]](https://jovian.ai/forum/t/what-is-the-difference-between-f-string-and-str-format-in-python/17768)[[2]](https://stackoverflow.com/questions/43123408/f-strings-vs-str-format)[[3]](https://stackoverflow.com/questions/44780357/how-to-use-newline-n-in-f-string-to-format-output-in-python-3-6)
 - Q: *Are large data sets inappropriate for hypothesis testing?* A: [[1]](https://stats.stackexchange.com/questions/2516/are-large-data-sets-inappropriate-for-hypothesis-testing)
-- [Fix apt-get update “the following signatures couldn’t be verified because the public key is not available”](https://chrisjean.com/fix-apt-get-update-the-following-signatures-couldnt-be-verified-because-the-public-key-is-not-available/)
+- Q: *How to get the device type of a pytorch module conveniently?* A: [[1]](https://stackoverflow.com/questions/58926054/how-to-get-the-device-type-of-a-pytorch-module-conveniently)
+- Q: *How to fix apt-get update “the following signatures couldn’t be verified because the public key is not available”?* A: [[1]](https://chrisjean.com/fix-apt-get-update-the-following-signatures-couldnt-be-verified-because-the-public-key-is-not-available/)
