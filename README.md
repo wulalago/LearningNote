@@ -25,6 +25,7 @@
 |[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
 |[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
 |[PyTorch Optimizer](https://pytorch-optimizer.readthedocs.io/en/latest/)|  Collection of optimizers for PyTorch |
+|[PyVarInf](https://github.com/ctallec/pyvarinf) | Facilities to easily train your PyTorch neural network models using variational inference. |
 |[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
 |[Seaborn](https://seaborn.pydata.org/)|A Python data visualization library based on matplotlib|
 |[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
