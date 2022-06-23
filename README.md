@@ -5,7 +5,6 @@
 - [PROGRAMMING LIBRARIES](#program)
 - [JOURNALS & CONFERENCES](#journal)
 - [RESOURCES](#resource)
-- [QUICK-ANSWERS](#quick-answer)
 
 ## <span id = "program">PROGRAMMING LIBRARIES</span>
 | Libraries | Usage |
@@ -89,8 +88,10 @@
 - [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- [*Bootstrap Confidence Intervals*](https://acclab.github.io/bootstrap-confidence-intervals.html)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
+- [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
@@ -111,14 +112,4 @@
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
 
-## <span id = "quick-answer">QUICK-ANSWERS</span>
-**Python**
-- Q: *What is the difference between f-string and str.format() in Python?* A: [[1]](https://jovian.ai/forum/t/what-is-the-difference-between-f-string-and-str-format-in-python/17768)[[2]](https://stackoverflow.com/questions/43123408/f-strings-vs-str-format)[[3]](https://stackoverflow.com/questions/44780357/how-to-use-newline-n-in-f-string-to-format-output-in-python-3-6)
-- Q: *How to get the device type of a pytorch module conveniently?* A: [[1]](https://stackoverflow.com/questions/58926054/how-to-get-the-device-type-of-a-pytorch-module-conveniently)
-
-**Statistic**
-- Q: *Are large data sets inappropriate for hypothesis testing?* A: [[1]](https://stats.stackexchange.com/questions/2516/are-large-data-sets-inappropriate-for-hypothesis-testing) [[2]](https://stats.stackexchange.com/questions/91143/relative-size-of-p-values-at-different-sample-sizes)
-
-**Linux**
-- Q: *How to fix apt-get update “the following signatures couldn’t be verified because the public key is not available”?* A: [[1]](https://chrisjean.com/fix-apt-get-update-the-following-signatures-couldnt-be-verified-because-the-public-key-is-not-available/)
 
