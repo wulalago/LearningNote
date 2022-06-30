@@ -39,8 +39,8 @@
 
 | Journal | IF | Top |
 | :- | :- | :-: |
-|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 5.428 | N | 
-|[Engineering](https://www.journals.elsevier.com/engineering/) | 7.553 | Y |
+|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 7.027 | N | 
+|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.834 | Y |
 |[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | N |
 |[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 | N |
 |[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | Y |
