@@ -39,33 +39,35 @@
 
 | Journal | IF | Top |
 | :- | :- | :-: |
+|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.050 | N |
 |[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 7.027 | N | 
 |[Engineering](https://www.journals.elsevier.com/engineering/) | 12.834 | Y |
+|[Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)| 8.665 | Y |
 |[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | N |
-|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.674 | N |
-|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | Y |
-|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 5.773 | Y |
+|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 5.152 | N |
+|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | N |
+|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.021 | Y |
 |[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | N | 
-|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.531 | N | 
-|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 3.492 | N |
-|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.442 | Y |
-|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.048 | Y |
-|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.450 | Y |
-|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 16.384 | Y |
-|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 7.412 | Y | 
-|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 25.674| Y |
-|[Nature Communications](https://www.nature.com/ncomms/)| 14.914 | Y |
-|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) |15.500 | Y |
-|[Nature Medicine](https://www.nature.com/nm/) | 53.443 | Y |
-|[Nature Methods](https://www.nature.com/nmeth/) | 28.542 | Y |
-|[Nature Neuroscience](https://www.nature.com/neuro/) |24.882 | Y |
-|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 8.543 | Y |
-|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.070 | N |
-|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 8.053 | N |
-|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.711| Y |
-|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 6.554 | Y |
-|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 7.743 | Y |
-|[Radiology](https://pubs.rsna.org/journal/radiology) | 11.103 | Y |
+|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | N | 
+|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.708 | N |
+|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 19.118 | Y |
+|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 11.037 | Y |
+|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 14.255 | Y |
+|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 24.314 | Y |
+|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 13.369 | Y | 
+|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 29.234| Y |
+|[Nature Communications](https://www.nature.com/ncomms/)| 17.69 | Y |
+|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.898 | Y |
+|[Nature Medicine](https://www.nature.com/nm/) | 87.241 | Y |
+|[Nature Methods](https://www.nature.com/nmeth/) | 47.99 | Y |
+|[Nature Neuroscience](https://www.nature.com/neuro/) |28.771 | Y |
+|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 13.828 | Y |
+|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.506 | N |
+|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 9.657 | N |
+|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.779 | Y |
+|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 7.4 | Y |
+|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.518 | Y |
+|[Radiology](https://pubs.rsna.org/journal/radiology) | 29.1 | Y |
 
 | Conference | Abbr |
 | :- | :- |
