@@ -2,9 +2,11 @@
 > some resources of deep learning and medical image analysis
 
 ## Contents
-- [PROGRAMMING LIBRARIES](#program)
-- [JOURNALS & CONFERENCES](#journal)
-- [RESOURCES](#resource)
+- [LearningNote](#learningnote)
+  - [Contents](#contents)
+  - [<span id = "program">PROGRAMMING LIBRARIES</span>](#programming-libraries)
+  - [<span id = "journal">JOURNALS & CONFERENCES</span>](#journals--conferences)
+  - [<span id = "resource">RESOURCES</span>](#resources)
 
 ## <span id = "program">PROGRAMMING LIBRARIES</span>
 | Libraries | Usage |
@@ -51,6 +53,7 @@
 |[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | N | 
 |[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.708 | N |
 |[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 19.118 | Y |
+|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 12.253| Y |
 |[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 11.037 | Y |
 |[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 14.255 | Y |
 |[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 24.314 | Y |
@@ -71,6 +74,7 @@
 
 | Conference | Abbr |
 | :- | :- |
+|AAAI Conference on Artificial Intelligence | AAAI|
 |ACM International Conference on Multimedia |ACM MM |
 |Asian Conference on Computer Vision|ACCV|
 |British Machine Vision Conference|BMVC|
@@ -81,6 +85,7 @@
 |International Conference on Learning Representations|ICLR|
 |International Conference on Machine Learning| ICML |
 |International Conference on Medical Image Computing and Computer Assisted Intervention| MICCAI |
+|International Joint Conference on Artificial Intelligence| IJCAI|
 |International Symposium on Biomedical Imaging|ISBI|
 |Medical Imaging with Deep Learning| MIDL |
 
