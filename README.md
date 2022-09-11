@@ -1,13 +1,6 @@
 # LearningNote
-> some resources of deep learning and medical image analysis
-
-## Contents
-- [LearningNote](#learningnote)
-  - [Contents](#contents)
-  - [<span id = "program">PROGRAMMING LIBRARIES</span>](#programming-libraries)
-  - [<span id = "journal">JOURNALS & CONFERENCES</span>](#journals--conferences)
-  - [<span id = "resource">RESOURCES</span>](#resources)
-
+> some resources on my path in deep learning and medical image analysis
+> 
 ## <span id = "program">PROGRAMMING LIBRARIES</span>
 | Libraries | Usage |
 | :- | :- |
@@ -39,38 +32,39 @@
 
 ## <span id = "journal">JOURNALS & CONFERENCES</span>
 
-| Journal | IF | Top |
-| :- | :- | :-: |
-|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.050 | N |
-|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 7.027 | N | 
-|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.834 | Y |
-|[Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)| 8.665 | Y |
-|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | N |
-|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 5.152 | N |
-|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | N |
-|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.021 | Y |
-|[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | N | 
-|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | N | 
-|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.708 | N |
-|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 19.118 | Y |
-|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 12.253| Y |
-|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 11.037 | Y |
-|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 14.255 | Y |
-|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 24.314 | Y |
-|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 13.369 | Y | 
-|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 29.234| Y |
-|[Nature Communications](https://www.nature.com/ncomms/)| 17.69 | Y |
-|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.898 | Y |
-|[Nature Medicine](https://www.nature.com/nm/) | 87.241 | Y |
-|[Nature Methods](https://www.nature.com/nmeth/) | 47.99 | Y |
-|[Nature Neuroscience](https://www.nature.com/neuro/) |28.771 | Y |
-|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 13.828 | Y |
-|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.506 | N |
-|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 9.657 | N |
-|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.779 | Y |
-|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 7.4 | Y |
-|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.518 | Y |
-|[Radiology](https://pubs.rsna.org/journal/radiology) | 29.1 | Y |
+| Journal | IF |
+| :- | :- |
+|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.050 |
+|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 7.027 | 
+|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.834 | 
+|[Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)| 8.665 |
+|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | 
+|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 5.152 | 
+|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | 
+|[Journal of Machine Learning Research](https://www.jmlr.org/)| 3.654 | 
+|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.021 | 
+|[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | 
+|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | 
+|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.708 | 
+|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 19.118 | 
+|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 12.253| 
+|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 11.037 | 
+|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 14.255 | 
+|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 24.314 | 
+|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 13.369 | 
+|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 29.234| 
+|[Nature Communications](https://www.nature.com/ncomms/)| 17.69 | 
+|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.898 | 
+|[Nature Medicine](https://www.nature.com/nm/) | 87.241 | 
+|[Nature Methods](https://www.nature.com/nmeth/) | 47.99 | 
+|[Nature Neuroscience](https://www.nature.com/neuro/) |28.771 | 
+|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 13.828 | 
+|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.506 | 
+|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 9.657 |
+|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.779 | 
+|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 7.4 | 
+|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.518 | 
+|[Radiology](https://pubs.rsna.org/journal/radiology) | 29.1 | 
 
 | Conference | Abbr |
 | :- | :- |
@@ -96,6 +90,7 @@
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 - [*Bootstrap Confidence Intervals*](https://acclab.github.io/bootstrap-confidence-intervals.html)
+- [Flow-based Deep Generative Models](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
 - [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
