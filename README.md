@@ -21,6 +21,7 @@
 |[PyTorch Optimizer](https://pytorch-optimizer.readthedocs.io/en/latest/)|  Collection of optimizers for PyTorch |
 |[PyVarInf](https://github.com/ctallec/pyvarinf) | Facilities to easily train your PyTorch neural network models using variational inference. |
 |[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
+|[SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|
 |[Seaborn](https://seaborn.pydata.org/)|A Python data visualization library based on matplotlib|
 |[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
 |[SciPy](https://scipy.org/)|An open-source software for mathematics, science, and engineering|
