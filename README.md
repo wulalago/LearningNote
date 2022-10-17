@@ -86,23 +86,30 @@
 |Medical Imaging with Deep Learning| MIDL |
 
 ## <span id = "resource">RESOURCES</span>
-**Machine Learning**
-- [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
+**Machine Learning**  
+*Overviews*
 - [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
-- [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
+- [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
+- [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+
+*Tricks*
+- [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- [*Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions*](https://arxiv.org/abs/2209.10307)
+- [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
+
+*Models and Algorithms*
+- [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 - [*Bootstrap Confidence Intervals*](https://acclab.github.io/bootstrap-confidence-intervals.html)
+- [*Diffusion models from scratch in PyTorch*](https://www.youtube.com/watch?v=a4Yfz2FxXiY&t=1079s&ab_channel=DeepFindr)
 - [*Flow-based Deep Generative Models*](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
-- [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
 - [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
-- [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 - [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
-- [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
 - [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
 **Writing**
@@ -116,4 +123,18 @@
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
 
+## <span id = "Milestone">PAPERS</span>
+**Generative Models**  
+*AutoEncoder*
+- [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
+- [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 
+*Flow*  
+- [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
+- [ ] [*Poisson Flow Generative Models*](https://arxiv.org/abs/2209.11178)
+
+*Diffusion Model*
+- [*Denoising Diffusion Probabilistic Models*](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
+- [*Diffusion Autoencoders: Toward a Meaningful and Decodable Representation*](https://diff-ae.github.io/)
+- [ ] [*Denoising Diffusion Implicit Models*](https://openreview.net/forum?id=St1giarCHLP)
+- [ ] [*High-Resolution Image Synthesis with Latent Diffusion Models*](https://ommer-lab.com/research/latent-diffusion-models/)
