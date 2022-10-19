@@ -89,6 +89,7 @@
 **Machine Learning**  
 *Overviews*
 - [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
+- [*Interpretable Machine Learning*](https://christophm.github.io/interpretable-ml-book/)
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
 - [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
 
@@ -126,15 +127,30 @@
 ## <span id = "Milestone">PAPERS</span>
 **Generative Models**  
 *AutoEncoder*
-- [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
-- [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
+- [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
+- [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
+- [ ] [Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations](https://www.nature.com/articles/s41746-022-00666-x)
+- [ ] [Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
 
 *Flow*  
-- [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
+- [x] [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
 - [ ] [*Poisson Flow Generative Models*](https://arxiv.org/abs/2209.11178)
 
+*GAN*
+- [x] [*Generative Adversarial Networks*](https://arxiv.org/abs/1406.2661)
+- [ ] [*On the "Steerability" of Generative Adversarial Networks*](https://openreview.net/forum?id=HylsTT4FvB)
+
 *Diffusion Model*
-- [*Denoising Diffusion Probabilistic Models*](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
-- [*Diffusion Autoencoders: Toward a Meaningful and Decodable Representation*](https://diff-ae.github.io/)
+- [x] [*Denoising Diffusion Probabilistic Models*](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
+- [x] [*Diffusion Autoencoders: Toward a Meaningful and Decodable Representation*](https://diff-ae.github.io/)
 - [ ] [*Denoising Diffusion Implicit Models*](https://openreview.net/forum?id=St1giarCHLP)
 - [ ] [*High-Resolution Image Synthesis with Latent Diffusion Models*](https://ommer-lab.com/research/latent-diffusion-models/)
+
+**Cardiovascular**
+- [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
+- [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field*](https://www.nature.com/articles/s41746-022-00640-7)
+
+**Network Interpretation**
+- [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
+- [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
+- [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
