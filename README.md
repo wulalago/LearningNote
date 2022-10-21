@@ -114,27 +114,32 @@
 - [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
 **Writing**
-- [*Free PDF White Space Cropping Website*](https://croppdf.com/)
 - [*Aims and Objectives – A Guide for Academic Writing*](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
+- [*Free PDF White Space Cropping Website*](https://croppdf.com/)
 - [*Latex Symbol and Mark (Chinese)*](https://blog.csdn.net/u010440456/article/details/89787326)
 - [*Latex Table Generator*](https://www.tablesgenerator.com/)
 - [*Thesaurus and Word tools for your creative needs*](https://www.wordhippo.com/)
 
 **Research**
-- [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
+- [*Best Practices and Scoring System on Reviewing A.I. based Medical Imaging Papers: Part 1 Classification*](https://arxiv.org/pdf/2101.01035.pdf)
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
+- [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
 
 ## <span id = "Milestone">PAPERS</span>
 **Generative Models**  
 *AutoEncoder*
-- [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 - [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
+- [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 - [ ] [Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations](https://www.nature.com/articles/s41746-022-00666-x)
 - [ ] [Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
 
 *Flow*  
 - [x] [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
 - [ ] [*Poisson Flow Generative Models*](https://arxiv.org/abs/2209.11178)
+- [ ] [*Normalizing Flows: An Introduction and Review of Current Methods*](https://arxiv.org/abs/1908.09257)
+- [ ] [*ManiFlow: Implicitly Representing Manifolds with Normalizing Flows*](https://arxiv.org/pdf/2208.08932.pdf)
+- [ ] [*FLAG: Flow-based 3D Avatar Generation from Sparse Observations*](https://openaccess.thecvf.com/content/CVPR2022/papers/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.pdf)
+- [ ] [*f-VAEs: Improve VAEs with Conditional Flows*](https://arxiv.org/pdf/1809.05861.pdf)
 
 *GAN*
 - [x] [*Generative Adversarial Networks*](https://arxiv.org/abs/1406.2661)
@@ -154,3 +159,12 @@
 - [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
 - [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
 - [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
+
+**Geometric Learning**
+- [x] [*Generating 3D Faces using Convolutional Mesh Autoencoders*](https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)
+- [x] [*Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels.*](https://proceedings.neurips.cc/paper/2020/file/68dd09b9ff11f0df5624a690fe0f6729-Paper.pdf)
+- [ ] [*Learning to Generate 3D Shapes from a Single Example*](https://arxiv.org/pdf/2208.02946.pdf)
+- [ ] [*Deep Deformable 3D Caricatures with Learned Shape Control*](https://arxiv.org/pdf/2207.14593.pdf)
+
+**Trustworthy AI**
+- [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
