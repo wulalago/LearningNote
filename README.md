@@ -127,6 +127,9 @@
 
 ## <span id = "Milestone">PAPERS</span>
 **Generative Models**  
+
+- [ ] [*Normalizing Flows: An Introduction and Review of Current Methods*](https://arxiv.org/abs/1908.09257)
+
 *AutoEncoder*
 - [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
 - [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
@@ -136,13 +139,15 @@
 *Flow*  
 - [x] [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
 - [ ] [*Poisson Flow Generative Models*](https://arxiv.org/abs/2209.11178)
-- [ ] [*Normalizing Flows: An Introduction and Review of Current Methods*](https://arxiv.org/abs/1908.09257)
 - [ ] [*ManiFlow: Implicitly Representing Manifolds with Normalizing Flows*](https://arxiv.org/pdf/2208.08932.pdf)
 - [ ] [*FLAG: Flow-based 3D Avatar Generation from Sparse Observations*](https://openaccess.thecvf.com/content/CVPR2022/papers/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.pdf)
 - [ ] [*f-VAEs: Improve VAEs with Conditional Flows*](https://arxiv.org/pdf/1809.05861.pdf)
 
 *GAN*
 - [x] [*Generative Adversarial Networks*](https://arxiv.org/abs/1406.2661)
+- [ ] [*A Style-Based Generator Architecture for Generative Adversarial Networks*](https://arxiv.org/abs/1812.04948)
+- [ ] [*Analyzing and Improving the Image Quality of StyleGAN*](https://arxiv.org/abs/1912.04958)
+- [ ] [*Alias-Free Generative Adversarial Networks*](https://arxiv.org/abs/2106.12423)
 - [ ] [*On the "Steerability" of Generative Adversarial Networks*](https://openreview.net/forum?id=HylsTT4FvB)
 
 *Diffusion Model*
@@ -156,11 +161,20 @@
 - [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field*](https://www.nature.com/articles/s41746-022-00640-7)
 
 **Network Interpretation**
+
+*Network Unit*
+
 - [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
+
+*Latent Analysis*
+
 - [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
 - [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
 
 **Geometric Learning**
+
+*Generative and Editable Model*
+
 - [x] [*Generating 3D Faces using Convolutional Mesh Autoencoders*](https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)
 - [x] [*Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels.*](https://proceedings.neurips.cc/paper/2020/file/68dd09b9ff11f0df5624a690fe0f6729-Paper.pdf)
 - [ ] [*Learning to Generate 3D Shapes from a Single Example*](https://arxiv.org/pdf/2208.02946.pdf)
@@ -168,3 +182,19 @@
 
 **Trustworthy AI**
 - [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
+
+* Plausibility
+- [x] [*Learning deformable registration of medical images with anatomical
+constraints*](https://www.sciencedirect.com/science/article/pii/S0893608020300253) 
+
+**Auto ML**
+
+*hyper-networks*
+- [ ] [*HyperMorph: Amortized Hyperparameter Learning for Image Registration*](https://arxiv.org/pdf/2101.01035.pdf)
+
+
+**Robust Deep Learning**
+
+*Gradient Operation*
+- [x] [*Gradient Surgery for Multi-Task Learning*](https://arxiv.org/pdf/2001.06782.pdf)
+- [x] [*Domain Generalization via Gradient Surgery*](https://arxiv.org/abs/2108.01621)
