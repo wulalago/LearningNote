@@ -107,9 +107,11 @@
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
 - [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
+- [*Mixture Models and the EM Algorithm*](http://mlg.eng.cam.ac.uk/tutorials/06/cb.pdf)
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+- [*Probability concepts explained: Maximum likelihood estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 - [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
 - [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
@@ -118,6 +120,7 @@
 - [*Free PDF White Space Cropping Website*](https://croppdf.com/)
 - [*Latex Symbol and Mark (Chinese)*](https://blog.csdn.net/u010440456/article/details/89787326)
 - [*Latex Table Generator*](https://www.tablesgenerator.com/)
+- [*Split PDF*](https://www.ilovepdf.com/split_pdf#split,range)
 - [*Thesaurus and Word tools for your creative needs*](https://www.wordhippo.com/)
 
 **Research**
@@ -132,7 +135,10 @@
 
 *AutoEncoder*
 - [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
+- [x] [*beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework*](https://openreview.net/pdf?id=Sy2fzU9gl)
 - [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
+- [x] [*NVAE: A Deep Hierarchical Variational Autoencoder*](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)
+
 - [ ] [Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations](https://www.nature.com/articles/s41746-022-00666-x)
 - [ ] [Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
 
@@ -180,6 +186,10 @@
 - [ ] [*Learning to Generate 3D Shapes from a Single Example*](https://arxiv.org/pdf/2208.02946.pdf)
 - [ ] [*Deep Deformable 3D Caricatures with Learned Shape Control*](https://arxiv.org/pdf/2207.14593.pdf)
 
+*Statistical Shape Model*
+- [x] [*Building 3-D Statistical Shape Models by Direct Optimization*](https://ieeexplore.ieee.org/document/5308401)
+
+
 **Trustworthy AI**
 - [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
 
@@ -198,3 +208,6 @@ constraints*](https://www.sciencedirect.com/science/article/pii/S089360802030025
 *Gradient Operation*
 - [x] [*Gradient Surgery for Multi-Task Learning*](https://arxiv.org/pdf/2001.06782.pdf)
 - [x] [*Domain Generalization via Gradient Surgery*](https://arxiv.org/abs/2108.01621)
+
+*Style Generalization*
+- [x] [*Domain Generalization with MixStyle*](https://arxiv.org/abs/2104.02008)
