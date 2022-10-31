@@ -128,6 +128,28 @@
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
 - [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
 
+## <span id = "Milestone">DATASETS</span>
+- [**ACDC: Automated Cardiac Diagnosis Challenge**](https://www.creatis.insa-lyon.fr/Challenge/acdc/)  
+  - **Cohort Size:**  150 (100 annotated)
+  - **Modality:** cine-MRI; 3D+t; short-axis
+  - **Annotation:** segmentation of LV, Myo, and RV in ED and ES; diagnosis results
+- [**EchoNet-Dynamic: A Large New Cardiac Motion Video Data Resource for Medical Machine Learning**](https://echonet.github.io/dynamic/)
+  - **Cohort Size:** 10030
+  - **Modality:** apical-4-chamber echocardiography videos
+  - **Annotation:** clinical measurements
+- [**AVT: Aortic Vessel Tree CTA Datasets and Segmentations**](https://figshare.com/articles/dataset/Aortic_Vessel_Tree_AVT_CTA_Datasets_and_Segmentations/14806362)
+  - **Cohort Size:** 56
+  - **Modality:** CTA
+  - **Annotation:** segmentation of the aortas and aortic vessel trees
+- [**IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning**](https://github.com/intra3d2019/IntrA)
+  - **Cohort Size:** 103 real patients (116 aneurysm); 1909 virtual patients (1694 healthy vessel; 215 aneurysm)
+  - **Modality:** Mesh
+  - **Annotation:** segmentation of aneurysm and vessel
+- [**Virtual Cohort of Adult Healthy Four-chamber Heart Meshes from CT Images**](https://doi.org/10.5281/zenodo.4590294)
+  - **Cohort Size:** 20
+  - **Modality:** Mesh
+  - **Annotation:** segmentation of four chambers, valve planes, aortic root, etc. 
+
 ## <span id = "Milestone">PAPERS</span>
 **Generative Models**  
 
@@ -138,9 +160,8 @@
 - [x] [*beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework*](https://openreview.net/pdf?id=Sy2fzU9gl)
 - [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 - [x] [*NVAE: A Deep Hierarchical Variational Autoencoder*](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)
-
-- [ ] [Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations](https://www.nature.com/articles/s41746-022-00666-x)
-- [ ] [Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
+- [ ] [*Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations*](https://www.nature.com/articles/s41746-022-00666-x)
+- [ ] [*Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion*](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
 
 *Flow*  
 - [x] [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
@@ -163,6 +184,7 @@
 - [ ] [*High-Resolution Image Synthesis with Latent Diffusion Models*](https://ommer-lab.com/research/latent-diffusion-models/)
 
 **Cardiovascular**
+- [x] [*Linking Statistical Shape Models and Simulated Function in the Healthy Adult Human Heart*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008851)
 - [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
 - [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field*](https://www.nature.com/articles/s41746-022-00640-7)
 
@@ -193,7 +215,8 @@
 **Trustworthy AI**
 - [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
 
-* Plausibility
+*Plausibility*
+
 - [x] [*Learning deformable registration of medical images with anatomical
 constraints*](https://www.sciencedirect.com/science/article/pii/S0893608020300253) 
 
