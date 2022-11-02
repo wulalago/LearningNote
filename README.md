@@ -88,6 +88,7 @@
 ## <span id = "resource">RESOURCES</span>
 **Machine Learning**  
 *Overviews*
+- [*A Gentle Introduction to Graph Neural Networks*](https://distill.pub/2021/gnn-intro/)
 - [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [*Interpretable Machine Learning*](https://christophm.github.io/interpretable-ml-book/)
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
@@ -133,14 +134,18 @@
   - **Cohort Size:**  150 (100 annotated)
   - **Modality:** cine-MRI; 3D+t; short-axis
   - **Annotation:** segmentation of LV, Myo, and RV in ED and ES; diagnosis results
-- [**EchoNet-Dynamic: A Large New Cardiac Motion Video Data Resource for Medical Machine Learning**](https://echonet.github.io/dynamic/)
-  - **Cohort Size:** 10030
-  - **Modality:** apical-4-chamber echocardiography videos
-  - **Annotation:** clinical measurements
 - [**AVT: Aortic Vessel Tree CTA Datasets and Segmentations**](https://figshare.com/articles/dataset/Aortic_Vessel_Tree_AVT_CTA_Datasets_and_Segmentations/14806362)
   - **Cohort Size:** 56
   - **Modality:** CTA
   - **Annotation:** segmentation of the aortas and aortic vessel trees
+- [**CMRxMotion: Extreme Cardiac MRI Analysis Challenge under Respiratory Motion**](http://cmr.miccai.cloud/)
+  - **Cohort Size:** 100 (80 annotated)
+  - **Modality:** cine-MRI; ED and ES; short-axis
+  - **Annotation:** segmentation of LV, Myo and RV; motion artefact level
+- [**EchoNet-Dynamic: A Large New Cardiac Motion Video Data Resource for Medical Machine Learning**](https://echonet.github.io/dynamic/)
+  - **Cohort Size:** 10030
+  - **Modality:** apical-4-chamber echocardiography videos
+  - **Annotation:** clinical measurements
 - [**IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning**](https://github.com/intra3d2019/IntrA)
   - **Cohort Size:** 103 real patients (116 aneurysm); 1909 virtual patients (1694 healthy vessel; 215 aneurysm)
   - **Modality:** Mesh
@@ -158,6 +163,7 @@
 *AutoEncoder*
 - [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
 - [x] [*beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework*](https://openreview.net/pdf?id=Sy2fzU9gl)
+- [x] [*Preventing Posterior Collapse with delta-VAEs*](https://arxiv.org/abs/1901.03416)
 - [x] [*A Recurrent Latent Variable Model for Sequential Data*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 - [x] [*NVAE: A Deep Hierarchical Variational Autoencoder*](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)
 - [ ] [*Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations*](https://www.nature.com/articles/s41746-022-00666-x)
@@ -190,19 +196,16 @@
 
 **Network Interpretation**
 
-*Network Unit*
-
+*Network Unit*  
 - [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
 
-*Latent Analysis*
-
+*Latent Analysis*  
 - [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
 - [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
 
 **Geometric Learning**
 
-*Generative and Editable Model*
-
+*Generative and Editable Model*  
 - [x] [*Generating 3D Faces using Convolutional Mesh Autoencoders*](https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)
 - [x] [*Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels.*](https://proceedings.neurips.cc/paper/2020/file/68dd09b9ff11f0df5624a690fe0f6729-Paper.pdf)
 - [ ] [*Learning to Generate 3D Shapes from a Single Example*](https://arxiv.org/pdf/2208.02946.pdf)
@@ -215,15 +218,13 @@
 **Trustworthy AI**
 - [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
 
-*Plausibility*
-
+*Plausibility*  
 - [x] [*Learning deformable registration of medical images with anatomical
 constraints*](https://www.sciencedirect.com/science/article/pii/S0893608020300253) 
 
-**Auto ML**
-
-*hyper-networks*
-- [ ] [*HyperMorph: Amortized Hyperparameter Learning for Image Registration*](https://arxiv.org/pdf/2101.01035.pdf)
+**Conditional Neural Network**
+- [x] [*Learning Conditional Deformable Templates with Convolutional Networks*](https://arxiv.org/abs/1908.02738)
+- [x] [*HyperMorph: Amortized Hyperparameter Learning for Image Registration*](https://arxiv.org/pdf/2101.01035.pdf)
 
 
 **Robust Deep Learning**
@@ -234,3 +235,11 @@ constraints*](https://www.sciencedirect.com/science/article/pii/S089360802030025
 
 *Style Generalization*
 - [x] [*Domain Generalization with MixStyle*](https://arxiv.org/abs/2104.02008)
+
+**Image Matching**  
+
+*Registration*
+- [x] [*An Unsupervised Learning Model for Deformable Medical Image Registration*](https://arxiv.org/abs/1802.02604)
+- [x] [*Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration*](https://arxiv.org/abs/1805.04605)
+- [x] [*Conditional Deformable Image Registration with Convolutional Neural Network*](https://arxiv.org/abs/2106.12673) 
+- [x] [*SynthMorph: learning contrast-invariant registration without acquired images*](https://arxiv.org/abs/2004.10282)
