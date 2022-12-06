@@ -100,6 +100,11 @@
 - [*Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions*](https://arxiv.org/abs/2209.10307)
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 
+*Basic Math*
+- [*Cosine Similarity*](https://en.wikipedia.org/wiki/Cosine_similarity)
+- [*Dot Product*](https://en.wikipedia.org/wiki/Dot_product)
+- [*Probability concepts explained: Maximum likelihood estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+
 *Models and Algorithms*
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 - [*Bootstrap Confidence Intervals*](https://acclab.github.io/bootstrap-confidence-intervals.html)
@@ -112,7 +117,6 @@
 - [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
-- [*Probability concepts explained: Maximum likelihood estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 - [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
 - [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
@@ -134,6 +138,10 @@
   - **Cohort Size:**  150 (100 annotated)
   - **Modality:** cine-MRI; 3D+t; short-axis
   - **Annotation:** segmentation of LV, Myo, and RV in ED and ES; diagnosis results
+- [**Aorta Anatomy Synthetic Dataset**](https://commlab.uv.es/repository/)
+  - **Cohort Size:** 3000 (Generated from model, **not** from real patient)
+  - **Modality:** Mesh
+  - **Annotation:** none 
 - [**AVT: Aortic Vessel Tree CTA Datasets and Segmentations**](https://figshare.com/articles/dataset/Aortic_Vessel_Tree_AVT_CTA_Datasets_and_Segmentations/14806362)
   - **Cohort Size:** 56
   - **Modality:** CTA
@@ -159,6 +167,7 @@
 **Generative Models**  
 
 - [ ] [*Normalizing Flows: An Introduction and Review of Current Methods*](https://arxiv.org/abs/1908.09257)
+- [ ] [*An Introduction to Variational Autoencoders*](https://arxiv.org/abs/1906.02691)
 
 *AutoEncoder*
 - [x] [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114)
@@ -168,6 +177,7 @@
 - [x] [*NVAE: A Deep Hierarchical Variational Autoencoder*](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)
 - [ ] [*Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations*](https://www.nature.com/articles/s41746-022-00666-x)
 - [ ] [*Dynamical Deep Generative Latent Modeling of 3D Skeletal Motion*](https://link.springer.com/article/10.1007/s11263-022-01668-8?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)
+- [ ] [*Variational Laplace Autoencoders*](https://arxiv.org/abs/2211.17267)
 
 *Flow*  
 - [x] [*Variational Inference with Normalizing Flows*](https://proceedings.mlr.press/v37/rezende15.html)  
@@ -175,6 +185,7 @@
 - [ ] [*ManiFlow: Implicitly Representing Manifolds with Normalizing Flows*](https://arxiv.org/pdf/2208.08932.pdf)
 - [ ] [*FLAG: Flow-based 3D Avatar Generation from Sparse Observations*](https://openaccess.thecvf.com/content/CVPR2022/papers/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.pdf)
 - [ ] [*f-VAEs: Improve VAEs with Conditional Flows*](https://arxiv.org/pdf/1809.05861.pdf)
+- [ ] [*Learning Likelihoods with Conditional Normalizing Flows*](https://arxiv.org/pdf/1912.00042.pdf)
 
 *GAN*
 - [x] [*Generative Adversarial Networks*](https://arxiv.org/abs/1406.2661)
@@ -182,6 +193,7 @@
 - [ ] [*Analyzing and Improving the Image Quality of StyleGAN*](https://arxiv.org/abs/1912.04958)
 - [ ] [*Alias-Free Generative Adversarial Networks*](https://arxiv.org/abs/2106.12423)
 - [ ] [*On the "Steerability" of Generative Adversarial Networks*](https://openreview.net/forum?id=HylsTT4FvB)
+- [ ] [*LatentSwap3D: Semantic Edits on 3D Image GANs*](https://arxiv.org/abs/2212.01381)
 
 *Diffusion Model*
 - [x] [*Denoising Diffusion Probabilistic Models*](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
@@ -191,17 +203,9 @@
 
 **Cardiovascular**
 - [x] [*Linking Statistical Shape Models and Simulated Function in the Healthy Adult Human Heart*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008851)
+- [x] [*Clinically-Driven Virtual Patient Cohorts Generation: An Application to Aorta*](https://www.frontiersin.org/articles/10.3389/fphys.2021.713118/full?utm_source=dlvr.it&utm_medium=twitter)
 - [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
 - [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field*](https://www.nature.com/articles/s41746-022-00640-7)
-
-**Network Interpretation**
-
-*Network Unit*  
-- [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
-
-*Latent Analysis*  
-- [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
-- [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
 
 **Geometric Learning**
 
@@ -217,15 +221,21 @@
 
 **Trustworthy AI**
 - [ ] [*FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging*](https://arxiv.org/abs/2109.09658)
+- [ ] [*Guidelines and evaluation of clinical explainable AI in medical image analysis*](https://arxiv.org/abs/2202.10553)
+- [ ] [*Holding AI to Account: Challenges for the Delivery of Trustworthy AI in Healthcare*](https://arxiv.org/abs/2211.16444)
 
 *Plausibility*  
 - [x] [*Learning deformable registration of medical images with anatomical
 constraints*](https://www.sciencedirect.com/science/article/pii/S0893608020300253) 
 
-**Conditional Neural Network**
-- [x] [*Learning Conditional Deformable Templates with Convolutional Networks*](https://arxiv.org/abs/1908.02738)
-- [x] [*HyperMorph: Amortized Hyperparameter Learning for Image Registration*](https://arxiv.org/pdf/2101.01035.pdf)
+*Network Interpretation* 
+- [ ] [*Understanding the Role of Individual Units in a Deep Network*](https://dissect.csail.mit.edu/)
+- [ ] [*Unsupervised Discovery of Interpretable Directions in the GAN Latent Space*](https://arxiv.org/abs/2002.03754)
+- [ ] [*InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets*](https://arxiv.org/abs/1606.03657)
+- [ ] [*Inverse-Based Approach to Explaining and Visualizing Convolutional Neural Networks*](https://ieeexplore.ieee.org/document/9457245)
 
+*Confidence*
+- [x] [*PIC-Score: Probabilistic Interpretable Comparison Score for Optimal Matching Confidence in Single- and Multi-Biometric (Face) Recognition*](https://arxiv.org/abs/2211.12483)
 
 **Robust Deep Learning**
 
@@ -234,12 +244,25 @@ constraints*](https://www.sciencedirect.com/science/article/pii/S089360802030025
 - [x] [*Domain Generalization via Gradient Surgery*](https://arxiv.org/abs/2108.01621)
 
 *Style Generalization*
-- [x] [*Domain Generalization with MixStyle*](https://arxiv.org/abs/2104.02008)
+- [x] [*Domain Generalization with MixStyle*](https://arxiv.org/abs/2104.02008) 
 
-**Image Matching**  
-
-*Registration*
+**Registration**
 - [x] [*An Unsupervised Learning Model for Deformable Medical Image Registration*](https://arxiv.org/abs/1802.02604)
 - [x] [*Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration*](https://arxiv.org/abs/1805.04605)
 - [x] [*Conditional Deformable Image Registration with Convolutional Neural Network*](https://arxiv.org/abs/2106.12673) 
 - [x] [*SynthMorph: learning contrast-invariant registration without acquired images*](https://arxiv.org/abs/2004.10282)
+- [x] [*Learning Conditional Deformable Templates with Convolutional Networks*](https://arxiv.org/abs/1908.02738)
+- [x] [*HyperMorph: Amortized Hyperparameter Learning for Image Registration*](https://arxiv.org/pdf/2101.01035.pdf)
+- [ ] [*Image-to-Graph Convolutional Network for 2D/3D Deformable Model Registration of Low-Contrast Organs*](https://ieeexplore.ieee.org/document/9844010)
+- [ ] [*Region-specific Diffeomorphic Metric Mapping*](https://proceedings.neurips.cc/paper/2019/file/291597a100aadd814d197af4f4bab3a7-Paper.pdf)
+
+**Reinforcement Learning**
+- [x] [*Human-level control through deep reinforcement learning*](https://www.nature.com/articles/nature14236)
+- [ ] [*Efficient Reinforcement Learning Through Trajectory Generation*](https://arxiv.org/abs/2211.17249)
+- [ ] [*Safe Model-Free Reinforcement Learning using Disturbance-Observer-Based Control Barrier Functions*](https://arxiv.org/abs/2211.17250)
+
+**Long Term Dependency**
+- [ ] [*Explain My Surprise: Learning Efficient Long-Term Memory by Predicting Uncertain Outcomes*](https://arxiv.org/abs/2207.13649)
+
+**Meta Learning**
+- [ ] [*Meta-Learning in Neural Networks: A Survey*](https://arxiv.org/abs/2004.05439)
