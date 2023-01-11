@@ -8,6 +8,7 @@
 |[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
 |[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
 |[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
+|[CuPy](https://cupy.dev/)|NumPy & SciPy for GPU|
 |[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
 |[Matplotlib](https://matplotlib.org/stable/)|A comprehensive library for creating static, animated, and interactive visualizations in Python.|
 |[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
@@ -89,11 +90,12 @@
 **Machine Learning**  
 *Overviews*
 - [*A Gentle Introduction to Graph Neural Networks*](https://distill.pub/2021/gnn-intro/)
+- [*A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects*](https://ieeexplore.ieee.org/document/9451544)
 - [*An Overview of Deep Learning for Curious People*](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [*Interpretable Machine Learning*](https://christophm.github.io/interpretable-ml-book/)
 - [*Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*](https://geometricdeeplearning.com/lectures/)
+- [*Loss Functions for Image Segmentation*](https://github.com/JunMa11/SegLoss)
 - [*Spinning Up in Deep RL*](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
-- [*A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects*](https://ieeexplore.ieee.org/document/9451544)
 
 *Tricks*
 - [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
@@ -104,7 +106,7 @@
 *Basic Math*
 - [*Cosine Similarity*](https://en.wikipedia.org/wiki/Cosine_similarity)
 - [*Dot Product*](https://en.wikipedia.org/wiki/Dot_product)
-- [*Probability concepts explained: Maximum likelihood estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+- [*Probability Concepts Explained: Maximum Likelihood Estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
 *Models and Algorithms*
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
@@ -113,13 +115,12 @@
 - [*Flow-based Deep Generative Models*](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 - [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
-- [*Loss functions for image segmentation*](https://github.com/JunMa11/SegLoss)
 - [*Mixture Models and the EM Algorithm*](http://mlg.eng.cam.ac.uk/tutorials/06/cb.pdf)
-- [*Multi-task and Multi-channel VAE*](https://github.com/ggbioing/mcvae)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 - [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
 - [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
+- [*Types of Distance Measures*](https://nikin.me/types-of-distance-measures/)
 
 **Writing**
 - [*Aims and Objectives – A Guide for Academic Writing*](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
@@ -127,14 +128,18 @@
 - [*Latex Symbol and Mark (Chinese)*](https://blog.csdn.net/u010440456/article/details/89787326)
 - [*Latex Table Generator*](https://www.tablesgenerator.com/)
 - [*Split PDF*](https://www.ilovepdf.com/split_pdf#split,range)
-- [*Thesaurus and Word tools for your creative needs*](https://www.wordhippo.com/)
+- [*Thesaurus and Word Tools for Your Creative Needs*](https://www.wordhippo.com/)
 
 **Research**
 - [*Best Practices and Scoring System on Reviewing A.I. based Medical Imaging Papers: Part 1 Classification*](https://arxiv.org/pdf/2101.01035.pdf)
 - [*Research Methods Knowledge Base*](https://conjointly.com/kb/navigating-the-kb/)
-- [*Tips for academic research*](https://github.com/jbhuang0604/awesome-tips)
+- [*Tips for Academic Research*](https://github.com/jbhuang0604/awesome-tips)
 
 ## <span id = "Milestone">DATASETS</span>
+- [**A Multi-site Dataset for Prostate MRI Segmentation**](https://liuquande.github.io/SAML/)
+  - **Cohort Size:** 116
+  - **Modality:** T2-weighted MRI
+  - **Annotation:** Segmentation of Prostate
 - [**ACDC: Automated Cardiac Diagnosis Challenge**](https://www.creatis.insa-lyon.fr/Challenge/acdc/)  
   - **Cohort Size:** 150 (100 annotated)
   - **Modality:** cine-MRI; 3D+t; short-axis
@@ -175,10 +180,6 @@
   - **Cohort Size:** 60 (20 annotated)
   - **Modality:** MRI; CT
   - **Annotation:** segmentation of four chambers, myocardium, aorta and artery.
-- [**Multi-site Dataset for Prostate MRI Segmentation**](https://liuquande.github.io/SAML/)
-  - **Cohort Size:** 116
-  - **Modality:** T2-weighted MRI
-  - **Annotation:** segmentation of prostate
 - [**Virtual Cohort of Adult Healthy Four-chamber Heart Meshes from CT Images**](https://doi.org/10.5281/zenodo.4590294)
   - **Cohort Size:** 20
   - **Modality:** Mesh
@@ -194,6 +195,7 @@
 - [x] [*A Recurrent Latent Variable Model for Sequential Data. NIPS 2015*](https://papers.nips.cc/paper/2015/hash/b618c3210e934362ac261db280128c22-Abstract.html)  
 - [x] [*beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework. ICLR 2017*](https://openreview.net/pdf?id=Sy2fzU9gl)
 - [x] [*Preventing Posterior Collapse with delta-VAEs. ICLR 2019*](https://arxiv.org/abs/1901.03416)
+- [x] [*Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data. ICML 2019*](http://proceedings.mlr.press/v97/antelmi19a.html)
 - [ ] [*Variational Laplace Autoencoders. ICML 2019*](https://arxiv.org/abs/2211.17267)
 - [x] [*NVAE: A Deep Hierarchical Variational Autoencoder. NIPS 2020*](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)
 - [ ] [*Generation of Realistic Synthetic Data using Multimodal Neural Ordinary Differential Equations. npj Digital Health 2022*](https://www.nature.com/articles/s41746-022-00666-x)
@@ -234,6 +236,8 @@
 *Generative and Editable Model*  
 - [x] [*Generating 3D Faces using Convolutional Mesh Autoencoders. ECCV 2018*](https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)
 - [x] [*Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels. NeurIPS 2020*](https://proceedings.neurips.cc/paper/2020/file/68dd09b9ff11f0df5624a690fe0f6729-Paper.pdf)
+- [x] [*SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors. arXiv 2020*](https://arxiv.org/abs/2009.12395)
+- [x] [*Contextual Scene Augmentation and Synthesis via GSACNet. arXiv 2021*](https://arxiv.org/abs/2103.15369)
 - [ ] [*Learning to Generate 3D Shapes from a Single Example. SIGGRAPH 2022*](https://arxiv.org/pdf/2208.02946.pdf)
 - [ ] [*Deep Deformable 3D Caricatures with Learned Shape Control. SIGGRAPH 2022*](https://arxiv.org/pdf/2207.14593.pdf)
 
@@ -269,6 +273,9 @@
 
 *Style Generalization*
 - [x] [*Domain Generalization with MixStyle. ICLR 2021*](https://arxiv.org/abs/2104.02008) 
+- [x] [*A Simple Feature Augmentation for Domain Generalization. ICCV 2021*](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Simple_Feature_Augmentation_for_Domain_Generalization_ICCV_2021_paper.pdf)
+- [ ] [*Tent: Fully Test-time Adaptation by Entropy Minimization. ICLR 2021*](https://openreview.net/pdf?id=uXl3bZLkr3c)
+- [x] [*Uncertainty Modeling for Out-of-Distribution Generalization. ICLR 2022*](https://openreview.net/forum?id=6HN7LHyzGgC)
 
 *Variational Inference*
 - [ ] [*Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation. MICCAI 2022*](https://arxiv.org/abs/2206.04336)
@@ -279,6 +286,8 @@
 - [ ] [*Symmetric Diffeomorphic Image Registration with Cross-correlation: Evaluating Automated Labeling of Elderly and Neurodegenerative Brain. MedIA 2008*](https://pubmed.ncbi.nlm.nih.gov/17659998/)
 - [x] [*An Unsupervised Learning Model for Deformable Medical Image Registration. CVPR 2018*](https://arxiv.org/abs/1802.02604)
 - [x] [*Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration. MICCAI 2018*](https://arxiv.org/abs/1805.04605)
+- [x] [*Weakly-supervised Convolutional Neural Networks for Multi-modal
+Image Registration. MedIA 2018*](https://www.sciencedirect.com/science/article/pii/S1361841518301051)
 - [x] [*Conditional Deformable Image Registration with Convolutional Neural Network. MICCAI 2021*](https://arxiv.org/abs/2106.12673) 
 - [x] [*SynthMorph: Learning Contrast-invariant Registration without Acquired Images. IEEE-TMI 2022*](https://arxiv.org/abs/2004.10282)
 - [x] [*Learning Conditional Deformable Templates with Convolutional Networks. NeurIPS 2019*](https://arxiv.org/abs/1908.02738)
