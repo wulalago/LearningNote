@@ -206,7 +206,9 @@
 - [x] [*NICE: Non-linear Independent Components Estimation. ICLR 2015*](https://arxiv.org/abs/1410.8516)
 - [x] [*Density Estimation using Real NVP. ICLR 2017*](https://arxiv.org/abs/1605.08803)
 - [x] [*f-VAEs: Improve VAEs with Conditional Flows. arXiv 2018*](https://arxiv.org/pdf/1809.05861.pdf)
+- [x] [*Glow: Generative Flow with Invertible 1x1 Convolutions. NeurIPS 2018*](https://arxiv.org/abs/1807.03039)
 - [ ] [*Learning Likelihoods with Conditional Normalizing Flows. arXiv 2019*](https://arxiv.org/pdf/1912.00042.pdf)
+- [x] [*C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds. CVPR 2020*](https://arxiv.org/abs/1912.07009)
 - [ ] [*Poisson Flow Generative Models. NeurIPS 2022*](https://arxiv.org/abs/2209.11178)
 - [ ] [*ManiFlow: Implicitly Representing Manifolds with Normalizing Flows. 3DV 2022*](https://arxiv.org/pdf/2208.08932.pdf)
 - [ ] [*FLAG: Flow-based 3D Avatar Generation from Sparse Observations. CVPR 2022*](https://openaccess.thecvf.com/content/CVPR2022/papers/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.pdf)
@@ -230,6 +232,7 @@
 - [x] [*Clinically-Driven Virtual Patient Cohorts Generation: An Application to Aorta. Frontiers in Physiology 2021*](https://www.frontiersin.org/articles/10.3389/fphys.2021.713118/full?utm_source=dlvr.it&utm_medium=twitter)
 - [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos. MedIA 2023*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
 - [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field. npj Digital Medicine 2022*](https://www.nature.com/articles/s41746-022-00640-7)
+- [x] [*Semi-Automated Construction of Patient-Specific Aortic Valves from Computed Tomography Images. Annals of Biomedical Engineering 2023*](https://link.springer.com/article/10.1007/s10439-022-03075-z)
 
 **Geometric Learning**
 
@@ -274,7 +277,7 @@
 *Style Generalization*
 - [x] [*Domain Generalization with MixStyle. ICLR 2021*](https://arxiv.org/abs/2104.02008) 
 - [x] [*A Simple Feature Augmentation for Domain Generalization. ICCV 2021*](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Simple_Feature_Augmentation_for_Domain_Generalization_ICCV_2021_paper.pdf)
-- [ ] [*Tent: Fully Test-time Adaptation by Entropy Minimization. ICLR 2021*](https://openreview.net/pdf?id=uXl3bZLkr3c)
+- [x] [*Tent: Fully Test-time Adaptation by Entropy Minimization. ICLR 2021*](https://openreview.net/pdf?id=uXl3bZLkr3c)
 - [x] [*Uncertainty Modeling for Out-of-Distribution Generalization. ICLR 2022*](https://openreview.net/forum?id=6HN7LHyzGgC)
 
 *Variational Inference*
