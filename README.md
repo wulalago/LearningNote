@@ -100,6 +100,7 @@
 *Tricks*
 - [*A Recipe for Training Neural Networks*](https://karpathy.github.io/2019/04/25/recipe/)
 - [*Bag of Tricks for Image Classification with Convolutional Neural Networks*](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- [*Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study*](https://ieeexplore.ieee.org/document/9773017)
 - [*Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions*](https://arxiv.org/abs/2209.10307)
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 
@@ -230,9 +231,9 @@
 **Cardiovascular**
 - [x] [*Linking Statistical Shape Models and Simulated Function in the Healthy Adult Human Heart. PLoS Computational Biology 2021*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008851)
 - [x] [*Clinically-Driven Virtual Patient Cohorts Generation: An Application to Aorta. Frontiers in Physiology 2021*](https://www.frontiersin.org/articles/10.3389/fphys.2021.713118/full?utm_source=dlvr.it&utm_medium=twitter)
-- [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos. MedIA 2023*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
 - [ ] [*The Health Digital Twin to Tackle Cardiovascular Disease — A Review of An Emerging Interdisciplinary Field. npj Digital Medicine 2022*](https://www.nature.com/articles/s41746-022-00640-7)
 - [x] [*Semi-Automated Construction of Patient-Specific Aortic Valves from Computed Tomography Images. Annals of Biomedical Engineering 2023*](https://link.springer.com/article/10.1007/s10439-022-03075-z)
+- [ ] [*Weakly Supervised Inference of Personalized Heart Meshes based on Echocardiography Videos. MedIA 2023*](https://www.sciencedirect.com/science/article/pii/S136184152200281X)
 
 **Geometric Learning**
 
@@ -277,11 +278,15 @@
 *Style Generalization*
 - [x] [*Domain Generalization with MixStyle. ICLR 2021*](https://arxiv.org/abs/2104.02008) 
 - [x] [*A Simple Feature Augmentation for Domain Generalization. ICCV 2021*](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Simple_Feature_Augmentation_for_Domain_Generalization_ICCV_2021_paper.pdf)
+- [x] [*Adversarially Adaptive Normalization for Single Domain Generalization. CVPR 2021*](https://arxiv.org/abs/2106.01899)
 - [x] [*Tent: Fully Test-time Adaptation by Entropy Minimization. ICLR 2021*](https://openreview.net/pdf?id=uXl3bZLkr3c)
 - [x] [*Uncertainty Modeling for Out-of-Distribution Generalization. ICLR 2022*](https://openreview.net/forum?id=6HN7LHyzGgC)
 
 *Variational Inference*
-- [ ] [*Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation. MICCAI 2022*](https://arxiv.org/abs/2206.04336)
+- [x] [*Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation. MICCAI 2022*](https://arxiv.org/abs/2206.04336)
+
+*Augmentation*
+- [ ] [*Data Augmentation in High Dimensional Low Sample Size Setting Using a Geometry-Based Variational Autoencoder. IEEE-TPAMI 2023*](https://ieeexplore.ieee.org/document/9806307)
 
 **Registration**
 - [x] [*A Log-Euclidean Polyaffine Framework for Locally Rigid or Affine Registration. WBIR 2006*](https://link.springer.com/chapter/10.1007/11784012_15)
@@ -310,3 +315,6 @@ Image Registration. MedIA 2018*](https://www.sciencedirect.com/science/article/p
 **Differential Equation**
 - [ ] [*Neural Ordinary Differential Equations. NeurIPS 2018*](https://proceedings.neurips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)
 - [ ] [*Neural Flows: Efficient Alternative to Neural ODEs. NeurIPS 2021*](https://arxiv.org/abs/2110.13040)
+
+**Practical Machine Learning**
+- [x] [*Learning from Data with Structured Missingness. Nature Machine Intelligence 2023*](https://www.nature.com/articles/s42256-022-00596-z.pdf)
