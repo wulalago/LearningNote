@@ -2,37 +2,43 @@
 > some resources on my path in deep learning and medical image analysis
 > 
 ## <span id = "program">PROGRAMMING LIBRARIES</span>
-| Libraries | Usage |
+| Libraries | About |
 | :- | :- |
-|[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
-|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
-|[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
-|[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
-|[CuPy](https://cupy.dev/)|NumPy & SciPy for GPU|
-|[ITKWidgets](https://itkwidgets.readthedocs.io/en/latest/)|Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D|
-|[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
-|[Matplotlib](https://matplotlib.org/stable/)|A comprehensive library for creating static, animated, and interactive visualizations in Python.|
-|[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
+| *Deep Learning* | |
 |[MONAI](https://monai.io/)|AI Toolkit for Healthcare Imaging|
-|[NumPy](https://numpy.org/)|Fundamental package for scientific computing with Python.|
-|[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
-|[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
 |[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
 |[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
 |[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
-|[PyTorch Optimizer](https://pytorch-optimizer.readthedocs.io/en/latest/)|  Collection of optimizers for PyTorch |
 |[PyVarInf](https://github.com/ctallec/pyvarinf) | Facilities to easily train your PyTorch neural network models using variational inference. |
+| *Image Processing* | |
+|[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
+|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
+|[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
+|[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
+|[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
+|[TorchIO](https://torchio.readthedocs.io/)| Medical image preprocessing and augmentation toolkit for deep learning.|
+|[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
+| *Visualization & Geometric Analysis* | |
+|[ITKWidgets](https://itkwidgets.readthedocs.io/en/latest/)|Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D|
+|[Matplotlib](https://matplotlib.org/stable/)|A comprehensive library for creating static, animated, and interactive visualizations in Python.|
 |[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
 |[SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|
-|[SciPy](https://scipy.org/)|An open-source software for mathematics, science, and engineering|
 |[Seaborn](https://seaborn.pydata.org/)|A Python data visualization library based on matplotlib|
-|[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
 |[Statannotations](https://github.com/trevismd/statannotations)| Add statistical significance annotations on seaborn plots. |
-|[TensorRT](https://developer.nvidia.com/tensorrt)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
-|[Torchinfo](https://github.com/TylerYep/torchinfo)|View model summaries in PyTorch|
-|[TorchIO](https://torchio.readthedocs.io/)| Medical image preprocessing and augmentation toolkit for deep learning.|
 |[Vedo](https://vedo.embl.es/) | A python module for scientific analysis of 3D objects based on VTK and Numpy |
-
+| *Model Trials*|
+|[WandB](https://wandb.ai/site)| A tool for visualizing and tracking your machine learning experiments.|
+|[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
+|[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
+|[Torchinfo](https://github.com/TylerYep/torchinfo)|View model summaries in PyTorch|
+| *Scientific Computing* | |
+|[NumPy](https://numpy.org/)|Fundamental package for scientific computing with Python.|
+|[SciPy](https://scipy.org/)|An open-source software for mathematics, science, and engineering|
+| *GPU Acceleration* ||
+|[CuPy](https://cupy.dev/)|NumPy & SciPy for GPU|
+|[TensorRT](https://developer.nvidia.com/tensorrt)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
+| *Computer Simulation*| |
+|[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
 
 ## <span id = "journal">JOURNALS & CONFERENCES</span>
 
