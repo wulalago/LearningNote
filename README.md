@@ -5,6 +5,7 @@
 | Libraries | About |
 | :- | :- |
 | *Deep Learning* | |
+|[DHG](https://deephypergraph.com/#/)| A pytorch library for graph and hypergraph computation|
 |[MONAI](https://monai.io/)|AI Toolkit for Healthcare Imaging|
 |[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
 |[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
@@ -99,12 +100,16 @@
 ***Heart***:
 - cine-MRI: [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/), [M&Ms](https://www.ub.edu/mnms/), [M&Ms-2](https://www.ub.edu/mnms-2/)
 
+***Brain***
+- Geometry: [IntrA](https://github.com/intra3d2019/IntrA)
+
 &rarr; [*Details can be found here*](datasets.md)
 
 ## <span id = "Milestone">PAPERS</span>
 - [**Backbones and Fundamental Technologies**](Papers/backbone.md)
 - [**Generative Models**](Papers/generation.md)
 - [**Registration**](Papers/registration.md)
+- [**Graph Neural Network**](Papers/gnn.md)
 
 ## <span id = "resource">RESOURCES</span>
 **Machine Learning**  
@@ -124,15 +129,15 @@
 - [*Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions*](https://arxiv.org/abs/2209.10307)
 - [*My Neural Network isn't working! What should I do?*](http://theorangeduck.com/page/neural-network-not-working)
 
-*Basic Math and Algorithms*
+*Evaluation*
 - [*Bootstrap Confidence Intervals*](https://acclab.github.io/bootstrap-confidence-intervals.html)
-- [*Cosine Similarity*](https://en.wikipedia.org/wiki/Cosine_similarity)
-- [*Dot Product*](https://en.wikipedia.org/wiki/Dot_product)
-- [*Fundamental Concepts in SimpleITK*](https://simpleitk.readthedocs.io/en/master/fundamentalConcepts.html)
 - [*Intuition for the Maximum Mean Discrepancy two-sample test*](https://torchdrift.org/notebooks/note_on_mmd.html)
-- [*Spherical Convolution — A Theoretical Walk-Through*](https://blog.goodaudience.com/spherical-convolution-a-theoretical-walk-through-98e98ee64655)
-- [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 - [*Types of Distance Measures*](https://nikin.me/types-of-distance-measures/)
+  
+*Data Processing*
+- [*Fundamental Concepts in SimpleITK*](https://simpleitk.readthedocs.io/en/master/fundamentalConcepts.html)
+- [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
+- [*Transforms and Resampling in SimpleITK*](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/21_Transforms_and_Resampling.html)
 
 *Models and Algorithms*
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
@@ -144,8 +149,7 @@
 - [*Normalizing Flows with Real NVP*](https://bjlkeng.github.io/posts/normalizing-flows-with-real-nvp/#full-loss-function)
 - [*Policy Gradient Algorithms*](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 - [*Probability Concepts Explained: Maximum Likelihood Estimation*](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
-- [*Procrustes analysis with Python/NumPy*](https://medium.com/@olga_kravchenko/generalized-procrustes-analysis-with-python-numpy-c571e8e8a421)
-
+- [*Spherical Convolution — A Theoretical Walk-Through*](https://blog.goodaudience.com/spherical-convolution-a-theoretical-walk-through-98e98ee64655)
 
 **Writing**
 - [*Aims and Objectives – A Guide for Academic Writing*](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
