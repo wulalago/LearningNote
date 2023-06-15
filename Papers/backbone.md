@@ -4,4 +4,5 @@
 - [*Deep Residual Learning for Image Recognition. CVPR 2016*](https://arxiv.org/abs/1512.03385)
 
 ## Normalization Layer
-- [*Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. ICML 2015*]()  
+- [*Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. ICML 2015*](https://arxiv.org/abs/1502.03167)  
+- [*Group Normalization. ECCV 2018*](https://arxiv.org/abs/1803.08494)

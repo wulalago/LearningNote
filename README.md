@@ -10,7 +10,6 @@
 |[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
 |[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
 |[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
-|[PyVarInf](https://github.com/ctallec/pyvarinf) | Facilities to easily train your PyTorch neural network models using variational inference. |
 | *Image Processing* | |
 |[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
 |[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
@@ -55,6 +54,7 @@
 |[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 5.152 | 
 |[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | 
 |[Journal of Machine Learning Research](https://www.jmlr.org/)| 3.654 | 
+|[Journal of Cardiovascular Magnetic Resonance](https://jcmr-online.biomedcentral.com/)|5.364|
 |[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.021 | 
 |[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | 
 |[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | 
@@ -143,7 +143,9 @@
 - [*Anomaly Detection Using Principal Component Analysis (PCA) Reconstruction Error*](https://jamesmccaffrey.wordpress.com/2021/07/07/anomaly-detection-using-principal-component-analysis-pca-reconstruction-error/)
 - [*Diffusion models from scratch in PyTorch*](https://www.youtube.com/watch?v=a4Yfz2FxXiY&t=1079s&ab_channel=DeepFindr)
 - [*Flow-based Deep Generative Models*](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
+- [*Fluid-based image registration (Chinese)*](https://zhuanlan.zhihu.com/p/90593936)
 - [*From AE to Beta VAE*](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+- [*Graph Convolutional Networks*](https://tkipf.github.io/graph-convolutional-networks/)
 - [*Mixture Models and the EM Algorithm*](http://mlg.eng.cam.ac.uk/tutorials/06/cb.pdf)
 - [*Normalizing Flows Are Not Magic*](https://medium.com/swlh/normalizing-flows-are-not-magic-22752d0c924)
 - [*Normalizing Flows with Real NVP*](https://bjlkeng.github.io/posts/normalizing-flows-with-real-nvp/#full-loss-function)
