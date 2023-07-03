@@ -43,41 +43,43 @@
 ## <span id = "journal">JOURNALS & CONFERENCES</span>
 
 | Journal | IF |
-| :- | :- |
-|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.050 |
-|[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)| 7.011 |
-|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 7.027 | 
-|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.834 | 
-|[Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)| 8.665 |
-|[Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)|5.842|
-|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| - | 
-|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 5.152 | 
+| :- | -: |
+|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.4 |
+|[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)| 	7.5 |
+|[Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)|7.7|
+|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 6.1 | 
+|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.8 | 
+|[Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)|3.6|
+|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| 4.0 | 
+|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.3 | 
 |[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | 
-|[Journal of Machine Learning Research](https://www.jmlr.org/)| 3.654 | 
-|[Journal of Cardiovascular Magnetic Resonance](https://jcmr-online.biomedcentral.com/)|5.364|
-|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.021 | 
+|[Journal of Machine Learning Research](https://www.jmlr.org/)| 6 | 
+|[Journal of Cardiovascular Magnetic Resonance](https://jcmr-online.biomedcentral.com/)|6.4|
+|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.7 | 
 |[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | 
-|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.756 | 
-|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 4.708 | 
-|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 19.118 | 
-|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 12.253| 
-|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 11.037 | 
-|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 14.255 | 
-|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 24.314 | 
-|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 13.369 | 
-|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) | 29.234| 
-|[Nature Communications](https://www.nature.com/ncomms/)| 17.69 | 
-|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.898 | 
-|[Nature Medicine](https://www.nature.com/nm/) | 87.241 | 
-|[Nature Methods](https://www.nature.com/nmeth/) | 47.99 | 
-|[Nature Neuroscience](https://www.nature.com/neuro/) |28.771 | 
-|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 13.828 | 
-|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 	4.506 | 
-|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 9.657 |
-|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 5.779 | 
-|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 7.4 | 
-|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.518 | 
-|[Radiology](https://pubs.rsna.org/journal/radiology) | 29.1 | 
+|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.6 | 
+|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 5.4 | 
+|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.8 | 
+|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 11.9| 
+|[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)|10.6|
+|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.6 | 
+|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.4 | 
+|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 23.6 | 
+|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 19.5 | 
+|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) |28.1| 
+|[Nature Communications](https://www.nature.com/ncomms/)| 16.6 | 
+|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 23.8 | 
+|[Nature Medicine](https://www.nature.com/nm/) | 82.9 | 
+|[Nature Methods](https://www.nature.com/nmeth/) | 	48.0 | 
+|[Nature Neuroscience](https://www.nature.com/neuro/) |	25.0 | 
+|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 10.9 | 
+|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 3.8 | 
+|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 7.8 |
+|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 	6.0 | 
+|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.7 | 
+|[NPJ Digital Medicine](https://www.nature.com/npjdigitalmed/)| 15.2 |
+|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.0 | 
+|[Radiology](https://pubs.rsna.org/journal/radiology) | 19.7 | 
 
 | Conference | Abbr |
 | :- | :- |
