@@ -79,6 +79,7 @@
 |[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.7 | 
 |[NPJ Digital Medicine](https://www.nature.com/npjdigitalmed/)| 15.2 |
 |[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.0 | 
+|[Progress in Biomedical Engineering](https://iopscience.iop.org/journal/2516-1091)| 4.7|
 |[Radiology](https://pubs.rsna.org/journal/radiology) | 19.7 | 
 
 | Conference | Abbr |

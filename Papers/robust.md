@@ -7,6 +7,11 @@
 
 ## Causal Reasoning
 - [*Causality Matters in Medical Imaging. Nature Communications 2020*](https://www.nature.com/articles/s41467-020-17478-w)
+- [*Causality-inspired Single-source Domain Generalization for Medical Image Segmentation. IEEE-TMI 2023*](https://arxiv.org/abs/2111.12525)
+
+## Domain-invariant Feature
+- [*Robust and Generalizable Visual Representation Learning via Random Convolutions. ICLR 2021*](https://arxiv.org/abs/2007.13003)
+
 
 ## Adversarial Attack
 - [*Explaining and Harnessing Adversarial Examples. ICLR 2015*](https://arxiv.org/abs/1412.6572)
