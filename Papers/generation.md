@@ -13,9 +13,11 @@
 - [*Density Estimation using Real NVP. ICLR 2017*](https://arxiv.org/abs/1605.08803)
 - [*Glow: Generative Flow with Invertible 1x1 Convolutions. NeurIPS 2018*](https://arxiv.org/abs/1807.03039)
 - [*Conditional Flow Variational Autoencoders for Structured Sequence Prediction. NeurIPS 2019*](https://arxiv.org/abs/1908.09008)
+- [*PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. ICCV 2019*](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_PointFlow_3D_Point_Cloud_Generation_With_Continuous_Normalizing_Flows_ICCV_2019_paper.html)
 - [*Structured Output Learning with Conditional Generative Flows. AAAI 2020*](https://ojs.aaai.org/index.php/AAAI/article/view/5940)
 - [*C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds. CVPR 2020*](https://arxiv.org/abs/1912.07009)
 - [*Poisson Flow Generative Models. NeurIPS 2022*](https://arxiv.org/abs/2209.11178)
+- 
 
 ## Diffusion Model
 - [*Denoising Diffusion Probabilistic Models. NeurIPS 2020*](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)

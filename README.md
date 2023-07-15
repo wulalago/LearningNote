@@ -110,6 +110,7 @@
 
 ## <span id = "Milestone">PAPERS</span>
 - [**Backbones and Fundamental Technologies**](Papers/backbone.md)
+- [**Computer Geography**](Papers/cg.md)
 - [**Generative Models**](Papers/generation.md)
 - [**Registration**](Papers/registration.md)
 - [**Graph Neural Network**](Papers/gnn.md)
