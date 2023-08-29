@@ -13,7 +13,9 @@
 ## Domain-invariant Feature
 - [*Robust and Generalizable Visual Representation Learning via Random Convolutions. ICLR 2021*](https://arxiv.org/abs/2007.13003)
 
-
 ## Adversarial Attack
 - [*Explaining and Harnessing Adversarial Examples. ICLR 2015*](https://arxiv.org/abs/1412.6572)
 - [*Stylized Adversarial Defense. IEEE-TPAMI 2023*](https://arxiv.org/abs/2007.14672)
+
+## Partial Label
+- [*DoDNet: Learning to Segment Multi-organ and Tumors from Multiple Partially Labeled Datasets. CVPR 2021*](https://arxiv.org/abs/2011.10217)
