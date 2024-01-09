@@ -2,102 +2,103 @@
 > some resources on my path in deep learning and medical image analysis
 > 
 ## <span id = "program">PROGRAMMING LIBRARIES</span>
-| Libraries | About |
-| :- | :- |
-| *Deep Learning* | |
-|[DHG](https://deephypergraph.com/#/)| A pytorch library for graph and hypergraph computation|
-|[MONAI](https://monai.io/)|AI Toolkit for Healthcare Imaging|
-|[PyTorch](https://pytorch.org/)|Tensors and dynamic neural networks in Python with strong GPU acceleration|
-|[PyTorch3d](https://pytorch3d.org/)| PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
-|[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) | Geometric deep learning extension Library for PyTorch |
-| *Image Processing* | |
-|[Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries. |
-|[ANTsPy](https://github.com/ANTsX/ANTsPy)|Advanced Normalization Tools in Python|
-|[DIPY](https://dipy.org/)| A python library for the analysis of MR diffusion imaging|
-|[Kornia](https://kornia.github.io//)|Open source differentiable computer vision library for PyTorch|
-|[MedPy](https://github.com/loli/medpy)|Medical image processing in Python|
-|[TorchIO](https://torchio.readthedocs.io/)| Medical image preprocessing and augmentation toolkit for deep learning.|
-|[SimpleITK](https://simpleitk.org/)|A layer built on top of the ITK|
-| *Visualization & Geometric Analysis* | |
-|[ITKWidgets](https://itkwidgets.readthedocs.io/en/latest/)|Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D|
-|[Matplotlib](https://matplotlib.org/stable/)|A comprehensive library for creating static, animated, and interactive visualizations in Python.|
-|[PyVista](https://docs.pyvista.org/)|3D plotting and mesh analysis through a streamlined interface for the VTK|
-|[SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|
-|[Seaborn](https://seaborn.pydata.org/)|A Python data visualization library based on matplotlib|
-|[Statannotations](https://github.com/trevismd/statannotations)| Add statistical significance annotations on seaborn plots. |
-|[Vedo](https://vedo.embl.es/) | A python module for scientific analysis of 3D objects based on VTK and Numpy |
-| *Model Trials*|
-|[WandB](https://wandb.ai/site)| A tool for visualizing and tracking your machine learning experiments.|
-|[Optuna](https://optuna.org/) | A hyperparameter optimization framework |
-|[Psutils](https://github.com/giampaolo/psutil)|Cross-platform lib for process and system monitoring in Python|
-|[Torchinfo](https://github.com/TylerYep/torchinfo)|View model summaries in PyTorch|
-| *Scientific Computing* | |
-|[NumPy](https://numpy.org/)|Fundamental package for scientific computing with Python.|
-|[SciPy](https://scipy.org/)|An open-source software for mathematics, science, and engineering|
-| *GPU Acceleration* ||
-|[CuPy](https://cupy.dev/)|NumPy & SciPy for GPU|
-|[TensorRT](https://developer.nvidia.com/tensorrt)|TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.|
-| *Computer Simulation*| |
-|[Gym](https://gym.openai.com/)|A toolkit for developing and comparing reinforcement learning algorithms|
+| Libraries                                                                           | About                                                                                                   |
+|:------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
+| *Deep Learning*                                                                     |                                                                                                         |
+| [DHG](https://deephypergraph.com/#/)                                                | A pytorch library for graph and hypergraph computation                                                  |
+| [MONAI](https://monai.io/)                                                          | AI Toolkit for Healthcare Imaging                                                                       |
+| [PyTorch](https://pytorch.org/)                                                     | Tensors and dynamic neural networks in Python with strong GPU acceleration                              |
+| [PyTorch3d](https://pytorch3d.org/)                                                 | PyTorch3D is FAIR's library of reusable components for deep learning with 3D data                       |
+| [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)            | Geometric deep learning extension Library for PyTorch                                                   |
+| *Image Processing*                                                                  |                                                                                                         |
+| [Albumentations](https://albumentations.ai/docs/getting_started/mask_augmentation/) | Fast image augmentation library and an easy-to-use wrapper around other libraries.                      |
+| [ANTsPy](https://github.com/ANTsX/ANTsPy)                                           | Advanced Normalization Tools in Python                                                                  |
+| [DIPY](https://dipy.org/)                                                           | A python library for the analysis of MR diffusion imaging                                               |
+| [Kornia](https://kornia.github.io//)                                                | Open source differentiable computer vision library for PyTorch                                          |
+| [MedPy](https://github.com/loli/medpy)                                              | Medical image processing in Python                                                                      |
+| [TorchIO](https://torchio.readthedocs.io/)                                          | Medical image preprocessing and augmentation toolkit for deep learning.                                 |
+| [SimpleITK](https://simpleitk.org/)                                                 | A layer built on top of the ITK                                                                         |
+| *Visualization & Geometric Analysis*                                                |                                                                                                         |
+| [ITKWidgets](https://itkwidgets.readthedocs.io/en/latest/)                          | Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D                    |
+| [Matplotlib](https://matplotlib.org/stable/)                                        | A comprehensive library for creating static, animated, and interactive visualizations in Python.        |
+| [PyVista](https://docs.pyvista.org/)                                                | 3D plotting and mesh analysis through a streamlined interface for the VTK                               |
+| [SciencePlots](https://github.com/garrettj403/SciencePlots)                         | Matplotlib styles for scientific plotting                                                               |
+| [Seaborn](https://seaborn.pydata.org/)                                              | A Python data visualization library based on matplotlib                                                 |
+| [Statannotations](https://github.com/trevismd/statannotations)                      | Add statistical significance annotations on seaborn plots.                                              |
+| [Vedo](https://vedo.embl.es/)                                                       | A python module for scientific analysis of 3D objects based on VTK and Numpy                            |
+| *Model Trials*                                                                      |
+| [WandB](https://wandb.ai/site)                                                      | A tool for visualizing and tracking your machine learning experiments.                                  |
+| [Optuna](https://optuna.org/)                                                       | A hyperparameter optimization framework                                                                 |
+| [Psutils](https://github.com/giampaolo/psutil)                                      | Cross-platform lib for process and system monitoring in Python                                          |
+| [Torchinfo](https://github.com/TylerYep/torchinfo)                                  | View model summaries in PyTorch                                                                         |
+| *Scientific Computing*                                                              |                                                                                                         |
+| [NumPy](https://numpy.org/)                                                         | Fundamental package for scientific computing with Python.                                               |
+| [SciPy](https://scipy.org/)                                                         | An open-source software for mathematics, science, and engineering                                       |
+| *GPU Acceleration*                                                                  |                                                                                                         |
+| [CuPy](https://cupy.dev/)                                                           | NumPy & SciPy for GPU                                                                                   |
+| [TensorRT](https://developer.nvidia.com/tensorrt)                                   | TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators. |
+| *Computer Simulation*                                                               |                                                                                                         |
+| [Gym](https://gym.openai.com/)                                                      | A toolkit for developing and comparing reinforcement learning algorithms                                |
 
 ## <span id = "journal">JOURNALS & CONFERENCES</span>
 
-| Journal | IF |
-| :- | -: |
-|[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) | 14.4 |
-|[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)| 	7.5 |
-|[Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)|7.7|
-|[Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) | 6.1 | 
-|[Engineering](https://www.journals.elsevier.com/engineering/) | 12.8 | 
-|[Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)|3.6|
-|[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)| 4.0 | 
-|[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience) | 4.3 | 
-|[Frontiers in Radiology](https://www.frontiersin.org/journals/radiology) | - | 
-|[Journal of Machine Learning Research](https://www.jmlr.org/)| 6 | 
-|[Journal of Cardiovascular Magnetic Resonance](https://jcmr-online.biomedcentral.com/)|6.4|
-|[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/) | 7.7 | 
-|[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | - | 
-|[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/) | 4.6 | 
-|[IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) | 5.4 | 
-|[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | 11.8 | 
-|[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)| 11.9| 
-|[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)|10.6|
-|[IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) | 10.6 | 
-|[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | 10.4 | 
-|[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 23.6 | 
-|[International Journal of Computer Vision](https://www.springer.com/journal/11263) | 19.5 | 
-|[Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/) |28.1| 
-|[Nature Communications](https://www.nature.com/ncomms/)| 16.6 | 
-|[Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 23.8 | 
-|[Nature Medicine](https://www.nature.com/nm/) | 82.9 | 
-|[Nature Methods](https://www.nature.com/nmeth/) | 	48.0 | 
-|[Nature Neuroscience](https://www.nature.com/neuro/) |	25.0 | 
-|[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 10.9 | 
-|[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209) | 3.8 | 
-|[Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | 7.8 |
-|[Neurocomputing](https://www.journals.elsevier.com/neurocomputing) | 	6.0 | 
-|[NeuroImage](https://www.journals.elsevier.com/neuroimage) | 5.7 | 
-|[NPJ Digital Medicine](https://www.nature.com/npjdigitalmed/)| 15.2 |
-|[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 8.0 | 
-|[Progress in Biomedical Engineering](https://iopscience.iop.org/journal/2516-1091)| 4.7|
-|[Radiology](https://pubs.rsna.org/journal/radiology) | 19.7 | 
+| Journal                                                                                                                                                                |    IF |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------:|
+| [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence)                                                                                   |  14.4 |
+| [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)                                                       |   7.5 |
+| [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)                                                           |   7.7 |
+| [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine)                                         |   6.1 | 
+| [Engineering](https://www.journals.elsevier.com/engineering/)                                                                                                          |  12.8 | 
+| [European Heart Journal - Cardiovascular Imaging](https://academic.oup.com/ehjcimaging)                                                                                |   6.3 |
+| [Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)                                                                   |   3.6 |
+| [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)                                                                   |   4.0 | 
+| [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)                                                                                         |   4.3 | 
+| [Frontiers in Radiology](https://www.frontiersin.org/journals/radiology)                                                                                               |     - | 
+| [Journal of Machine Learning Research](https://www.jmlr.org/)                                                                                                          |     6 | 
+| [Journal of Cardiovascular Magnetic Resonance](https://jcmr-online.biomedcentral.com/)                                                                                 |   6.4 |
+| [IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/)                                                                                        |   7.7 | 
+| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)                                                       |     - | 
+| [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/)                                                                                              |   4.6 | 
+| [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)                                                         |   5.4 | 
+| [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)                                                                   |  11.8 | 
+| [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)                                                                      |  11.9 | 
+| [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)                                                                   |  10.6 |
+| [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/)                                                                                                      |  10.6 | 
+| [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)                                  |  10.4 | 
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)                                          |  23.6 | 
+| [International Journal of Computer Vision](https://www.springer.com/journal/11263)                                                                                     |  19.5 | 
+| [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/)                                                                                                  |  28.1 | 
+| [Nature Communications](https://www.nature.com/ncomms/)                                                                                                                |  16.6 | 
+| [Nature Machine Intelligence](https://www.nature.com/natmachintell/)                                                                                                   |  23.8 | 
+| [Nature Medicine](https://www.nature.com/nm/)                                                                                                                          |  82.9 | 
+| [Nature Methods](https://www.nature.com/nmeth/)                                                                                                                        |  48.0 | 
+| [Nature Neuroscience](https://www.nature.com/neuro/)                                                                                                                   |  25.0 | 
+| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)                                                                                     |  10.9 | 
+| [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)                                                                                               |   3.8 | 
+| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)                                                                                               |   7.8 |
+| [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)                                                                                                     |   6.0 | 
+| [NeuroImage](https://www.journals.elsevier.com/neuroimage)                                                                                                             |   5.7 | 
+| [NPJ Digital Medicine](https://www.nature.com/npjdigitalmed/)                                                                                                          |  15.2 |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)                                                                                           |   8.0 | 
+| [Progress in Biomedical Engineering](https://iopscience.iop.org/journal/2516-1091)                                                                                     |   4.7 |
+| [Radiology](https://pubs.rsna.org/journal/radiology)                                                                                                                   |  19.7 | 
 
-| Conference | Abbr |
-| :- | :- |
-|AAAI Conference on Artificial Intelligence | AAAI|
-|ACM International Conference on Multimedia |ACM MM |
-|Asian Conference on Computer Vision|ACCV|
-|British Machine Vision Conference|BMVC|
-|Conference on Computer Vision and Pattern Recognition | CVPR |
-|Conference on Neural Information Processing Systems|NeurIPS|
-|European Conference on Computer Vision|ECCV|
-|International Conference on Computer Vision | ICCV |
-|International Conference on Learning Representations|ICLR|
-|International Conference on Machine Learning| ICML |
-|International Conference on Medical Image Computing and Computer Assisted Intervention| MICCAI |
-|International Joint Conference on Artificial Intelligence| IJCAI|
-|International Symposium on Biomedical Imaging|ISBI|
-|Medical Imaging with Deep Learning| MIDL |
+| Conference                                                                             | Abbr    |
+|:---------------------------------------------------------------------------------------|:--------|
+| AAAI Conference on Artificial Intelligence                                             | AAAI    |
+| ACM International Conference on Multimedia                                             | ACM MM  |
+| Asian Conference on Computer Vision                                                    | ACCV    |
+| British Machine Vision Conference                                                      | BMVC    |
+| Conference on Computer Vision and Pattern Recognition                                  | CVPR    |
+| Conference on Neural Information Processing Systems                                    | NeurIPS |
+| European Conference on Computer Vision                                                 | ECCV    |
+| International Conference on Computer Vision                                            | ICCV    |
+| International Conference on Learning Representations                                   | ICLR    |
+| International Conference on Machine Learning                                           | ICML    |
+| International Conference on Medical Image Computing and Computer Assisted Intervention | MICCAI  |
+| International Joint Conference on Artificial Intelligence                              | IJCAI   |
+| International Symposium on Biomedical Imaging                                          | ISBI    |
+| Medical Imaging with Deep Learning                                                     | MIDL    |
 
 ## <span id = "Milestone">DATASETS</span>
 ***Heart***:
