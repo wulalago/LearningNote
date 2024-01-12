@@ -23,8 +23,7 @@
 - [*Denoising Diffusion Implicit Models. ICLR 2021*](https://openreview.net/forum?id=St1giarCHLP)
 - [*Improved Denoising Diffusion Probabilistic Models. ICML 2021*](https://proceedings.mlr.press/v139/nichol21a.html)
 - [*High-Resolution Image Synthesis with Latent Diffusion Models. CVPR 2022*](https://ommer-lab.com/research/latent-diffusion-models/)
-- [*Diffusion Autoencoders: Toward a Meaningful and Decodable Representation. CVPR 2022*](https://diff-ae.github.io/) 
-- [*PhysDiff: Physics-Guided Human Motion Diffusion Model. arXiv 2022*](https://nvlabs.github.io/PhysDiff/)
+- [*Diffusion Autoencoders: Toward a Meaningful and Decodable Representation. CVPR 2022*](https://diff-ae.github.io/)
 
 ## Generative Adversarial Network
 - [*Generative Adversarial Networks. NIPS 2014*](https://arxiv.org/abs/1406.2661)
