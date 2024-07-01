@@ -49,50 +49,56 @@
 
 ## <span id = "journal">JOURNALS & CONFERENCES</span>
 
-| Journals                                                          |  IF   |
-|:------------------------------------------------------------------|:-----:|
-| **Nature series**                                                 |   -   |
-| Nature Medicine                                                   | 82.9  |
-| Nature Methods                                                    | 48.0  |
-| Nature Biomedical Engineering                                     | 28.1  |
-| Nature Machine Intelligence                                       | 23.8  |
-| Nature Communications                                             | 16.6  |
-| NPJ Digital Medicine                                              | 15.2  |
-| **IEEE series**                                                   |   -   |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence    | 23.6  |
-| IEEE Transactions on Artificial Intelligence                      |   -   | 
-| IEEE Transactions on Cybernetics                                  | 11.8  | 
-| IEEE Transactions on Neural Networks and Learning Systems         | 10.4  | 
-| IEEE Transactions on Image Processing                             | 10.6  |
-| IEEE Transactions on Industrial Informatics                       | 12.3  |
-| IEEE Transactions on Medical Imaging                              | 10.6  |
-| IEEE Journal of Biomedical And Health Informatics                 |  7.7  |
-| IEEE Transactions on Biomedical Engineering                       |  4.6  | 
-| IEEE Transactions on Computational Imaging                        |  5.4  |
-| **Elsevier series**                                               |   -   |
-| Artificial Intelligence                                           | 14.4  |
-| Engineering                                                       | 12.8  | 
-| Medical Image Analysis                                            | 10.9  | 
-| Pattern Recognition                                               |  8.0  | 
-| Neural Networks                                                   |  7.8  |
-| Artificial Intelligence in Medicine                               |  7.5  |
-| Neurocomputing                                                    |  6.0  | 
-| NeuroImage                                                        |  5.7  |
-| Computers in Biology and Medicine                                 |  7.7  |
-| Computer Methods and Programs in Biomedicine                      |  6.1  |
-| **Others**                                                        |   -   |
-| European Heart Journal                                            | 39.3  |
-| Radiology                                                         | 19.7  | 
-| International Journal of Computer Vision                          | 19.5  |
-| Journal of Machine Learning Research                              |   6   | 
-| European Heart Journal - Cardiovascular Imaging                   |  6.3  |
-| Journal of Cardiovascular Magnetic Resonance                      |  6.4  |
-| Medical Physics                                                   |  3.8  |
-| Frontiers in Cardiovascular Medicine                              |  3.6  |
-| Frontiers in Artificial Intelligence                              |  4.0  | 
-| Frontiers in Neuroscience                                         |  4.3  | 
-| Frontiers in Radiology                                            |   -   |
-| Progress in Biomedical Engineering                                |  4.7  |
+| Journals                                                       |  IF  |
+|:---------------------------------------------------------------|:----:|
+| **Nature Portfolio**                                           |  -   |
+| Nature Medicine                                                | 58.7 |
+| Nature Methods                                                 | 36.1 |
+| Nature Biomedical Engineering                                  | 26.8 |
+| Nature Machine Intelligence                                    | 18.8 |
+| Nature Communications                                          | 14.7 |
+| npj Digital Medicine                                           | 12.4 |
+| **IEEE**                                                       |  -   |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence | 20.8 |
+| IEEE Transactions on Artificial Intelligence                   |  -   |
+| IEEE Transactions on Industrial Informatics                    | 11.7 |
+| IEEE Transactions on Image Processing                          | 10.8 |
+| IEEE Transactions on Neural Networks and Learning Systems      | 10.2 |
+| IEEE Transactions on Cybernetics                               | 9.4  | 
+| IEEE Transactions on Medical Imaging                           | 8.9  |
+| IEEE Journal of Biomedical And Health Informatics              | 6.7  |
+| IEEE Transactions on Instrumentation and Measurement           | 5.6  |
+| IEEE Transactions on Biomedical Engineering                    | 4.4  | 
+| IEEE Transactions on Computational Imaging                     | 4.2  |
+| **Elsevier**                                                   |  -   |
+| Medical Image Analysis                                         | 10.7 | 
+| Pattern Recognition                                            | 7.5  |
+| Computers in Biology and Medicine                              | 7.0  |
+| Artificial Intelligence in Medicine                            | 6.1  |
+| Neural Networks                                                | 6.0  |
+| Neurocomputing                                                 | 5.5  |
+| Artificial Intelligence                                        | 5.1  |
+| Computer Methods and Programs in Biomedicine                   | 4.9  |
+| **Lancet**                                                     |  -   |
+| Lancet Digital Health                                          | 23.8 |
+| eClinicalMedicine                                              | 9.6  |
+| **RSNA**                                                       |  -   |
+| Radiology                                                      | 12.1 | 
+| Radiology: Artificial Intelligence                             | 8.1  |
+| **Springer Link**                                              |  -   |
+| International Journal of Computer Vision                       | 11.6 |
+| European Radiology                                             | 4.7  |
+| **Others**                                                     |  -   |
+| European Heart Journal - Cardiovascular Imaging                | 6.7  |
+| Progress in Biomedical Engineering                             | 5.0  |
+| **Clinical Journal**                                           |  -   |
+| Lancet                                                         | 98.4 |
+| New England Journal of Medicine                                | 96.2 |
+| British Medical Journal                                        | 93.6 |
+| Journal of the American Medical Association                    | 63.1 |
+| European Heart Journal                                         | 37.6 |
+| Circulation                                                    | 35.5 |
+
 
 
 | Conference                                                                             | Abbr    |
