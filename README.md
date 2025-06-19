@@ -19,6 +19,9 @@
 [SimpleITK](https://simpleitk.org/),
 [TorchIO](https://torchio.readthedocs.io/)
 
+- **Data Synthesis:**  
+[SDV](https://github.com/sdv-dev/SDV)
+
 - **Computational Geometry:**  
 [PyVista](https://docs.pyvista.org/), 
 [Vedo](https://vedo.embl.es/)
@@ -52,52 +55,52 @@
 | Journals                                                       |  IF  |
 |:---------------------------------------------------------------|:----:|
 | **Nature Portfolio**                                           |  -   |
-| Nature Medicine                                                | 58.7 |
-| Nature Methods                                                 | 36.1 |
-| Nature Biomedical Engineering                                  | 26.8 |
-| Nature Machine Intelligence                                    | 18.8 |
-| Nature Communications                                          | 14.7 |
-| npj Digital Medicine                                           | 12.4 |
+| Nature Medicine                                                | 50.0 |
+| Nature Methods                                                 | 32.1 |
+| Nature Biomedical Engineering                                  | 26.6 |
+| Nature Machine Intelligence                                    | 23.9 |
+| Nature Communications                                          | 15.7 |
+| npj Digital Medicine                                           | 15.1 |
 | **IEEE**                                                       |  -   |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence | 20.8 |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence | 18.6 |
 | IEEE Transactions on Artificial Intelligence                   |  -   |
-| IEEE Transactions on Industrial Informatics                    | 11.7 |
-| IEEE Transactions on Image Processing                          | 10.8 |
-| IEEE Transactions on Neural Networks and Learning Systems      | 10.2 |
-| IEEE Transactions on Cybernetics                               | 9.4  | 
-| IEEE Transactions on Medical Imaging                           | 8.9  |
-| IEEE Journal of Biomedical And Health Informatics              | 6.7  |
+| IEEE Transactions on Image Processing                          | 13.7 |
+| IEEE Transactions on Cybernetics                               | 10.5 | 
+| IEEE Transactions on Industrial Informatics                    | 9.9  |
+| IEEE Transactions on Medical Imaging                           | 9.8  |
+| IEEE Transactions on Neural Networks and Learning Systems      | 8.9  |
+| IEEE Journal of Biomedical And Health Informatics              | 6.8  |
 | IEEE Transactions on Instrumentation and Measurement           | 5.6  |
-| IEEE Transactions on Biomedical Engineering                    | 4.4  | 
-| IEEE Transactions on Computational Imaging                     | 4.2  |
+| IEEE Transactions on Biomedical Engineering                    | 4.5  | 
 | **Elsevier**                                                   |  -   |
-| Medical Image Analysis                                         | 10.7 | 
-| Pattern Recognition                                            | 7.5  |
-| Computers in Biology and Medicine                              | 7.0  |
-| Artificial Intelligence in Medicine                            | 6.1  |
-| Neural Networks                                                | 6.0  |
-| Neurocomputing                                                 | 5.5  |
-| Artificial Intelligence                                        | 5.1  |
-| Computer Methods and Programs in Biomedicine                   | 4.9  |
+| Medical Image Analysis                                         | 11.8 | 
+| Pattern Recognition                                            | 7.6  |
+| Computers in Biology and Medicine                              | 6.3  |
+| Neural Networks                                                | 6.3  |
+| Artificial Intelligence in Medicine                            | 6.2  |
+| Computer Methods and Programs in Biomedicine                   | 4.8  |
 | **Lancet**                                                     |  -   |
-| Lancet Digital Health                                          | 23.8 |
-| eClinicalMedicine                                              | 9.6  |
+| Lancet Digital Health                                          | 24.1 |
+| eClinicalMedicine                                              | 10.0 |
 | **RSNA**                                                       |  -   |
-| Radiology                                                      | 12.1 | 
-| Radiology: Artificial Intelligence                             | 8.1  |
+| Radiology                                                      | 15.2 | 
+| Radiology: Artificial Intelligence                             | 13.2 |
 | **Springer Link**                                              |  -   |
-| International Journal of Computer Vision                       | 11.6 |
+| International Journal of Computer Vision                       | 9.3  |
 | European Radiology                                             | 4.7  |
 | **Others**                                                     |  -   |
+| JACC - Cardiovascular Imaging                                  | 15.2 |
 | European Heart Journal - Cardiovascular Imaging                | 6.7  |
+| European Heart Journal - Digital Health                        | 4.4  |
 | Progress in Biomedical Engineering                             | 5.0  |
 | **Clinical Journal**                                           |  -   |
-| Lancet                                                         | 98.4 |
-| New England Journal of Medicine                                | 96.2 |
-| British Medical Journal                                        | 93.6 |
-| Journal of the American Medical Association                    | 63.1 |
-| European Heart Journal                                         | 37.6 |
-| Circulation                                                    | 35.5 |
+| Lancet                                                         | 88.5 |
+| New England Journal of Medicine                                | 78.5 |
+| Journal of the American Medical Association                    | 55.0 |
+| British Medical Journal                                        | 42.7 |
+| Circulation                                                    | 38.6 |
+| European Heart Journal                                         | 35.6 |
+
 
 
 
