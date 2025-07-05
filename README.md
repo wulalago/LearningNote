@@ -119,13 +119,6 @@
 | International Symposium on Biomedical Imaging                                          | ISBI    |
 | Medical Imaging with Deep Learning                                                     | MIDL    |
 
-## <span id = "Milestone">PAPERS</span>
-- [**Foundational Technologies**](Papers/backbone.md)
-- [**Generative Models**](Papers/generation.md)
-- [**Registration**](Papers/registration.md)
-- [**Graph Neural Network**](Papers/gnn.md)
-- [**Nature Series Papers**](Papers/nature.md)
-
 
 
 
